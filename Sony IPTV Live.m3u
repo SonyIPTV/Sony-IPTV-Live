@@ -43,18 +43,28 @@ https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
 #EXTINF:-1 ,
 
 ######################### FTP 📺 ##########################
+#EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/18.png",Sports 18 HD 📶 𝗙𝗧𝗣 Unique 📶
+http://11plus.live/live/18/index.m3u8
 #EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD 📶 𝗙𝗧𝗣 Unique 📶
 http://11plus.live/live/ptv/index.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="FTP 📺", T Sports Akash DTH 📶 𝗙𝗧𝗣 Unique 📶 
+#EXTINF:0, tvg-logo="http://11plus.live/img/tsports.jpg" group-title="FTP 📺", T Sports Akash DTH 📶 𝗙𝗧𝗣 Unique 📶 
 http://172.17.50.112/live/antbd1002/index.m3u8
-#EXTINF:0, tvg-logo="https://i.postimg.cc/4Ns0MZKb/Star-Sports-1-HD.png" group-title="FTP 📺", Star Sports 📶 𝗙𝗧𝗣 Unique 📶 
-http://172.17.50.112/live/fifa2022/index.m3u8 
-#EXTINF:0, #EXTINF:-1 tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="FTP 📺",🔲 T Sports SD 📶 𝗙𝗧𝗣 Unique 📶 
-http://11plus.live/live/tsports/index.m3u8
 #EXTINF:0, tvg-logo="https://i.postimg.cc/4Ns0MZKb/Star-Sports-1-HD.png" group-title="FTP 📺", Star Sports 1 📶 𝗙𝗧𝗣 Unique 📶 
+http://172.17.50.112/live/fifa2022/index.m3u8 
+#EXTINF:0, tvg-logo="https://i.postimg.cc/4Ns0MZKb/Star-Sports-1-HD.png" group-title="FTP 📺", Star Sports 1 HD 📶 𝗙𝗧𝗣 Unique 📶 
 http://172.17.50.112/live/antbd1001/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starsports2.png" group-title="FTP 📺", ✅ STAR SPORTS 2 HD ✅ 🇮🇳
+#EXTINF:0, tvg-logo="https://i.postimg.cc/4Ns0MZKb/Star-Sports-1-HD.png" group-title="FTP 📺", Star Sports 2 HD 📶 𝗙𝗧𝗣 Unique 📶 
 http://11plus.live/live/starsports2/index.m3u8
+#EXTINF:0, #EXTINF:-1 tvg-logo="http://11plus.live/img/tsports.jpg" group-title="FTP 📺",🔲 T Sports SD 📶 𝗙𝗧𝗣 Unique 📶 
+http://11plus.live/live/tsports/index.m3u8
+#EXTINF:0, tvg-logo="http://11plus.live/img/Star_Sports_Select_1_HD.jpg" group-title="FTP 📺", Star_Sport_Select 1 HD 📶 𝗙𝗧𝗣 Unique 📶 
+http://11plus.live/live/Star_Sport_Select1HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://11plus.live/img/ster-sport-2hd.png" group-title="FTP 📺", ✅ STAR SPORTS 2 HD ✅ 🇮🇳
+http://11plus.live/live/starsports2/index.m3u8
+#EXTINF:-1 tvg-logo="http://11plus.live/img/sony-2.png" group-title="FTP 📺", ✅ Ten 2 HD ✅ 🇮🇳
+http://11plus.live/live/sonyten2/index.m3u8  
+#EXTINF:-1 tvg-logo="http://11plus.live/img/sony-5.pnghttp://11plus.live/img/sony-5.png" group-title="FTP 📺", ✅ Ten 5 HD ✅ 🇮🇳
+http://11plus.live/live/sonysix/index.m3u8  
 #EXTINF:0, tvg-logo="http://11plus.live/img/tsports.jpg" group-title="FTP 📺", T Sports HD 📶Unique📶 
 https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=test
 
