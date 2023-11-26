@@ -1,0 +1,90 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
+http://10.111.200.30/live/feed1001/index.m3u8
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1 🇹🇭
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2 🇹🇭
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="http://11plus.live/img/18.png", Sports 18 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_131634_eng=131600-video=2906400.m3u8
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", True Sport2 Sports HD
+https://ctrl.laotv.la/live/TSport2/manifest.mpd
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", USA Sports HD 
+https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Sports TV 1 HD Portugal 
+https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Sports TV HD Portugal 
+https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Sports TV HD 2 Portugal 
+https://headlinessportsfoot.com/chunklist/hlsch13.m3u8
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/2osPQke.jpg", Super Sports HD EPL
+https://worknew.crystalnew.pro/live/n-4/chunks.m3u8 
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/XPEdAKh.jpg", LA LIGA HD 
+https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/XPEdAKh.jpg", Premier Sports HD 2
+https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+######################### FTP 📺 ##########################
+#EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD 📶 𝗙𝗧𝗣 Unique 📶
+http://11plus.live/live/ptv/index.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="FTP 📺", T Sports Akash DTH 📶 𝗙𝗧𝗣 Unique 📶 
+http://172.17.50.112/live/antbd1002/index.m3u8
+#EXTINF:0, tvg-logo="https://i.postimg.cc/4Ns0MZKb/Star-Sports-1-HD.png" group-title="FTP 📺", Star Sports 📶 𝗙𝗧𝗣 Unique 📶 
+http://172.17.50.112/live/fifa2022/index.m3u8 
+#EXTINF:0, #EXTINF:-1 tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="FTP 📺",🔲 T Sports SD 📶 𝗙𝗧𝗣 Unique 📶 
+http://11plus.live/live/tsports/index.m3u8
+#EXTINF:0, tvg-logo="https://i.postimg.cc/4Ns0MZKb/Star-Sports-1-HD.png" group-title="FTP 📺", Star Sports 1 📶 𝗙𝗧𝗣 Unique 📶 
+http://172.17.50.112/live/antbd1001/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.bapacom.net/assets/images/starsports2.png" group-title="FTP 📺", ✅ STAR SPORTS 2 HD ✅ 🇮🇳
+http://11plus.live/live/starsports2/index.m3u8
+#EXTINF:0, tvg-logo="http://11plus.live/img/tsports.jpg" group-title="FTP 📺", T Sports HD 📶Unique📶 
+https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=test
