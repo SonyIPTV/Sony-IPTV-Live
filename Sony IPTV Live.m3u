@@ -7,6 +7,10 @@ https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/18.png", Sports 18 HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_131634_eng=131600-video=2906400.m3u8
 
+
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/18.png", Sports 18 HD
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_eng_indvsaus_t2002/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Cricket 🏏", ✅ Astro Cricket 1 HD ✅
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/157565
 
