@@ -84,6 +84,29 @@ https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
 
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Ssc sport extra 1 ✅
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_Extra_1.m3u8
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅Ssc sport extra 2 ✅
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_Extra_2.m3u8
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅Ssc sport extra 3 ✅
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_Extra_3.m3u8
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅Ssc Sport 1 ✅
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_1.m3u8
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅Ssc sport 2 ✅
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_2.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Ssc sport 3 ✅
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_3.m3u8
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅Ssc sport 4 ✅
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_4.m3u8
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Ssc sport 5 ✅
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_5.m3u8
+
 #EXTINF:-1, group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1 🇹🇭
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 
