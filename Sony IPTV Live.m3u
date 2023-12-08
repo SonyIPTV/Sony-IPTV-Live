@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Live Match TV 📶 HD
 https://live.himel-himu@1rdk.short.gy/TSports-HD-Bdix/hls/Himel-Op.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Live Match 📶 HD
+http://103.141.2.37:25461/web/web/588
+
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ ⭐⭐🟢 TNT Sports 1 HD 🟢 ⭐⭐ 💥📺💥 ✅
 https://freehdgames.lol/chunklist/hlsch1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ ⭐⭐🟢 TNT Sports 1 HD 🟢 ⭐⭐ 💥📺💥 ✅
@@ -32,14 +35,9 @@ https://edge3-moblive.yuppcdn.net/transsd/smil:eventtvextra.smil/playlist.m3u8
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/18.png", Sports 18 HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_131634_eng=131600-video=2906400.m3u8
 
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/18.png", Sports 18 Khel HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/18.png", Sports 18 HD Eng
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099801/hd_akamai_iosmob_avc_cam02_indvsaus_t2003/master.m3u8
-
-
-
-#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/18.png", Sports 18 HD Ban
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099769/hd_akamai_iosmob_avc_ben_indvsaus_t2003/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Cricket 🏏", ✅ Astro Cricket 1 HD ✅
@@ -54,14 +52,10 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD B ▶️
-https://cdn.0123stream.com/PTVSports/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports▶️Himel
-https://ch.bdtubelive.xyz/ayna.m3u8?id=46
-
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports▶️3
 http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/16633
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports▶️
+http://175.107.244.52:4457/play/a08g/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png", Ten Sports▶️
 http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/151863
@@ -103,28 +97,9 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
 
-#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Ssc sport extra 1 ✅
-https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_Extra_1.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Saudi Pro League SSC 1 ✅
+https://af.ayassport.ir/hls2/ssc1.m3u8
 
-#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅Ssc sport extra 2 ✅
-https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_Extra_2.m3u8
-
-#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅Ssc sport extra 3 ✅
-https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_Extra_3.m3u8
-
-#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅Ssc Sport 1 ✅
-https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_1.m3u8
-
-#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅Ssc sport 2 ✅
-https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_2.m3u8
-#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Ssc sport 3 ✅
-https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_3.m3u8
-
-#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅Ssc sport 4 ✅
-https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_4.m3u8
-
-#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Ssc sport 5 ✅
-https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_5.m3u8
 
 #EXTINF:-1, group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1 🇹🇭
 https://ctrl.laotv.la/live/TSport1/index.m3u8
