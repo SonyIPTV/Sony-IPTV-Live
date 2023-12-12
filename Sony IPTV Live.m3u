@@ -66,6 +66,12 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Fox Sports 1 📶 HD 
+https://247b.mrgamingstreams.com/mrgamingfs1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Fox Sports 2 📶 HD 
+https://247b.mrgamingstreams.com/mrgamingfs2.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 SUPER SPORTS VARIETY 2 📶 HD 
 https://mlb.mrgamingstreams.com/variety2.m3u8
 
@@ -116,6 +122,8 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Dubai Sports TV ✅
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Saudi Pro League SSC 1 ✅
 https://af.ayassport.ir/hls2/ssc1.m3u8
