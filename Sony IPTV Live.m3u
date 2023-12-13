@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Live Match TV 2 📶 HD
 https://hls.streambtw.com/live/stream_e1.m3u8
 
@@ -11,15 +9,22 @@ https://live.himel-himu@1rdk.short.gy/TSports-HD-Bdix/hls/Himel-Op.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Live Match 📶 HD
 http://103.141.2.37:25461/web/web/588
 
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Star Sports 2 📶 HD
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ ⭐⭐🟢 TNT Sports 1 HD 🟢 ⭐⭐ 💥📺💥 ✅
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ ⭐⭐🟢 TNT Sports 1 HD 🟢📺✅
 https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ ⭐⭐🟢 TNT Sports 1 HD 🟢📺✅
+https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 TNT Sport 2 📶 HD
 https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 TNT Sport 3 📶 HD
 https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 TNT Sport 3 📶 HD
+https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 TNT Sport 4 📶 HD
 https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 
@@ -28,6 +33,10 @@ https://freehdgames.lol/chunklist/hlsch1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ ⭐⭐🟢 TNT Sports 1 HD 🟢 ⭐⭐ 💥📺💥 ✅
 http://142.54.172.138/premium31/playlist.m3u8?ddd=Pl5NHMeCwA
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 TNT Sport 2 📶 HD
+https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 TNT Sport 3 📶 HD
+https://headlinessportsfoot.com/chunklist/hlsch16.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🟢 Sukan RTM 🟢 Malaiysia
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
@@ -130,11 +139,29 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
+
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Dubai Sports TV ✅
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Saudi Pro League SSC 1 ✅
 https://af.ayassport.ir/hls2/ssc1.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅Sky Sports Football 
+https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅BEIN Sports Max 9 
+https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅BEIN Sports Max 5
+https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅DAZN Sports
+https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅DAZN Sports Eleven
+https://headlinessportsfoot.com/chunklist/hlsch10.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅TNT Sports
+https://headlinessportsfoot.com/chunklist/hlsch12.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅CBC Sports
+https://headlinessportsfoot.com/chunklist/hlsch13.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅Sports 1 Pur
+https://headlinessportsfoot.com/chunklist/hlsch20.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅Sports 2 Pur
+https://headlinessportsfoot.com/chunklist/hlsch18.m3u8
 
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅BEIN sports 1 
 https://edge1.laotv.la/live/Bsport1/index.m3u8
