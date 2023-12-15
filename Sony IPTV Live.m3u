@@ -22,7 +22,7 @@ https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Super Sports Cricket
-http://142.54.172.138/premium368/playlist.m3u8?ddd=Pl5NHMeCwA
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/11637
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Star Sports 1 HD 📶
 http://103.109.56.116/live/skyfeed1002/index.m3u8
@@ -154,6 +154,11 @@ http://10.111.200.30/live/feed1001/index.m3u8
 https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53704.m3u8
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Ziggo Sport Football 2 ✅
 https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53700.m3u8
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Super Sport Football ✅
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/38575
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Astro SuperSport 2 ✅
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/157556
 
 EXTINF:-1 tvg-logo="" group-title="Football 🛜",🔲 Sony LIV 📶 HD
 https://dai.google.com/linear/hls/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
