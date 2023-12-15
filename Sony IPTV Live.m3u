@@ -125,40 +125,35 @@ http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/151863
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Sky Sports Cricket 📶 HD
 https://247b.mrgamingstreams.com/mrgamingcricket.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
-
 #EXTINF:0, #EXTINF:-1 tvg-logo="https://toffeelive.com/assets/images/toffee-icon.png" group-title="Cricket 🏏",🔲Cicklife Max 🔲 📶
 http://176.119.29.52:80/live.ts?channelId=125423&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="Cricket 🏏", T Sports
 https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="Cricket 🏏", Gazi TV
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
 
 
-#EXTINF:-1 tvg-id="GDrive.Us" tvg-name="sports.18 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" group-title="Sports Channels",Sports 18
+#EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 11667728321.png" group-title="Sports Channels",Sony Sports 1 HD
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-1-live
+#EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 21667728105.png" group-title="Sports Channels",Sony Sports 2 HD
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-2-live
+#EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 31667728117.png" group-title="Sports Channels",Sony Sports 3 HD
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-3-live
+#EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 51667728306.png" group-title="Sports Channels",Sony Sports 5 HD
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-5
+#EXTINF:-1 tvg-logo="http://11plus.live/img/18.png" group-title="Sports Channels",Sports 18
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_131634_eng=131600-video=2906400.m3u8
-#EXTINF:-1 tvg-id="GDrive.Us" tvg-name="sonyliv.org" tvg-logo="https://hotflixbd.com/uploads/tv_image/sm/ptv-sports.png" group-title="Sports Channels",PTV Sports HD
-https://cdn.sajeeb.online/PTV-Sports/tracks-v1a1/mono.m3u8?token=pagla
-#EXTINF:-1 tvg-id="GDrive.Us" tvg-name="sony.s1 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646" group-title="Sports Channels",Sony Sports 1 HD
-https://cdn.sajeeb.online/Sony-Ten-1-hd/tracks-v1a1/mono.m3u8?token=pagla
-#EXTINF:-1 tvg-id="GDrive.Us" tvg-name="sonyliv.org" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Sports Channels",Sony Sports 2 HD
-https://cdn.sajeeb.online/Sony-Ten-2-hd/tracks-v1a1/mono.m3u8?token=pagla
-#EXTINF:-1 tvg-id="GDrive.Us" tvg-name="sonyliv.org" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports Channels",Sony Sports 3 HD
-https://cdn.sajeeb.online/Sony-Ten-3-hd/tracks-v1a1/mono.m3u8?token=pagla
-#EXTINF:-1 tvg-id="GDrive.Us" tvg-name="sonyliv.org" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="Sports Channels",Sony Sports 4 HD
-https://cdn.sajeeb.online/Sony-Ten-4-hd/tracks-v1a1/mono.m3u8?token=pagla
-#EXTINF:-1 tvg-id="GDrive.Us" tvg-name="sonyliv.org" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Sports Channels",Sony Sports 5 HD
-https://cdn.sajeeb.online/Sony-Ten-5-hd/tracks-v1a1/mono.m3u8?token=pagla
-#EXTINF:-1 tvg-id="GDrive.Us" tvg-name="ssc1.co " tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/3ftgj11637160967.png" group-title="Sports Channels",SSC 1 HD
-https://af.ayassport.ir/hls2/ssc1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Ziggo Sport Football ✅
+https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53704.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Ziggo Sport Football 2 ✅
+https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53700.m3u8
 
 EXTINF:-1 tvg-logo="" group-title="Football 🛜",🔲 Sony LIV 📶 HD
 https://dai.google.com/linear/hls/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
@@ -193,6 +188,10 @@ https://edge1.laotv.la/live/Bsport1/index.m3u8
 
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅BEIN sports 2
 https://edge1.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https:\/\/seeklogo.com\/images\/B\/bein-sports-3-logo-42227D7D66-seeklogo.com.png", ✅BEIN sports 3
+https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅BEIN sports 4
+https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/61171.m3u8
 
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/e364dd59-562b-4157-a44a-c11c3b728557.jpeg", Bein Sports 1
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
