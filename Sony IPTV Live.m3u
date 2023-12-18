@@ -15,7 +15,7 @@ https://sports.yunyingtiandi.com/live/m32855346/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Star Sports 1 📶 HD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Sky Sports ✅
+#EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Sky Cricket ✅
 https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Star Sports 2 📶 HD
@@ -98,11 +98,6 @@ http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/157565
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="hhttp://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports 1 SD 🇮🇳 💥
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Fox Sports 1 📶 HD 
 https://247b.mrgamingstreams.com/mrgamingfs1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Fox Sports 2 📶 HD 
@@ -146,6 +141,7 @@ https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-3-live
 https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-5
 #EXTINF:-1 tvg-logo="http://11plus.live/img/18.png" group-title="Sports Channels",Sports 18
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_131634_eng=131600-video=2906400.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
@@ -322,3 +318,10 @@ http://11plus.live/live/sonysix/index.m3u8
 #EXTINF:0, tvg-logo="http://11plus.live/img/tsports.jpg" group-title="FTP 📺", T Sports HD 📶Unique📶 
 https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=test
 
+
+
+
+{"name":"Astro Cricket","link":"https:\/\/ddh2.webhd.ru\/ddh2\/premium370\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b7\/Astro_Cricket.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
+{"name":"FOX Cricket","link":"https:\/\/ddy5.webhd.ru\/ddy5\/premium369\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSA26xpAIdOiiwQCcC0yXgLOM4Rl2vXSsjDUA&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
+{"name":"Willow Cricket","link":"https:\/\/ddh2.webhd.ru\/ddh2\/premium346\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/www.dishpromotions.com\/wp-content\/uploads\/WLLOW-logo.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
+{"name":"Willow Xtra","link":"https:\/\/ddh2.webhd.ru\/ddh2\/premium598\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/sc.dish.com\/shared\/images\/station-logos\/WLXTR.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
