@@ -72,6 +72,8 @@ https://headlinessportsfoot.com/chunklist/hlsch16.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
+
+
 #EXTINF:-1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="Cricket 🏏", ✅ ⭐⭐🟢 T Sports 🟢 ⭐⭐ 💥📺💥 ✅
 https://live.himel-himu@1rdk.short.gy/TSports-HD-Bdix/hls/Himel-Op.m3u8
 
@@ -98,6 +100,8 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/in
 http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/157565
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Cricket 🏏", Astro Cricket HD 📶
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157565
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Cricket 🏏", Astro Cricket HD 📶
+http://myteve.online:8080/F12232/f23d27c1/157565
 
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports 1  🇮🇳 💥SD💥 ✅
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
@@ -154,7 +158,8 @@ http://10.111.200.30/live/feed1001/index.m3u8
 
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Premier Sports 1 ✅
 https://mlb.mrgamingstreams.com/hubprem.m3u8
-
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Astro SuperSport 3 ✅
+http://myteve.online:8080/F12232/f23d27c1/157557
 EXTINF:-1 tvg-logo="" group-title="Football 🛜",🔲 Sony LIV 📶 HD
 https://dai.google.com/linear/hls/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
 EXTINF:-1 tvg-logo="" group-title="Football 🛜",🔲 Sony LIV 1 📶 HD
