@@ -150,7 +150,9 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sp
 
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
-#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Football ✅
+
+
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Premier Sports 1 ✅
 https://mlb.mrgamingstreams.com/hubprem.m3u8
 
 EXTINF:-1 tvg-logo="" group-title="Football 🛜",🔲 Sony LIV 📶 HD
@@ -160,8 +162,10 @@ https://dai.google.com/linear/hls/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8
 
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Dubai Sports TV ✅
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Saudi Pro League SSC 1 ✅
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/3ftgj11637160967.png", ✅ Saudi Pro League SSC 1 ✅
 https://af.ayassport.ir/hls2/ssc1.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅Ayas Sports 
+https://stream.ayas.ir/hls2/ayas1.m3u8
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅Sky Sports Football 
 https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅BEIN Sports Max 9 
@@ -183,6 +187,10 @@ https://headlinessportsfoot.com/chunklist/hlsch18.m3u8
 
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅BEIN sports 1 
 https://edge1.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png", ✅BEIN sports 1 ENG 
+https://stream.ayas.ir/hls2/bein1en.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png", ✅BEIN sports 2 ENG
+https://stream.ayas.ir/hls2/bein2en.m3u8
 
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅BEIN sports 2
 https://edge1.laotv.la/live/Bsport2/index.m3u8
