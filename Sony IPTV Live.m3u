@@ -283,6 +283,21 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sp
 #EXTINF:-1, group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", True Sport2 Sports HD
 https://ctrl.laotv.la/live/TSport2/manifest.mpd
 
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Optus Sports HD 
+https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Optus Sports HD 
+https://hls.streambtw.com/live/stream_4.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Optus Sports HD
+https://hls.streambtw.com/live/stream_5.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Super Sports HD
+https://hls.streambtw.com/live/stream_8.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Football Sports HD
+https://hls.streambtw.com/live/stream_9.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Sky Sports News HD
+https://hls.streambtw.com/live/stream_1.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", USA Sports HD
+https://hls.streambtw.com/live/stream_3.m3u8
+
 
 #EXTINF:-1, group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", USA Sports HD 
 https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
