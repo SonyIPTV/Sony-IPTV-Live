@@ -54,9 +54,13 @@ https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
 https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1690027954/5712.png" group-title="Cricket 🏏",🔲 TNT Sport 3 📶 HD
 https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1690027954/5712.png" group-title="Cricket 🏏",🔲 TNT Sport 3 📶 HD
+https://hls.streambtw.com/live/stream_7.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="Cricket 🏏",🔲 TNT Sport 4 📶 HD
 https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="Cricket 🏏",🔲 TNT Sport 4 📶 HD
+https://hls.streambtw.com/live/stream_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Cricket 🏏", ✅ ⭐⭐🟢 TNT Sports 1 HD 🟢 ⭐⭐ 💥📺💥 ✅
 https://freehdgames.lol/chunklist/hlsch1.m3u8
@@ -211,6 +215,8 @@ https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
 https://ctrl.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
+https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier Football 3
