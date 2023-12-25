@@ -23,10 +23,6 @@ https://live.himel-himu@1rdk.short.gy/TSports-HD-Bdix/hls/Himel-Op.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Australia VS Pakistan 📶 HD
 https://sports.yunyingtiandi.com/live/m32855346/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", FOX Cricket 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/  https://ddy5.webhd.ru/ddy5/premium369/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Star Sports 1 📶 HD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
