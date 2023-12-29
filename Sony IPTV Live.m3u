@@ -2,8 +2,12 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Cricket 🏏",🔲 Green TV 📶 HD
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Nagorik TV 📶 HD
-https://cdn.sajeeb.online/cricket/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 USA TV 📶 HD
+https://gettvfree.tech/live/stream_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 USA TV 📶 HD
+https://freehdgames.lol/chunklist/hlsch1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲LIVE Event📶
+http://tv.cloudcdn.me/live/00:1A:79:04:ED:80/SN_1697176355/36128.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 RTA Sport 📶 HD
 https://hls.rtasport.live/hls/stream.m3u8
@@ -28,7 +32,7 @@ https://sportsleading.online/live/stream_e1.m3u8
 https://gettvfree.tech/live/stream_e1.m3u8
 
 #EXTINF:-1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="Cricket 🏏",🔲 Live Match 📶 HD
-https://live.himel-himu@1rdk.short.gy/TSports-HD-Bdix/hls/Himel-Op.m3u8
+https://aha--medek27259.repl.co/english/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Sky Cricket 📶 HD
 https://sports.yunyingtiandi.com/live/m32855346/playlist.m3u8
@@ -37,19 +41,16 @@ https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Star Sports 1 📶 HD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Star Sports 1 📶 HD
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w870549950_b596000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Star Sports 2 📶 HD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Super Sports Cricket
 http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/11637
 
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Star Sports 1 HD 📶
-http://103.109.56.116/live/skyfeed1002/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
-
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 B
 https://hls.streambtw.com/live/stream_e1.m3u8
 
@@ -75,12 +76,12 @@ https://hls.streambtw.com/live/stream_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Cricket 🏏", ✅ ⭐⭐🟢 TNT Sports 1 HD 🟢 ⭐⭐ 💥📺💥 ✅
 https://freehdgames.lol/chunklist/hlsch1.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Cricket 🏏", ✅ ⭐⭐🟢 TNT Sports 1 HD 🟢 ⭐⭐ 💥📺💥 ✅
 http://142.54.172.138/premium31/playlist.m3u8?ddd=Pl5NHMeCwA
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Cricket 🏏",🔲 TNT Sport 2 📶 HD
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Cricket 🏏",🔲TNT Sport 2 📶 HD
 https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1690027954/5712.png" group-title="Cricket 🏏",🔲 TNT Sport 3 📶 HD
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1690027954/5712.png" group-title="Cricket 🏏",🔲TNT Sport 3 📶 HD
 https://headlinessportsfoot.com/chunklist/hlsch16.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🟢 Sukan RTM 🟢 Malaiysia
@@ -166,10 +167,13 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sp
 
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
+
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Amazan Premier ✅
 https://mlb.mrgamingstreams.com/prem.m3u8
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Premier Sports 1 ✅
 https://mlb.mrgamingstreams.com/hubprem.m3u8
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅Premier Sports 1 ✅
+https://gettvfree.tech/live/stream_2.m3u8
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ True Premiere Football 1 ✅
 http://myteve.online:8080/F12232/f23d27c1/162591
 EXTINF:-1 tvg-logo="" group-title="Football 🛜",🔲 Sony LIV 📶 HD
