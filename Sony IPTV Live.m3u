@@ -2,12 +2,16 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Cricket 🏏",🔲 Green TV 📶 HD
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 USA TV 📶 HD
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Sports TV 📶 HD
 https://gettvfree.tech/live/stream_1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 USA TV 📶 HD
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Sports TV 📶 HD
 https://freehdgames.lol/chunklist/hlsch1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲LIVE Event📶
-http://tv.cloudcdn.me/live/00:1A:79:04:ED:80/SN_1697176355/36128.m3u8
+
+#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 
+https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Live Match TV 📶 HD
+https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
 
 #EXTINF:-1 tvg-id="A Sports" tvg-logo="https://i.postimg.cc/6QqyxBJB/download-19.jpg" group-title="Cricket 🏏",A Sports
 http://195.26.87.217/live?channelId=12217&deviceMac=00:1A:79:33:E9:41
@@ -21,24 +25,8 @@ http://195.26.87.217/live?channelId=301&deviceMac=00:1A:79:33:E9:41
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 RTA Sport 📶 HD
 https://hls.rtasport.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Live Match TV 1 📶 HD
-https://hls.streambtw.com/live/stream_e1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Live Match TV 📶 HD
-https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="Cricket 🏏",🔲 Fox Sports 501 📶 HD
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/279034
-
-#EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/WLLOW-logo.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 HD
-https://sports.jatiyatopic.xyz/master.php/willowusa.m3u8
-#EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/WLLOW-logo.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 HD
-https://hls.streambtw.com/live/stream_e1.m3u8
-#EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/WLLOW-logo.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 HD
-https://sportsleading.online/live/stream_e1.m3u8
-
-https://gettvfree.tech/live/stream_e1.m3u8
 
 #EXTINF:-1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="Cricket 🏏",🔲 Live Match 📶 HD
 https://aha--medek27259.repl.co/english/master.m3u8
@@ -62,10 +50,7 @@ https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Super Sports Cricket
 http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/11637
 
-#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 
-https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
-#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 B
-https://hls.streambtw.com/live/stream_e1.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Cricket 🏏", ✅ ⭐⭐🟢 TNT Sports 1 HD 🟢📺✅
@@ -129,8 +114,7 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157565
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Cricket 🏏", Astro Cricket HD 📶
 http://myteve.online:8080/F12232/f23d27c1/157565
 
-#EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports 1  🇮🇳 💥SD💥 ✅
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Fox Sports 1 📶 HD 
