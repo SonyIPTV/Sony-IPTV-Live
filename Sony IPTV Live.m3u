@@ -9,6 +9,15 @@ https://freehdgames.lol/chunklist/hlsch1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲LIVE Event📶
 http://tv.cloudcdn.me/live/00:1A:79:04:ED:80/SN_1697176355/36128.m3u8
 
+#EXTINF:-1 tvg-id="A Sports" tvg-logo="https://i.postimg.cc/6QqyxBJB/download-19.jpg" group-title="Cricket 🏏",A Sports
+http://195.26.87.217/live?channelId=12217&deviceMac=00:1A:79:33:E9:41
+
+#EXTINF:-1 tvg-id="GeoSuper" tvg-logo="https://i.postimg.cc/C1JHYSrZ/download-20.jpg" group-title="Cricket 🏏",Geo Super
+http://195.26.87.217/live?channelId=274&deviceMac=00:1A:79:33:E9:41
+
+#EXTINF:-1 tvg-id="TenSports" tvg-logo="https://i.postimg.cc/C1JHYSrZ/download-20.jpg" group-title="Cricket 🏏",Ten Sports 
+http://195.26.87.217/live?channelId=301&deviceMac=00:1A:79:33:E9:41
+
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 RTA Sport 📶 HD
 https://hls.rtasport.live/hls/stream.m3u8
 
