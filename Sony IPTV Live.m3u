@@ -128,10 +128,9 @@ https://mlb.mrgamingstreams.com/variety2.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/mh03f41638048848.png" group-title="Cricket 🏏",🔲 SUPER SPORTS VARIETY 3 📶 HD 
 https://mlb.mrgamingstreams.com/variety3.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports▶️3
-http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/16633
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports▶️
-http://175.107.244.52:4457/play/a08g/index.m3u8
+https://ddy5.hlsjs.ru/ddy5/premium450/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png", Ten Sports▶️
 http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/151863
 
