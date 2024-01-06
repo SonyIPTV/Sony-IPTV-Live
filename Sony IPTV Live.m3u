@@ -150,13 +150,13 @@ https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m
 
 
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 11667728321.png" group-title="Sports Channels",Sony Sports 1 HD
-https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-1-live
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 21667728105.png" group-title="Sports Channels",Sony Sports 2 HD
-https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-2-live
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 31667728117.png" group-title="Sports Channels",Sony Sports 3 HD
-https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-3-live
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 51667728306.png" group-title="Sports Channels",Sony Sports 5 HD
-https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-5
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://11plus.live/img/18.png" group-title="Sports Channels",Sports 18
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_131634_eng=131600-video=2906400.m3u8
 
@@ -342,8 +342,8 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/287792
 #EXTINF:-1 ,
 
 ######################### FTP 📺 ##########################
-#EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/18.png",Sports 18 HD 📶 𝗙𝗧𝗣 Unique 📶
-http://11plus.live/live/18/index.m3u8
+#EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/18.png", Xplore 📶 𝗙𝗧𝗣 Unique 📶
+https://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD 📶 𝗙𝗧𝗣 Unique 📶
 http://11plus.live/live/ptv/index.m3u8
 #EXTINF:0, tvg-logo="http://11plus.live/img/tsports.jpg" group-title="FTP 📺", T Sports Akash DTH 📶 𝗙𝗧𝗣 Unique 📶 
