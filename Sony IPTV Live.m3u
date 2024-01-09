@@ -16,11 +16,11 @@ https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
 #EXTINF:-1 tvg-id="A Sports" tvg-logo="https://i.postimg.cc/6QqyxBJB/download-19.jpg" group-title="Cricket 🏏",A Sports
 http://195.26.87.217/live?channelId=12217&deviceMac=00:1A:79:33:E9:41
 
-#EXTINF:-1 tvg-id="GeoSuper" tvg-logo="https://i.postimg.cc/C1JHYSrZ/download-20.jpg" group-title="Cricket 🏏",Geo Super
-http://195.26.87.217/live?channelId=274&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1 tvg-id="GeoSuper" tvg-logo="https://i.postimg.cc/C1JHYSrZ/download-20.jpg" group-title="Cricket 🏏",Star Sports 1 HD
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TenSports" tvg-logo="https://i.postimg.cc/C1JHYSrZ/download-20.jpg" group-title="Cricket 🏏",Ten Sports 
-http://195.26.87.217/live?channelId=301&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1 tvg-id="TenSports" tvg-logo="https://i.postimg.cc/C1JHYSrZ/download-20.jpg" group-title="Cricket 🏏",Star Sports 2 HD 
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 RTA Sport 📶 HD
 https://hls.rtasport.live/hls/stream.m3u8
