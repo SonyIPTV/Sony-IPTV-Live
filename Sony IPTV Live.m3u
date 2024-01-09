@@ -163,7 +163,8 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sp
 
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
-
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ BT Sports 1 ✅
+https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Amazan Premier ✅
 https://mlb.mrgamingstreams.com/prem.m3u8
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Premier Sports 1 ✅
