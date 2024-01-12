@@ -9,6 +9,8 @@ https://tvembed.xyz/proxy.m3u8?id=450
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Sky Cricket 
 https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
+#EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Sky Sports MIX
+https://tvembed.xyz/proxy.m3u8?id=449
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Super Cricket 
 https://247c.mrgamingstreams.com/mrgamingsscric.m3u8
 
