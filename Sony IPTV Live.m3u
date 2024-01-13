@@ -5,7 +5,6 @@ https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲PTV Sports HD 📶
 https://tvembed.xyz/proxy.m3u8?id=450
-
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲PTV Sports HD 📶
 https://sportstoday24.000webhostapp.com/Gynaa.php?id=47&e=m3u8
 
@@ -15,6 +14,10 @@ https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Sky Sports MIX
 https://tvembed.xyz/proxy.m3u8?id=449
+#EXTINF:-1 tvg-id="" group-title="Cricket 🏏" ch-number="" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/09/SKYMIX-185x278.webp", Sky Sports Main Event 
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Mix HD ▶️ Back
+https://linear032-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmix50)/manifest_hd.mpd
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Super Cricket 
 https://247c.mrgamingstreams.com/mrgamingsscric.m3u8
 
@@ -124,14 +127,15 @@ https://mlb.mrgamingstreams.com/variety3.m3u8
 https://mlb.mrgamingstreams.com/psl.m3u8
 
 
-
+######################### 📺 ##########################
 
 
 
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Football Match ✅ Tudn Sports ARG
+https://mlb.mrgamingstreams.com/tudn.m3u8
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Ziggo Sports 1 ✅
 https://freehdgames.lol/chunklist/hlsch6.m3u8
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Bein Sports Turkey ✅
