@@ -129,13 +129,14 @@ https://mlb.mrgamingstreams.com/variety2.m3u8
 https://mlb.mrgamingstreams.com/variety3.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
+http://10.111.200.30/live/feed1001/index.m3u8
 ######################### 📺 ##########################
 
 
+#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Live Sports Only ✅
+https://freeiptv25.netlify.app/live/stream_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
-http://10.111.200.30/live/feed1001/index.m3u8
 #EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅ Ziggo Sports ✅
 https://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/53710.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Football Match ✅ Tudn Sports ARG
