@@ -91,31 +91,8 @@ https://tvs1.aynaott.com/asports/index.m3u8?hdnts=st=1705034803~exp=1705078003~a
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 TEN Sport 📶 HD
 https://sportstoday24.000webhostapp.com/Sports-max.php?id=22158&extension=.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="Cricket 🏏",🔲 Fox Sports 501 📶 HD
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/279034
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Cricket 🏏", ✅ ⭐⭐🟢 TNT Sports 1 HD 🟢📺✅
-https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1690027954/5712.png" group-title="Cricket 🏏",🔲 Sport TV 3 📶 HD
 https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1690027954/5712.png" group-title="Cricket 🏏",🔲 Via Play Sport 1 📶 HD
-https://hls.streambtw.com/live/stream_7.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Cricket 🏏", ✅ ⭐⭐🟢 TNT Sports 1 HD 🟢 ⭐⭐ 💥📺💥 ✅
-http://142.54.172.138/premium31/playlist.m3u8?ddd=Pl5NHMeCwA
-
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Cricket 🏏",🔲TNT Sport 2 📶 HD
-https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1690027954/5712.png" group-title="Cricket 🏏",🔲TNT Sport 3 📶 HD
-https://headlinessportsfoot.com/chunklist/hlsch16.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🟢 Sukan RTM 🟢 Malaiysia
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
@@ -125,10 +102,6 @@ https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event Extra TV 📶 HD
 https://edge3-moblive.yuppcdn.net/transsd/smil:eventtvextra.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Cricket 🏏", ✅ Astro Cricket 1 HD ✅
-http://37.49.225.197:8080/myhdosama/6JbVUE4zXTpRr2pf/157565
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Cricket 🏏", Astro Cricket HD 📶
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157565
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Cricket 🏏", Astro Cricket HD 📶
 http://myteve.online:8080/F12232/f23d27c1/157565
 
@@ -136,8 +109,7 @@ http://myteve.online:8080/F12232/f23d27c1/157565
 https://mlb.mrgamingstreams.com/variety2.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/mh03f41638048848.png" group-title="Cricket 🏏",🔲 SUPER SPORTS VARIETY 3 📶 HD 
 https://mlb.mrgamingstreams.com/variety3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 PSL 📶 HD
-https://mlb.mrgamingstreams.com/psl.m3u8
+
 
 
 ######################### 📺 ##########################
