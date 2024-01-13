@@ -6,6 +6,13 @@ https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲T Sports _Live Match only 📶
 http://113.212.111.246:8080/hls/col12.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Unique Broadband LIVE TV 📶 CH-1
+http://172.17.50.112/live/fifa2022/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Unique Broadband LIVE TV 📶 CH-2
+http://172.17.50.112/live/antbd1001/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Unique Broadband LIVE TV 📶 CH-3
+http://11plus.live/live/tsports/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲AFC 2024 📶 Jio Live
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_ind_130124/mobile_master.m3u8
 
