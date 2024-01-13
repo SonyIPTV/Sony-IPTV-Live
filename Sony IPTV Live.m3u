@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Cricket 🏏",🔲 Green TV 📶 HD
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲T Sports _Live Match only 📶
+http://113.212.111.246:8080/hls/col12.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲AFC 2024 📶 Jio Live
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_ind_130124/mobile_master.m3u8
 
@@ -39,6 +42,8 @@ https://247c.mrgamingstreams.com/mrgamingsscric.m3u8
 http://tv.cloudcdn.me/live/00:1A:79:04:ED:80/SN_1697176355/102479.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲18 Sports 📶 HD
 https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲18 Sports 📶 HD
+https://freeiptv25.netlify.app/live/bdix/app/Sports18.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Cricket 🏏", TNT Sports 1 HD✅
 https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
