@@ -8,6 +8,14 @@ https://tvembed.xyz/proxy.m3u8?id=450
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲PTV Sports HD 📶
 https://sportstoday24.000webhostapp.com/Gynaa.php?id=47&e=m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Super Sports Veraity 1 📶
+https://hls.streambtw.com/live/stream_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲SN Canada 📶
+https://hls.streambtw.com/live/stream_9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲ESPN +📶
+https://hls.streambtw.com/live/stream_11.m3u8
+
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Sky Cricket 
@@ -22,6 +30,7 @@ https://hls.streambtw.com/live/stream_1.m3u8
 https://sportsleading.online/live/stream_1.m3u8
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Super Cricket 
 https://247c.mrgamingstreams.com/mrgamingsscric.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲18 Sports HD 📶 HD
 http://tv.cloudcdn.me/live/00:1A:79:04:ED:80/SN_1697176355/102479.m3u8
@@ -65,6 +74,7 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 51667728306.png" group-title="Sports Channels",Sony Sports 5 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Fox Sports 1 📶 HD 
 https://247b.mrgamingstreams.com/mrgamingfs1.m3u8
