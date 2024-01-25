@@ -3,10 +3,14 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Cricket 🏏",🔲 Green TV 📶 HD
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Fancode _Live Match only 📶
+https://mls3.fancode.com/9437e4c8-ba94-42c6-9ba8-0114c93f9cc1/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲T Sports _Live Match only 📶
 https://cdn.retosprime.com/ayna.php?id=28&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲T Sports HD 📶
 https://cdn.retosprime.com/ayna.php?id=27&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲T Sports HD 📶1
+https://cdn.retosprime.com/ayna.php?id=27&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲GAZI HD 📶
 https://cdn.retosprime.com/ayna.php?id=19&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲GAZI HD 📶1
@@ -28,9 +32,14 @@ https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Match Sports HD 📶
 https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 
+EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲A Sports HD 📶
+http://195.26.87.217/live.ts?channelId=12217&uid=7435&deviceMac=00:1A:79:51:4B:3A
 EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲PTV Sports HD 📶3
 https://cdn.retosprime.com/ayna.php?id=47&e=.m3u8|User-Agent=bdsajib
-
+EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Ten Sports HD 📶
+http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
+EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲TPREMIER SPORTS 2 📶
+http://202.21.104.6:88/sps-play/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Super Sports Veraity 1 📶
 https://hls.streambtw.com/live/stream_3.m3u8
@@ -41,6 +50,8 @@ https://hls.streambtw.com/live/stream_11.m3u8
 
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
+#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 Willow Cricket 📶 
+https://hls.streambtw.com/live/stream_e1.m3u8
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Sky Cricket 
 https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
 #EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Sky Sports MIX
@@ -84,6 +95,8 @@ https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports2hdmac
 https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports3hdmac.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ Star Sports Select 1 HD 📺 ✅
 https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsportsselect1hdmac.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ Star Sports Select 1 HD 📺 ✅
+http://103.132.181.118:82/play/a00u
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ Star Sports Select 2 HD 📺 ✅
 https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsportsselect2hdmac.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ Star Sports Select 2 HD 📺
