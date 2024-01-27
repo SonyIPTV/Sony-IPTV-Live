@@ -32,13 +32,13 @@ https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Match Sports HD 📶
 https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲A Sports HD 📶
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲A Sports HD 📶
 http://195.26.87.217/live.ts?channelId=12217&uid=7435&deviceMac=00:1A:79:51:4B:3A
-EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲PTV Sports HD 📶3
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲PTV Sports HD 📶3
 https://cdn.retosprime.com/ayna.php?id=47&e=.m3u8|User-Agent=bdsajib
-EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Ten Sports HD 📶
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Ten Sports HD 📶
 http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
-EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲TPREMIER SPORTS 2 📶
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲TPREMIER SPORTS 2 📶
 http://202.21.104.6:88/sps-play/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Super Sports Veraity 1 📶
