@@ -176,28 +176,10 @@ https://edge1.laotv.la/live/TSport1/index.m3u8
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1, group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", True Sports 2 HD
 https://edge1.laotv.la/live/TSport2/index.m3u8
-
 #EXTINF:-1, group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", True Sport2 Sports HD
 https://ctrl.laotv.la/live/TSport2/manifest.mpd
 
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Optus Sports HD 
-https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Optus Sports HD 
-https://hls.streambtw.com/live/stream_4.m3u8
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Optus Sports HD
-https://hls.streambtw.com/live/stream_5.m3u8
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Super Sports HD
-https://hls.streambtw.com/live/stream_8.m3u8
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Football Sports HD
-https://hls.streambtw.com/live/stream_9.m3u8
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Sky Sports News HD
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", USA Sports HD
-https://hls.streambtw.com/live/stream_3.m3u8
 
-
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", USA Sports HD 
-https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
 
 #EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/YFOpsoB.png", Sports TV 1 HD Portugal 
 https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
@@ -214,16 +196,6 @@ https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
 #EXTINF:-1, group-title="Football 🛜" tvg-logo="https://i.imgur.com/XPEdAKh.jpg", Premier Sports HD 2
 https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
 
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/146068 
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png", Astro SuperSport 2
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157556
-
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/dtqhym1572377012.png", Astro SuperSport 4
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157558
-
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png", Astro SuperSport 5
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/287792
 
 #EXTINF:-1 ,
 
