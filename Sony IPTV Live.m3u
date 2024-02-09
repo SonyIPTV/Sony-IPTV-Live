@@ -3,18 +3,9 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Cricket 🏏",🔲 Green TV 📶 HD
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Fancode _Live Match only 📶
-https://ssportstoday24.000webhostapp.com/world.php?id=27
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲T Sports _Live Match only 📶
-https://cdn.retosprime.com/ayna.php?id=28&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲T Sports HD 📶
-https://cdn.retosprime.com/ayna.php?id=27&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲T Sports HD 📶1
-https://cdn.retosprime.com/ayna.php?id=27&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲GAZI HD 📶
-https://cdn.retosprime.com/ayna.php?id=19&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲GAZI HD 📶1
-https://cdn.retosprime.com/ayna.php?id=18&e=.m3u8|User-Agent=bdsajib
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Unique Broadband LIVE TV 📶 CH-1
 http://172.17.50.112/live/fifa2022/index.m3u8
@@ -34,8 +25,6 @@ https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲A Sports HD 📶
 http://195.26.87.217/live.ts?channelId=12217&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲PTV Sports HD 📶3
-https://cdn.retosprime.com/ayna.php?id=47&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Ten Sports HD 📶
 http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲TPREMIER SPORTS 2 📶
