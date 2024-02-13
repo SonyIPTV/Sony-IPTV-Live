@@ -8,6 +8,12 @@ https://nayeem-parvez.pw/api-s1/iptv/tsports.m3u8?id=2
 https://sports.yunyingtiandi.com/live/m33002821/playlist.m3u8
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅ Live Sports Only ✅Gazi TV
 https://freeiptv25.netlify.app/live/stream_6.m3u8
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅ T Sports ✅pgplex
+http://pgplex.net:8080/BPL2024/index.m3u8
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅ T Sports ✅
+http://103.77.218.14:8082/Tsports/index.m3u8
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅ T Sports ✅
+http://103.77.218.14:8082/Tsports-2/index.m3u8
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅ T Sports App 1 ✅
 https://nayeem-parvez.pw/api-s1/iptv/tsports.m3u8?id=1
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅ T Sports App 2 ✅
@@ -23,6 +29,8 @@ https://webudit.hlsjs.ru/lb/premium346/index.m3u8?|referer=https://olalivehdplay
 https://webudit.hlsjs.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅ Astro Cricket HD
 https://webudit.hlsjs.ru/lb/premium370/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅ Super Sports Cricket HD
+https://247b.mrgamingstreams.com/mrgamingsscric.m3u8
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅Sky Sports Cricket
 https://webudit.hlsjs.ru/lb/premium65/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅ Super Sports Cricket
@@ -30,7 +38,7 @@ https://webudit.hlsjs.ru/lb/premium368/index.m3u8?|referer=https://olalivehdplay
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅Fox Sports 501 HD
 https://webudit.hlsjs.ru/lb/premium369/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
-#EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", Willow  ✅
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", Willow ✅
 https://fr.tvanondo.online/willow-free/index.m3u8
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", Willow TV ✅
 https://alo.bokulsports.com/files.php/willowusa.m3u8
@@ -62,6 +70,8 @@ https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲A Sports HD 📶
 http://195.26.87.217/live.ts?channelId=12217&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲A Sports HD 📶 ✅
+http://xtv.ooo:8080/87658765/91747291/219689
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Ten Sports HD 📶
 http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲TPREMIER SPORTS 2 📶
