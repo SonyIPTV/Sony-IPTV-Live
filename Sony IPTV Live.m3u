@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg ", ✅ T Sports HD ✅ Subir
+http://38.96.178.201/live/TSports/index.m3u8
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg ", ✅ T Sports ✅ PSL
+https://sportsleading.online/live/stream_psl.m3u8
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg ", ✅ PSL-24✅ PSL 720p
+https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_720p.m3u8
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg ", ✅PSL-24✅ 1080p HD
+https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_1080p.m3u8
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" https://i.postimg.cc/XqXJ4Qvp/tsports.jpg", ✅PSL-24 ✅240p
+https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_240p.m3u8
+
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/TYsfjtx0/BPL-2024.jpg", ✅ Live Sports Only ✅
 https://freeiptv25.netlify.app/live/stream_1.m3u8
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/TYsfjtx0/BPL-2024.jpg", ✅ Live Sports Only ✅PSL
@@ -8,16 +19,7 @@ https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad5858696
 https://sports.yunyingtiandi.com/live/m33002821/playlist.m3u8
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/GtH5RXyk/K7b1Bbz.png ", ✅ Live Sports Only ✅Gazi TV
 https://freeiptv25.netlify.app/live/stream_6.m3u8
-#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg ", ✅ T Sports ✅ Subir
-http://38.96.178.201/live/TSports/index.m3u8
-#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg ", ✅ T Sports ✅ PSL
-https://sportsleading.online/live/stream_psl.m3u8
-#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg ", ✅ T Sports ✅
-https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_720p.m3u8
-#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg ", ✅ T Sports App 1 ✅
-https://nayeem-parvez.pw/api-s1/iptv/tsports.m3u8?id=1
-#EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" https://i.postimg.cc/XqXJ4Qvp/tsports.jpg", ✅ T Sports App 2 ✅
-https://nayeem-parvez.pw/api-s1/iptv/tsports.m3u8?id=2
+
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/dQ6zvWQZ/PTV-Sports-HD.jpg ", ✅ PTV Sports ✅
 https://webudit.hlsjs.ru/lb/premium450/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/dQ6zvWQZ/PTV-Sports-HD.jpg ", ✅ PTV Sports ✅ Pgplex
