@@ -4,7 +4,7 @@
 http://38.96.178.201/live/TSports/index.m3u8
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg ", ✅ T Sports ✅ PSL
 https://sportsleading.online/live/stream_psl.m3u8
-#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg ", ✅ PSL-24✅ PSL 720p
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Pakistan_Super_League_9.png", ✅ PSL-24✅ PSL 720p
 https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_720p.m3u8
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg ", ✅PSL-24✅ 1080p HD
 https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_1080p.m3u8
@@ -12,6 +12,9 @@ https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad5858696
 https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_240p.m3u8
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" https://www.pngwing.com/en/free-png-tutnp.jpg", ✅PSL-24 ✅Geo News UK
 https://is.gd/j0AaQw?WithCaption
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:A_Sports_Logo.png" group-title="Cricket 🏏",🔲A Sports HD📶
+http://ottbangla.shop/flashman2/stream.php?id=asportshd&e=.m3u8
 
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/TYsfjtx0/BPL-2024.jpg", ✅ Live Sports Only ✅
 https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_480p.m3u8
