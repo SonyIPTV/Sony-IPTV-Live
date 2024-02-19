@@ -17,10 +17,14 @@ https://is.gd/j0AaQw?WithCaption
 http://ottbangla.shop/flashman2/stream.php?id=asportshd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏", A Sports HD📶 S
 https://shorturl.at/bgmM8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏", A Sports HD📶RRIPTV
+http://103.131.214.129:9985/stream/channelid/868069455?ticket=B45C060991BAC05D01776E110796AB97EA8CC8BC&profile=pass
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://ibb.co/597qvvj", ✅Ten Sports ✅RRIPTV
+http://103.131.214.129:9985/stream/channelid/1036861532?ticket=63F23F47339A316CAB6244D7A6244B40DE40A5C2&profile=pass
+
 
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅ ATN 
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅ CRICLIFE 1 
 https://salamus2023.onlinehdhls.ru:443/ddh2/premium284/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅ CRICLIFE 1 
@@ -28,11 +32,11 @@ https://webudit.webhd.ru/lb/premium284/index.m3u8?|referer=https://olalivehdplay
 
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Pakistan_Super_League_9.png", ✅ Live Sports Only ✅
 https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_480p.m3u8
-#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/TYsfjtx0/BPL-2024.jpg", ✅ Live Sports Only ✅PSL
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/TYsfjtx0/BPL-2024.jpg", ✅Live Sports Only ✅PSL
 https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/main.m3u8
-#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/TYsfjtx0/BPL-2024.jpg ", ✅ Live Sports Only ✅BPL
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/TYsfjtx0/BPL-2024.jpg ", ✅Live Sports Only ✅BPL
 https://sports.yunyingtiandi.com/live/m33002821/playlist.m3u8
-#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/GtH5RXyk/K7b1Bbz.png ", ✅ Live Sports Only ✅Gazi TV
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/GtH5RXyk/K7b1Bbz.png ", ✅Live Sports Only ✅Gazi TV
 https://freeiptv25.netlify.app/live/stream_6.m3u8
 
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/dQ6zvWQZ/PTV-Sports-HD.jpg ", ✅ PTV Sports ✅
