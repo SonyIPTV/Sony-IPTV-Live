@@ -22,10 +22,11 @@ http://103.131.214.129:9985/stream/channelid/868069455?ticket=B45C060991BAC05D01
 http://195.26.87.217/live.ts?channelId=12217&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏",🔲A Sports HD 📶 ✅
 http://xtv.ooo:8080/87658765/91747291/219689
+#EXTINF:-1 tvg-id="A Sports" tvg-logo="https://i.postimg.cc/6QqyxBJB/download-19.jpg" group-title="Cricket 🏏",A Sports
+http://195.26.87.217/live?channelId=12217&deviceMac=00:1A:79:33:E9:41
 
 #EXTINF:-1 tvg-logo="https://ibb.co/597qvvj" group-title="Cricket 🏏",✅Ten Sports ✅RRIPTV
 http://103.131.214.129:9985/stream/channelid/1036861532?ticket=63F23F47339A316CAB6244D7A6244B40DE40A5C2&profile=pass
-
 
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅ ATN 
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
@@ -58,10 +59,7 @@ http://202.21.104.6:88/sps-play/index.m3u8
 https://freehdgames.lol/chunklist/hlsch1.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports 1  🇮🇳 💥HD💥 ✅
-https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports1hdmac.m3u8
-#EXTINF:-1 tvg-logo="http://11plus.live/img/stersports1hd.jpg" group-title="Cricket 🏏", ✅ Star Sports 1  🇮🇳 💥HD💥 ✅
-http://pgplex.net:8080/StarSports1HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y9J9fbN/Star-Sports2hd.jpg", "group-title="Cricket 🏏",Star Sports 2 HD
 http://pgplex.net:8080/StarSports2HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjR3fwRz/Starsportss1.jpg" group-title="Cricket 🏏", ✅ Star Sports Select 1 HD 🇮🇳 💥💥
@@ -69,35 +67,8 @@ http://pgplex.net:8080/StarSportsSelect1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2mN4PP5/Starsportss2.jpg" group-title="Cricket 🏏", ✅ Star Sports Select 2 HD 🇮🇳 💥💥
 http://pgplex.net:8080/StarSportsSelect2/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ Star Sports 2 HD 📺 ✅
-https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports2hdmac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ Star Sports 3 📺 ✅
-https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports3hdmac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ Star Sports Select 1 HD 📺 ✅
-https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsportsselect1hdmac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ Star Sports Select 1 HD 📺 ✅
-http://103.132.181.118:82/play/a00u
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ Star Sports Select 2 HD 📺 ✅
-https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsportsselect2hdmac.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ TNT Sports 1 HD 📺 ✅
-https://alo.bokulsports.com/files.php/bbtsp1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ TNT Sports 1 HD 📺 ✅
-https://247b.mrgamingstreams.com/mrgamingbtsport1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ TNT Sports 2 HD 📺 ✅
-https://alo.bokulsports.com/files.php/bbtsp2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ TNT Sports 2 HD 📺 ✅
-https://247b.mrgamingstreams.com/mrgamingbtsport2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ TNT Sports 3 HD 📺 ✅
-https://alo.bokulsports.com/files.php/bbtsp3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ TNT Sports 3 HD 📺 ✅
-https://247b.mrgamingstreams.com/mrgamingbtsport3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ TNT Sports 4 HD 📺 ✅
-https://alo.bokulsports.com/files.php/bbtsp4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ TNT Sports 4 HD 📺 ✅
-https://247b.mrgamingstreams.com/mrgamingbtsport4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ Ten Sports HD 📺 ✅
-https://alo.bokulsports.com/files.php/tenspk.m3u8
+
 
 #EXTINF:-1 tvg-id="GeoSuper" tvg-logo="https://i.postimg.cc/C1JHYSrZ/download-20.jpg" group-title="Cricket 🏏",Star Sports 1 HD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
@@ -115,20 +86,10 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 51667728306.png" group-title="Sports Channels",Sony Sports 5 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Sports TV 📶 HD
-https://freehdgames.lol/chunklist/hlsch1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 VSports Premium
 https://freehdgames.lol/chunklist/hlsch5.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 PTV Sports 
 http://175.107.244.52:4457/play/a08g/index.m3u8
-
-#EXTINF:-1 tvg-id="A Sports" tvg-logo="https://i.postimg.cc/6QqyxBJB/download-19.jpg" group-title="Cricket 🏏",A Sports
-http://195.26.87.217/live?channelId=12217&deviceMac=00:1A:79:33:E9:41
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1690027954/5712.png" group-title="Cricket 🏏",🔲 Sport TV 3 📶 HD
-https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🟢 Sukan RTM 🟢 Malaiysia
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
