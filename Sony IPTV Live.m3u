@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅
+http://103.142.80.22:8080/t-sports/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅Pgplex
 http://pgplex.net:8080/TSportsHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅ Subir
@@ -86,6 +88,7 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 51667728306.png" group-title="Sports Channels",Sony Sports 5 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 VSports Premium
 https://freehdgames.lol/chunklist/hlsch5.m3u8
