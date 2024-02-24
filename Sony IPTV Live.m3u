@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅ Fan Code https://dai.fancode.com/primary/93847_english_hls_5563ta-di/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅
 http://103.142.80.22:8080/t-sports/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅Pgplex
