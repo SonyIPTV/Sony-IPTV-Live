@@ -3,9 +3,10 @@
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Fan Code PSL
 https://dai.fancode.com/primary/93847_english_hls_5563ta-di/index.m3u8
-
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Fan Code PSL 2
 https://dai.google.com/linear/hls/event/iuo5eKXsR_qA4tFvDXd27Q/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Fan Code PSL Worldwide
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/o1Rd4M5aiUSyLGyzwtcwK_5Fy2e95FodW-6mAm-jozN6dxeTtJPr4O_YKBHT0OEr50MD893wvx3V-JQOE6fDsw/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅
 http://103.142.80.22:8080/t-sports/video.m3u8
