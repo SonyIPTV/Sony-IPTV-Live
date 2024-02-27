@@ -88,9 +88,11 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93730
 #EXTINF:-1 tvg-id="GeoSuper" tvg-logo="https://i.postimg.cc/C1JHYSrZ/download-20.jpg" group-title="Cricket 🏏",Star Sports 1 HD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="GeoSuper" tvg-logo="https://i.postimg.cc/C1JHYSrZ/download-20.jpg" group-title="Cricket 🏏",Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93724
 #EXTINF:-1 tvg-id="TenSports" tvg-logo="https://i.postimg.cc/C1JHYSrZ/download-20.jpg" group-title="Cricket 🏏",Star Sports 2 HD 
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="TenSports" tvg-logo="https://i.postimg.cc/C1JHYSrZ/download-20.jpg" group-title="Cricket 🏏",Star Sports 2 HD 
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93726
 
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 11667728321.png" group-title="Sports Channels",Sony Sports 1 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
