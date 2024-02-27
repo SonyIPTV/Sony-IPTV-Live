@@ -63,7 +63,8 @@ http://172.17.50.112/live/antbd1001/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Unique Broadband LIVE TV 📶 CH-3
 http://11plus.live/live/tsports/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲PSL LIVE TV 📶 
+https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/main.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲Ten Sports HD 📶
 http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲TPREMIER SPORTS 2 📶
@@ -75,11 +76,11 @@ https://freehdgames.lol/chunklist/hlsch1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y9J9fbN/Star-Sports2hd.jpg", "group-title="Cricket 🏏",Star Sports 2 HD
-http://pgplex.net:8080/StarSports2HD/index.m3u8
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93726
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjR3fwRz/Starsportss1.jpg" group-title="Cricket 🏏", ✅ Star Sports Select 1 HD 🇮🇳 💥💥
-http://pgplex.net:8080/StarSportsSelect1/index.m3u8
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93729
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2mN4PP5/Starsportss2.jpg" group-title="Cricket 🏏", ✅ Star Sports Select 2 HD 🇮🇳 💥💥
-http://pgplex.net:8080/StarSportsSelect2/index.m3u8
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93730
 
 
 
