@@ -100,6 +100,8 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 51667728306.png" group-title="Sports Channels",Sony Sports 5 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 51667728306.png" group-title="Sports Channels",Sony Sports 5 HD
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93723
 
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 VSports Premium
