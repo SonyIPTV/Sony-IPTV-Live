@@ -4,17 +4,17 @@
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Fan Code PSL
 https://dai.fancode.com/primary/93847_english_hls_5563ta-di/index.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Fan Code PSL Worldwide
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/o1Rd4M5aiUSyLGyzwtcwK_5Fy2e95FodW-6mAm-jozN6dxeTtJPr4O_YKBHT0OEr50MD893wvx3V-JQOE6fDsw/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ PSL Criclife 1
+https://freeiptv25.netlify.app/live/stream_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅
 http://103.142.80.22:8080/t-sports/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅Pgplex
-http://pgplex.net:8080/TSportsHD/index.m3u8
+https://freeiptv25.netlify.app/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅ Subir
 http://38.96.178.201/live/TSports/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Pakistan_Super_League_9.png" group-title="Cricket 🏏",✅ PSL-24✅ Super Sports
-https://sportsleading.online/live/stream_psl.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Pakistan_Super_League_9.png" group-title="Cricket 🏏",✅ PSL-24✅ Ten Sports
+https://freeiptv25.netlify.app/live/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Pakistan_Super_League_9.png" group-title="Cricket 🏏",✅PSL-24✅PSL 720p
 https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Pakistan_Super_League_9.png" group-title="Cricket 🏏",✅PSL-24✅PSL 1080p
@@ -24,8 +24,8 @@ https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad5858696
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Pakistan_Super_League_9.png" group-title="Cricket 🏏",✅PSL-24 ✅Geo News UK
 https://is.gd/j0AaQw?WithCaption
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏", A Sports HD📶 S
-https://shorturl.at/bgmM8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏", Fox Sports HD📶 S
+https://freeiptv25.netlify.app/live/stream_10.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏", A Sports HD📶RRIPTV
 http://103.131.214.129:9985/stream/channelid/868069455?ticket=B45C060991BAC05D01776E110796AB97EA8CC8BC&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏",🔲A Sports HD 📶
@@ -45,8 +45,8 @@ https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad5858696
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/TYsfjtx0/BPL-2024.jpg", ✅Live Sports Only ✅PSL
 https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSBm8HP/Sports18-1-HD.jpg" group-title="Cricket 🏏", ✅ Sports 18 HD ✅
-http://pgplex.net:8080/Sports18HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSBm8HP/Sports18-1-HD.jpg" group-title="Cricket 🏏", ✅ PTV Sports 18 HD ✅
+https://freeiptv25.netlify.app/live/stream_5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Cricket 🏏",🔲 Green TV 📶 HD
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 
