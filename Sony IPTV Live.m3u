@@ -10,7 +10,8 @@ http://10.111.200.30/live/feed1001/index.m3u8
 https://freeiptv25.netlify.app/live/stream_4.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Willow Cricket
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93735
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅H
+https://live.himel-himu@1rdk.short.gy/T-Sports/hls/Himel-Op.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅
 http://testing.denver1769.in/51.php?id=6919
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅Pgplex
@@ -28,6 +29,9 @@ https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad5858696
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Pakistan_Super_League_9.png" group-title="Cricket 🏏",Geo News UK
 https://is.gd/j0AaQw?WithCaption
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏", A Sports HD📶 H
+https://live.himel-himu@1rdk.short.gy/A-Sports/hls/Himel-Op.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏", A Sports HD📶 S
 http://testing.denver1769.in/51.php?id=11217
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏", Fox Sports HD📶 S
