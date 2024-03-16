@@ -9,6 +9,8 @@ https://t.ly/mhsports.xyz/tsports/bdix/Apurbo/index.m3u8
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20834
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Willow Cricket
 https://t.ly/mhsports.xyz/willowusa/MhApurbo.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA
+http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 
@@ -32,6 +34,8 @@ https://catowrap.live/mrgamingbtsport4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏",🔲A Sports HD 📶 ✅
 http://xtv.ooo:8080/87658765/91747291/219689
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏",🔲A Sports HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1116499&extension=ts
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅ ATN 
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 
