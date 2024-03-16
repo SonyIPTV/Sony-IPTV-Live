@@ -3,7 +3,8 @@
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ PSL 1
 https://catowrap.live/mrgamingsscric.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅
+https://t.ly/mhsports.xyz/tsports/bdix/Apurbo/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Ban Vs Sri
 https://sports.lvyclv.com/live/m33095223/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Ban Vs Sri
@@ -30,8 +31,7 @@ https://catowrap.live/mrgamingbtsport3.m3u8
 https://catowrap.live/mrgamingbtsport4.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅Pgplex
-https://freeiptv25.netlify.app/live/stream_8.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Pakistan_Super_League_9.png" group-title="Cricket 🏏",Ten Sports
 https://freeiptv25.netlify.app/live/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Pakistan_Super_League_9.png" group-title="Cricket 🏏",PSL 720p
