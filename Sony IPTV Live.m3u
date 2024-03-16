@@ -7,11 +7,13 @@ https://catowrap.live/mrgamingsscric.m3u8
 https://t.ly/mhsports.xyz/tsports/bdix/Apurbo/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Ban Vs Sri
 https://sports.lvyclv.com/live/m33095223/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Ban Vs Sri
-https://test.bongodrive.pw/bdix.m3u8?ac=1101
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Willow Cricket
+https://t.ly/mhsports.xyz/willowusa/MhApurbo.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ PSL 3
-https://t.ly/PSL-WORLDWIDE/Zubayer-Op.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
+https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event Extra TV 📶 HD
+https://edge3-moblive.yuppcdn.net/transsd/smil:eventtvextra.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶
 http://10.111.200.30/live/feed1001/index.m3u8
@@ -34,31 +36,14 @@ https://catowrap.live/mrgamingbtsport4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Pakistan_Super_League_9.png" group-title="Cricket 🏏",Ten Sports
 https://freeiptv25.netlify.app/live/stream_2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Pakistan_Super_League_9.png" group-title="Cricket 🏏",PSL 720p
-https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Pakistan_Super_League_9.png" group-title="Cricket 🏏",PSL 1080p
-https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Pakistan_Super_League_9.png" group-title="Cricket 🏏",PSL 240p
-https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_240p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏", A Sports HD📶 S
-http://testing.denver1769.in/51.php?id=11217
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏", A Sports HD📶RRIPTV
-http://103.131.214.129:9985/stream/channelid/868069455?ticket=B45C060991BAC05D01776E110796AB97EA8CC8BC&profile=pass
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏",🔲A Sports HD 📶 ✅
 http://xtv.ooo:8080/87658765/91747291/219689
-#EXTINF:-1 tvg-id="A Sports" tvg-logo="https://i.postimg.cc/6QqyxBJB/download-19.jpg" group-title="Cricket 🏏",A Sports
-http://195.26.87.217/live?channelId=12217&deviceMac=00:1A:79:33:E9:41
-
-#EXTINF:-1 tvg-logo="https://ibb.co/597qvvj" group-title="Cricket 🏏",✅Ten Sports ✅RRIPTV
-http://103.131.214.129:9985/stream/channelid/1036861532?ticket=63F23F47339A316CAB6244D7A6244B40DE40A5C2&profile=pass
-
 #EXTINF:-1, group-title="Cricket 🏏" tvg-logo=" ", ✅ ATN 
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Pakistan_Super_League_9.png",Live Sports Only ✅
-https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_480p.m3u8
-#EXTINF:-1, group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/TYsfjtx0/BPL-2024.jpg", ✅Live Sports Only ✅PSL
-https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/main.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSBm8HP/Sports18-1-HD.jpg" group-title="Cricket 🏏", ✅ PTV Sports 18 HD ✅
 https://freeiptv25.netlify.app/live/stream_5.m3u8
