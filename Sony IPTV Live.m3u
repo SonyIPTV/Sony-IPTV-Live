@@ -68,6 +68,8 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93723
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🟢 Sukan RTM 🟢 Malaiysia
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🟢 Sukan🟢 Malaiysia
+https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/9vnt801638048828.png" group-title="Cricket 🏏",🔲 SUPER SPORTS VARIETY 2 📶 HD 
 https://mlb.mrgamingstreams.com/variety2.m3u8
@@ -78,6 +80,8 @@ https://mlb.mrgamingstreams.com/variety3.m3u8
 http://10.111.200.30/live/feed1001/index.m3u8
 
 ######################### 📺 ##########################
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Football Match ✅ CCTV 5 Sports
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Football Match ✅ Eleven Sports 2
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Football Match ✅ Eleven Sports 3
