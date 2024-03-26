@@ -3,18 +3,24 @@
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ IPL 1
 https://catowrap.live/mrgamingsscric.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅
+http://195.26.87.217/live.ts?channelId=48010&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", Peo Sports HD ✅
 https://edge4-moblive.yuppcdn.net/transsd/smil:peosports.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Star Sports 1 Hindi
 https://freeiptv25.netlify.app/live/stream_2.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Sky Sports Cricket  
 https://catowrap.live/mrgamingcric.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Sky Sports Cricket B
+https://pos.bongohub.pw/mac.m3u8?id=11122
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ TNT 1
 https://catowrap.live/mrgamingbtsport1.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Super Sports Cricket
 https://catowrap.live/mrgamingsscric.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA
 http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA B
+https://pos.bongohub.pw/mac.m3u8?id=6933
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 
