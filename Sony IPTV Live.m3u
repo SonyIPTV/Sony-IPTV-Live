@@ -91,14 +91,20 @@ https://mlb.mrgamingstreams.com/variety3.m3u8
 http://10.111.200.30/live/feed1001/index.m3u8
 
 ######################### 📺 ##########################
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Football Match ✅ CCTV 5 Sports
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜",  CCTV 5 Sports
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Football Match ✅ Eleven Sports 2
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜",  Eleven Sports 2
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Football Match ✅ Eleven Sports 3
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Eleven Sports 3
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", ✅ Football Match ✅ Canal Sports 3
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Canal Sports 3
 http://145.239.5.177:8080/538/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Aio Sport 
+https://edge07.97588.ir.cdn.ir/hls2/aiosport.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Aio Sport 2
+https://edge07.97588.ir.cdn.ir/hls2/aiosport2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", TNT Sport 3
+https://ovo.eelov.com/live/n-3/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜",🔲 Sony LIV 📶 HD
