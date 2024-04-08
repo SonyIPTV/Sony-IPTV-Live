@@ -6,7 +6,9 @@ https://s1.bongohub.pw/hoichoi.m3u8?id=1101
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ IPL 2
 https://tv5.hoichoi24.com/1006/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ IPL 3
-https://himel-op.top/ipl-2024/astro-cricket.m3u8
+https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", Criclife 1 ✅
+http://bollox.ie:8080/play/live.php?mac=00:1A:79:42:AF:80&stream=196712&extension=ts&play_token=uv54Hb00Kz
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", Criclife 1 ✅
 http://xtv.ooo:8080/shahz18/18usman/371469
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", CricLife 2 ✅
@@ -19,6 +21,8 @@ https://s1.bongohub.pw/hoichoi.m3u8?id=1006
 https://s1.bongohub.pw/mac/e4u.m3u8?id=24433
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅ 4
 https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD 
+https://live-cdn.tsports.com/live-02/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", Astro Crickt HD ✅
 https://freeiptv25.netlify.app/live/bdix/app/ASPCRI.m3u8
@@ -28,9 +32,9 @@ https://s1.bongohub.pw/mac/e4u.m3u8?id=24544
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",  Sky Sports Cricket  
 https://catowrap.live/mrgamingcric.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sky Sports Cricket📶 HD
-https://jatiyatopic.xyz/api/chd2/techpriyo.php/supercricket.m3u8
+https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Super Sports Cricket
-https://catowrap.live/mrgamingsscric.m3u8
+https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 
@@ -68,6 +72,23 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🟢 Sukan🟢 Malaiysia
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/02.m3u8
 
+########################## OPTUS SPORT ##########################
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 1
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303207_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 2
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303208_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 3
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303209_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 4
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303210_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 5
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303211_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 6
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303212_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 7
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303213_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 8
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303214_&extension=ts
 
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 11667728321.png" group-title="Sports Channels",Sony Sports 1 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
