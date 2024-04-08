@@ -73,22 +73,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/02.m3u8
 
 ########################## OPTUS SPORT ##########################
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 1
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303207_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 2
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303208_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 3
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303209_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 4
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303210_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 5
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303211_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 6
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303212_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 7
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303213_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDwFpWh4RCvRoytjZ2UcVReMmH8llVPRJrw&usqp=CAU" group-title="OPTUS SPORT", OPTUS SPORT 8
-http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303214_&extension=ts
 
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 11667728321.png" group-title="Sports Channels",Sony Sports 1 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
