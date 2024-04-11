@@ -94,6 +94,16 @@ https://mlb.mrgamingstreams.com/variety3.m3u8
 http://10.111.200.30/live/feed1001/index.m3u8
 
 ########################## Football 🛜 ##########################
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Setanta Sports HD UA EPL
+http://ott.watch/stream/FNX4IGHIK4/313.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Матч! Футбол 1 HD UCL 
+http://ott.watch/stream/FNX4IGHIK4/130.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Матч! Футбол 2 HD UCL
+http://ott.watch/stream/FNX4IGHIK4/142.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Матч! Футбол 3 HD UCL
+http://ott.watch/stream/FNX4IGHIK4/185.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Матч ТВ HD News
+http://ott.watch/stream/FNX4IGHIK4/169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜",   FIFA+
 https://i.mjh.nz/SamsungTVPlus/CABD1200008JG.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜",  CCTV 5 Sports
