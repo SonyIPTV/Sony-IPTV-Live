@@ -2,7 +2,7 @@
 
 ########################## Cricket 🏏 ##########################
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ IPL 1
-https://s1.bongohub.pw/hoichoi.m3u8?id=1101
+https://4gradgmttgwzdecjq8yhy.ourdvsss.com/sports.lvyclv.com/live/m33170969/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ IPL 2
 https://tv5.hoichoi24.com/1006/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ IPL 3
@@ -74,17 +74,6 @@ https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/02.m3u8
 
 ########################## OPTUS SPORT ##########################
 
-#EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 11667728321.png" group-title="Sports Channels",Sony Sports 1 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 21667728105.png" group-title="Sports Channels",Sony Sports 2 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 31667728117.png" group-title="Sports Channels",Sony Sports 3 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports3.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 51667728306.png" group-title="Sports Channels",Sony Sports 5 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 51667728306.png" group-title="Sports Channels",Sony Sports 5 HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/93723
-
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/9vnt801638048828.png" group-title="Cricket 🏏",🔲 SUPER SPORTS VARIETY 2 📶 HD 
 https://mlb.mrgamingstreams.com/variety2.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/mh03f41638048848.png" group-title="Cricket 🏏",🔲 SUPER SPORTS VARIETY 3 📶 HD 
@@ -94,6 +83,8 @@ https://mlb.mrgamingstreams.com/variety3.m3u8
 http://10.111.200.30/live/feed1001/index.m3u8
 
 ########################## Football 🛜 ##########################
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜",  Sports HD USA EPL
+https://ovo.eelov.com/live/n-1/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Setanta Sports HD UA EPL
 http://ott.watch/stream/FNX4IGHIK4/313.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Матч! Футбол 1 HD UCL 
