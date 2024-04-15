@@ -15,12 +15,7 @@ http://xtv.ooo:8080/shahz18/18usman/371469
 http://xtv.ooo:8080/shahz18/18usman/371470
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅ 1
 https://tv5.hoichoi24.com/1006/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅ 2
-https://s1.bongohub.pw/hoichoi.m3u8?id=1006
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅ 3
-https://s1.bongohub.pw/mac/e4u.m3u8?id=24433
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅ 4
-https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD 
 https://live-cdn.tsports.com/live-02/index.m3u8
 
@@ -43,25 +38,14 @@ https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA
 http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA B
-https://pos.bongohub.pw/mac.m3u8?id=6933
+http://xtv.ooo:8080/shahz18/18usman/220064
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA B
+http://xtv.ooo:8080/shahz18/18usman/167582
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶
 http://10.111.200.30/live/feed1001/index.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ TNT 1
-https://catowrap.live/mrgamingbtsport1.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ TNT 1 B
-https://catowrap.live/mrgamingbtsport1.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", TNT Sports 1 HD✅
-https://catowrap.live/mrgamingbtsport1.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", TNT Sports 2 HD✅
-https://catowrap.live/mrgamingbtsport2.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",TNT Sports 3 HD✅
-https://catowrap.live/mrgamingbtsport3.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",TNT Sports 4 HD✅
-https://catowrap.live/mrgamingbtsport4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏",🔲A Sports HD 📶 ✅
 http://xtv.ooo:8080/87658765/91747291/219689
