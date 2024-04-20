@@ -3,34 +3,32 @@
 ########################## Cricket 🏏 ##########################
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", 🏏NEWZEALAND🆚PAKISTAN🏏 Fancode
 https://mls3.fancode.com/98552_english_hls_6181ta-di/720p.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", 🏏NEWZEALAND🆚PAKISTAN🏏 Fancode
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Fancode 1
+https://freeiptv25.netlify.app/live/stream_10.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Fancode 2
+https://freeiptv25.netlify.app/live/stream_11.m3u8
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", IPL 1 (Star Sports1) 1
+http://watchindia.net:8880/live/83023/62335/2186.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ IPL 1
 https://gettvfree.tech/live/stream_e1.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ IPL 2
 https://tv5.hoichoi24.com/1006/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ IPL 3
+https://CSKvsLSG@bunyhlsipla.bunycdn.com/live/720pa.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Astro Crickt HD ✅
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏",🔲A Sports HD 📶 ✅
+http://xtv.ooo:8080/87658765/91747291/219689
+
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", GTV 
 http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", Criclife 1 ✅
 http://xtv.ooo:8080/shahz18/18usman/371469
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", CricLife 2 ✅
 http://xtv.ooo:8080/shahz18/18usman/371470
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅ 1
-https://tv5.hoichoi24.com/1006/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅ 
-http://176.119.29.52/live/00:1A:79:3E:D9:E8/565A380D32C6B/48010.m3u8?hlsid=8364868&redir=1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD 
-https://live-cdn.tsports.com/live-02/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", Astro Crickt HD ✅
-https://freeiptv25.netlify.app/live/bdix/app/ASPCRI.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Astro Crickt HD ✅
-https://s1.bongohub.pw/mac/e4u.m3u8?id=24544
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",  Sky Sports Cricket  
-https://catowrap.live/mrgamingcric.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sky Sports Cricket📶 HD
 https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Super Sports Cricket
@@ -38,6 +36,15 @@ https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅ 1
+https://tv5.hoichoi24.com/1006/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅ 
+http://176.119.29.52/live/00:1A:79:3E:D9:E8/565A380D32C6B/48010.m3u8?hlsid=8364868&redir=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD 
+https://live-cdn.tsports.com/live-02/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", Fox 501
+http://sonyiptv.net:8080/1234567/1234567/247166
 
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA
@@ -52,8 +59,7 @@ https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶
 http://10.111.200.30/live/feed1001/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏",🔲A Sports HD 📶 ✅
-http://xtv.ooo:8080/87658765/91747291/219689
+
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲TPREMIER SPORTS 2 📶
 http://202.21.104.6:88/sps-play/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🟢 Sukan RTM 🟢 Malaiysia
