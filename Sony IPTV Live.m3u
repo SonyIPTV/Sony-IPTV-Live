@@ -1,10 +1,10 @@
 #EXTM3U
 
 ########################## Cricket 🏏 ##########################
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", 🏏NEWZEALAND🆚PAKISTAN🏏 Fancode
-https://a2uy.short.gy/PAK-VS-NZ/Manik-Chor-Xd/Join-@HimelOP_Official/Zubayer-Op.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Fancode 1
-https://freeiptv25.netlify.app/live/stream_10.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", 🏏T Sports 1
+https://live-cdn.tsports.com/live-01/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", T Sports 2
+https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Fancode 2
 https://freeiptv25.netlify.app/live/stream_11.m3u8
 
@@ -173,11 +173,15 @@ https://code.vthanhtivi.pw/getlink/eazie/243125/playlist.m3u8
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Channel.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery Hindi HD(BD)
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery HD
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery Malaysia
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png", TLC (L*)
 https://code.vthanhtivi.pw/getlink/eazie/243126/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png", TLC HD
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png", TLC English
 https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
 
@@ -199,6 +203,8 @@ https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel Channel(BD)
 https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel Channel (BD)
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Infotainment Channels",Gusto TV
 https://i.mjh.nz/SamsungTVPlus/CABB2500021YQ.m3u8
 
