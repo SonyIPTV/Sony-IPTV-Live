@@ -62,9 +62,17 @@ http://xtv.ooo:8080/shahz18/18usman/167582
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 
+######################### FTP 📺 ##########################
+#EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/18.png", Xplore 📶 𝗙𝗧𝗣 Unique 📶
+https://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD 📶 𝗙𝗧𝗣 Unique 📶
+http://11plus.live/live/ptv/index.m3u8
+#EXTINF:0, tvg-logo="http://11plus.live/img/tsports.jpg" group-title="FTP 📺", T Sports HD 📶Unique📶 
+https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶
 http://10.111.200.30/live/feed1001/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
+http://10.111.200.30/live/feed1001/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲TPREMIER SPORTS 2 📶
 http://202.21.104.6:88/sps-play/index.m3u8
@@ -80,8 +88,7 @@ https://mlb.mrgamingstreams.com/variety2.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/mh03f41638048848.png" group-title="Cricket 🏏",🔲 SUPER SPORTS VARIETY 3 📶 HD 
 https://mlb.mrgamingstreams.com/variety3.m3u8
 
-#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
-http://10.111.200.30/live/feed1001/index.m3u8
+
 
 ########################## Football 🛜 ##########################
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Arena 1 Sports HD
@@ -163,40 +170,38 @@ https://ctrl.laotv.la/live/TSport2/manifest.mpd
 #EXTINF:-1 ,
 
 ########################## Infotainment Channels ##########################
-#EXTINF:-1 tvg-id="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/National%20Geography1664975151.png" ch-number="563", Nat Geo UK
-https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeouk.m3u8
-#EXTINF:-1 tvg-id="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/National%20Geography1664975151.png" ch-number="563", Nat Geo 
-http://103.132.181.118:82/play/a006
+
+
 #EXTINF:-1 tvg-logo="http://11plus.live/img/dis.png" group-title="Infotainment Channels",Discovery_Bangla
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png", Discovery Asia HD B
-http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery HD (Subir)
+https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png", Discovery HD (Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png", Discovery Asia HD
-https://code.vthanhtivi.pw/getlink/eazie/243125/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery English HD (BD)
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png", Discovery English HD (BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Channel.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery Hindi HD(BD)
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png", Discovery Hindi HD(BD)
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery HD
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png", Discovery HD
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery Malaysia
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png", Discovery Asia HD
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png", TLC (L*)
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC (L*)
 https://code.vthanhtivi.pw/getlink/eazie/243126/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png", TLC HD
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.pngg", TLC HD
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png", TLC English
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC English
 https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
 
 
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Animal%20Planet1664974986.png", Animal Planet Multi Audio
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png", Animal Planet Multi Audio
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Animal%20Planet1664974986.png", Animal Planet Backup
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png", Animal Planet Backup
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
-#EXTINF:-1 tvg-logo="http://11plus.live/img/animalplanent.jpg" group-title="Infotainment Channels", Animal Planet HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-title="Infotainment Channels", Animal Planet HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png", ANIMAL PLANET HD
 https://code.vthanhtivi.pw/getlink/eazie/243127/playlist.m3u8
@@ -281,10 +286,4 @@ https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="NEWS INTERNASIONAL" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN International Europe 🌏
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-######################### FTP 📺 ##########################
-#EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/18.png", Xplore 📶 𝗙𝗧𝗣 Unique 📶
-https://xlpore-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD 📶 𝗙𝗧𝗣 Unique 📶
-http://11plus.live/live/ptv/index.m3u8
-#EXTINF:0, tvg-logo="http://11plus.live/img/tsports.jpg" group-title="FTP 📺", T Sports HD 📶Unique📶 
-https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=test
+
