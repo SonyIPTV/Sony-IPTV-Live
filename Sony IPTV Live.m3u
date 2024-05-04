@@ -34,6 +34,8 @@ https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏",🔲A Sports HD 📶 ✅
 http://xtv.ooo:8080/87658765/91747291/219689
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", A Sports HD 📶 NS Player✅
+http://103.131.214.129:9985/playlist
 
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", GTV 
 http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
@@ -93,7 +95,8 @@ https://mlb.mrgamingstreams.com/variety3.m3u8
 
 
 ########################## Football 🛜 ##########################
-
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Match Time e play Hobe
+https://play1nm.hnyongshun.cn/live/sd-6wXrYLk9Nhdiv6Hk5c.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜",  Sports HD USA EPL
 https://ovo.eelov.com/live/n-1/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜",   FIFA+
@@ -233,6 +236,8 @@ https://i.mjh.nz/SamsungTVPlus/ATBA1500021SL.m3u8
 https://i.mjh.nz/SamsungTVPlus/ATAJ0500428A.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",  BBC Earth
+https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Infotainment Channels",Nasa TV
 #https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",  BBC Travel
@@ -244,14 +249,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Entertainment",Colors Infinity SD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Infinity_SD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Entertainment",Colors Infinity HD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",DMAX
-https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Star Movies Select HD
+http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",DMAX
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 
 ########################## NEWS INTERNASIONAL ##########################
+
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",  Reuters 🛜
 https://i.mjh.nz/SamsungTVPlus/DEBD4900001QV.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", Euro News (AU) 🛜
