@@ -1,47 +1,56 @@
 #EXTM3U
 
 ########################## Cricket 🏏 ##########################
+#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Ban Vs Zim ✅
+https://1rdk.short.gy/Fancode-Worldwide/Ban-vs-Zim/Manik-Chora-Duchi/Join-TG-@HimelOP_Official.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", 🏏T Sports 1
 https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports 2
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", SKY SPORTS MAIN EVENT
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20832
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", আসটো 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Astro Crickt HD ✅Himel OP
 https://api.himel-op.top/semxy.m3u8?id=58129
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Astro Crickt HD ✅Freeiptv25
+https://freeiptv25.netlify.app/live/bdix/app/ASPCRI.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", IPL 1 (Star Sports1) 1
 http://watchindia.net:8880/live/83023/62335/2186.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ IPL 1
 https://mahabubur@bunyhlsipla.bunycdn.com/live/720pa.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ IPL 3
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ IPL 2
 https://CSKvsLSG@bunyhlsipla.bunycdn.com/live/720pa.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Astro Crickt HD ✅
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sky Sports Cricket📶 HD
+https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sky Sports Cricket📶 HD
+https://freeiptv25.netlify.app/live/bdix/app/SkySportsCri.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Super Sports Cricket
+https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏",🔲A Sports HD 📶 ✅
 http://xtv.ooo:8080/87658765/91747291/219689
 
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", GTV 
 http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Ban Vs Zim ✅
-https://1rdk.short.gy/Fancode-Worldwide/Ban-vs-Zim/Manik-Chora-Duchi/Join-TG-@HimelOP_Official.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", CricLife 2 ✅
-http://xtv.ooo:8080/shahz18/18usman/371470
 
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sky Sports Cricket📶 HD
-https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Super Sports Cricket
-https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports HD ✅ 
-http://176.119.29.52/live/00:1A:79:3E:D9:E8/565A380D32C6B/48010.m3u8?hlsid=8364868&redir=1
-
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", Fox 501
-http://sonyiptv.net:8080/1234567/1234567/247166
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Star Sports 1 Hindi
+https://freeiptv25.netlify.app/live/bdix/app/StarSports1Hindi.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Star Sports 1
+http://watchindia.net:8880/live/83023/62335/2456.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Star Sports 1
+https://freeiptv25.netlify.app/live/bdix/app/StarSports1HD.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Star Sports Select 1
+https://freeiptv25.netlify.app/live/bdix/app/StarSelect1.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Star Sports Select 2
+https://freeiptv25.netlify.app/live/bdix/app/StarSelect2.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Star Sports Select 2
+http://176.119.29.52:80/live/00:1A:79:73:AD:03/SN_AE8F6760B7126/98.m3u8
 
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA
