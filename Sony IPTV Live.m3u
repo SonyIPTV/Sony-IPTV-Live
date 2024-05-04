@@ -6,6 +6,8 @@ https://1rdk.short.gy/Fancode-Worldwide/Ban-vs-Zim/Manik-Chora-Duchi/Join-TG-@Hi
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", 🏏T Sports 1
 https://live-cdn.tsports.com/live-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", 🏏T Sports HD
+http://103.151.60.214:7444/1101/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports 2
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", SKY SPORTS MAIN EVENT
@@ -91,20 +93,9 @@ https://mlb.mrgamingstreams.com/variety3.m3u8
 
 
 ########################## Football 🛜 ##########################
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Arena 1 Sports HD
-http://37.18.239.36:8888/Arena_sport_1_HD/index.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜",  Sports HD USA EPL
 https://ovo.eelov.com/live/n-1/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Setanta Sports HD UA EPL
-http://ott.watch/stream/FNX4IGHIK4/313.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Матч! Футбол 1 HD UCL 
-http://ott.watch/stream/FNX4IGHIK4/130.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Матч! Футбол 2 HD UCL
-http://ott.watch/stream/FNX4IGHIK4/142.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Матч! Футбол 3 HD UCL
-http://ott.watch/stream/FNX4IGHIK4/185.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Матч ТВ HD News
-http://ott.watch/stream/FNX4IGHIK4/169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜",   FIFA+
 https://i.mjh.nz/SamsungTVPlus/CABD1200008JG.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜",  CCTV 5 Sports
@@ -115,36 +106,18 @@ https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Canal Sports 3
 http://145.239.5.177:8080/538/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Aio Sport 
-https://edge07.97588.ir.cdn.ir/hls2/aiosport.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Aio Sport 2
-https://edge07.97588.ir.cdn.ir/hls2/aiosport2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", TNT Sport 3
 https://ovo.eelov.com/live/n-3/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜",🔲 Sony LIV 📶 HD
-https://dai.google.com/linear/hls/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜",🔲 Sony LIV 1 📶 HD
-https://dai.google.com/linear/hls/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8
-
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/3ftgj11637160967.png", ✅ Saudi Pro League SSC 1 ✅
-https://af.ayassport.ir/hls2/ssc1.m3u8
-
-#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅BEIN Sports 1 Truevision
-https://edge1.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1, group-title="Football 🛜" tvg-logo=" ", ✅BEIN Sports 2 Truevision
-https://edge1.laotv.la/live/Bsport2/index.m3u8
-
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/e364dd59-562b-4157-a44a-c11c3b728557.jpeg", Bein Sports 1
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/394df566-c126-426a-854a-c41b75025213.jpeg", Bein Sports 2
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Football 🛜", Astro Supersport 1
+http://abcnew.site:8880/live/3ca7043n02/dsf23e423/59220.m3u8
+#EXTINF:-1 tvg-logo="https://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg" group-title="Football 🛜", Astro Supersport 2
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Football 🛜", Astro Supersport 3
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
 
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
 https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
-https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier Football 3
@@ -157,10 +130,7 @@ https://edge1.laotv.la/live/TSport1/index.m3u8
 
 #EXTINF:-1, group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2 🇹🇭
 https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", True Sports 2 HD
-https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://logowik.com/content/uploads/avatars/1510398226.png", True Sport2 Sports HD
-https://ctrl.laotv.la/live/TSport2/manifest.mpd
+
 
 
 #EXTINF:-1 ,
@@ -256,6 +226,9 @@ https://i.mjh.nz/SamsungTVPlus/ATBA1500021SL.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",  Xplore Frech HD
 https://i.mjh.nz/SamsungTVPlus/ATAJ0500428A.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Infotainment Channels",Nasa TV
+#https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",  BBC Travel
 https://i.mjh.nz/SamsungTVPlus/DEBA1000009TT.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",   BBC Food
