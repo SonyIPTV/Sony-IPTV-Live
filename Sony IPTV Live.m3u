@@ -41,7 +41,7 @@ http://xtv.ooo:8080/87658765/91747291/219689
 
 
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", GTV 
-http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
+http://103.151.60.214:7444/1102/video.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
