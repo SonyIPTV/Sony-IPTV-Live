@@ -66,10 +66,11 @@ http://xtv.ooo:8080/shahz18/18usman/220064
 http://xtv.ooo:8080/shahz18/18usman/167582
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 ######################### FTP 📺 ##########################
-#EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/18.png", Xplore 📶 𝗙𝗧𝗣 Unique 📶
-https://xlpore-samsungus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD 📶 𝗙𝗧𝗣 Unique 📶
 http://11plus.live/live/ptv/index.m3u8
 #EXTINF:0, tvg-logo="http://11plus.live/img/tsports.jpg" group-title="FTP 📺", T Sports HD 📶Unique📶 
@@ -151,6 +152,9 @@ https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 ,
 
 ########################## Infotainment Channels ##########################
+
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Xplore TV 📶 
+https://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discover Pakistan TV
 https://livess.ncare.live/live-orgin/discoverpakistan.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discover TV
