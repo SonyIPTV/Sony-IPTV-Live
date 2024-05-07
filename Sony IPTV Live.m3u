@@ -20,6 +20,9 @@ https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports IPL
 https://live-cdn.tsports.com/live-02/master_1920.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", GTV 
+http://103.151.60.214:7444/1102/video.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", SKY SPORTS MAIN EVENT
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20832
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Astro Crickt HD ✅Himel OP
@@ -33,6 +36,11 @@ http://watchindia.net:8880/live/83023/62335/2186.m3u8
 https://mahabubur@bunyhlsipla.bunycdn.com/live/720pa.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ IPL 2
 https://CSKvsLSG@bunyhlsipla.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ IPL Backup 1
+https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ IPL Backup 2
+https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Astro Crickt HD ✅
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sky Sports Cricket📶 HD
@@ -45,9 +53,6 @@ https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏",🔲A Sports HD 📶 ✅
 http://xtv.ooo:8080/87658765/91747291/219689
 
-
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", GTV 
-http://103.151.60.214:7444/1102/video.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
