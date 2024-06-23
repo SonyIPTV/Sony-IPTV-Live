@@ -3,46 +3,19 @@
 ######################## Cricket 🏏 ##########################
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",T 20 Blast ✅ Sony Liv
 https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", Toffee BANGLA 
-https://fdev.short.gy/IxPxLxRANAPKX73xBANGLA.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", Toffee ENG
-https://fdev.short.gy/IxPxLxRANAPKX73.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", T Sports HD 
+https://fmrx.short.gy/EURO_CUP_T_Sports/Join@AbidDthOfficial/ABID_DTH.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", PTV Sports 
 http://121.91.61.106:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Star Sports 1 ✅ 
-https://mominvaithanks.xyz/mominRocks/star1.ts
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", T_20 World Cup
-https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", A Sports T_20 World Cup
 https://homeip.biz/PK_PS/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", A Sports T_20 World Cup
-https://mominvaithanks.xyz/mominRocks/live.php?id=11216
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",  WILLOW CRICKET ✅ T_20 World Cup
-https://raw.githubusercontent.com/abidhasandth/ABID_DTH/main/M3U8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Star Sports 1
-http://watchindia.net:8880/live/83023/62335/2186.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Star Sports 2
-https://raw.githubusercontent.com/abidhasandth/ABID_DTH/main/M3U8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",  ASTRO CRICKET
 http://public.iptv18.tech/tata.php?id=206091&e=.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ASTRO CRICKET HD
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", SKY SPORTS Cricket
-https://raw.githubusercontent.com/abidhasandth/ABID_DTH/main/M3U8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", SKY SPORTS Cricket
 https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", Toffee Sports 1
-https://mominvaithanks.xyz/mominRocks/tf2.php?m3u8=https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", Toffee Sports 2
-https://mominvaithanks.xyz/mominRocks/tf2.php?m3u8=https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports IPL
-https://live-cdn.tsports.com/live-02/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg" group-title="Cricket 🏏", T Sports IPL
-https://live-cdn.tsports.com/live-02/master_1920.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", GTV 
 http://103.151.60.214:7444/1102/video.m3u8
@@ -71,20 +44,6 @@ http://xtv.ooo:8080/87658765/91747291/219689
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Star Sports 1 Hindi
-https://freeiptv25.netlify.app/live/bdix/app/StarSports1Hindi.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Star Sports 1
-http://watchindia.net:8880/live/83023/62335/2456.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Star Sports 1
-https://freeiptv25.netlify.app/live/bdix/app/StarSports1HD.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Star Sports Select 1
-https://freeiptv25.netlify.app/live/bdix/app/StarSelect1.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Star Sports Select 2
-https://freeiptv25.netlify.app/live/bdix/app/StarSelect2.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Star Sports Select 2
-http://176.119.29.52:80/live/00:1A:79:73:AD:03/SN_AE8F6760B7126/98.m3u8
-
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA
 http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
