@@ -84,7 +84,8 @@ https://mlb.mrgamingstreams.com/variety3.m3u8
 
 
 ########################## Football 🛜 ##########################
-
+#EXTINF:-1 tvg-logo="https://imgbb.com/]image" group-title="Football 🛜", Euro Sony Liv
+https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Match Time Only
 https://cdn-1.bdiptv24.line.pm/live/FS1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Match Time e play Hobe
