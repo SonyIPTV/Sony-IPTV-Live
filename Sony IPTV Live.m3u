@@ -10,7 +10,12 @@ https://fifabd.xyz/JOIN@TGxRANAPK33x/play.m3u8?id=match-2
 https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", T Sports HD 
 https://fmrx.short.gy/EURO_CUP_T_Sports/Join@AbidDthOfficial/ABID_DTH.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", Willow Xtra HD 
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png",group-title="Cricket 🏏", T Sports HD B
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7TyjmX/108693714.jpg" group-title="Cricket 🏏", Willow HD 
+https://mm5-97.tinyuri.org/live/m4-index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8CfWm5/2-18.webp " group-title="Cricket 🏏", Willow Xtra HD 
 https://mm5-97.tinyuri.org/live/m4-index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA
 http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
@@ -20,7 +25,7 @@ http://121.91.61.106:8000/play/a00l/index.m3u8
 https://homeip.biz/PK_PS/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", GTV 
-http://103.151.60.214:7444/1102/video.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Astro Crickt HD ✅
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
@@ -65,16 +70,21 @@ https://mlb.mrgamingstreams.com/variety3.m3u8
 
 
 ########################## Football 🛜 ##########################
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qWnKwGf/download-2.jpg" group-title="Football 🛜", Euro Sony Liv
 https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", TRT 1
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Match Time
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", RTL HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YpNt8KP/RTL-HD-Logo-2021-svg.png" group-title="Football 🛜", RTL HD
 https://s6.hopslan.com/rtlq122/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Servus TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HHC5xv4/images.png" group-title="Football 🛜", Servus TV
 https://s6.hopslan.com/servus2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HHC5xv4/images.png" group-title="Football 🛜", Servus TV
+https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Match Time Only
 https://cdn-1.bdiptv24.line.pm/live/FS1/index.m3u8
@@ -100,35 +110,6 @@ http://145.239.5.177:8080/538/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", TNT Sport 3
 https://ovo.eelov.com/live/n-3/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Football 🛜", Astro Supersport 1
-http://abcnew.site:8880/live/3ca7043n02/dsf23e423/59220.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Football 🛜", Astro Supersport 1
-https://freeiptv25.netlify.app/live/bdix/app/ASP1.m3u8
-#EXTINF:-1 tvg-logo="https://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg" group-title="Football 🛜", Astro Supersport 2
-https://freeiptv25.netlify.app/live/bdix/app/ASP2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Football 🛜", Astro Supersport 3
-https://freeiptv25.netlify.app/live/bdix/app/ASP3.m3u8
-
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
-https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
-https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier Football 3
-https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1 🇹🇭
-https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1 🇹🇭
-https://edge1.laotv.la/live/TSport1/index.m3u8
-
-#EXTINF:-1, group-title="Football 🛜" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2 🇹🇭
-https://ctrl.laotv.la/live/TSport2/index.m3u8
-
-
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
 
 #EXTINF:-1 ,
 
