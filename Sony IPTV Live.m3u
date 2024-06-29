@@ -12,29 +12,15 @@ https://pubads.g.doubleclick.net/ssai/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
 https://fmrx.short.gy/EURO_CUP_T_Sports/Join@AbidDthOfficial/ABID_DTH.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", Willow Xtra HD 
 https://mm5-97.tinyuri.org/live/m4-index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA
+http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", PTV Sports 
 http://121.91.61.106:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", A Sports T_20 World Cup
 https://homeip.biz/PK_PS/index.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",  ASTRO CRICKET
-http://public.iptv18.tech/tata.php?id=206091&e=.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ASTRO CRICKET HD
-https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", SKY SPORTS Cricket
-https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", GTV 
 http://103.151.60.214:7444/1102/video.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", SKY SPORTS MAIN EVENT
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20832
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Astro Crickt HD ✅
-https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Astro Crickt HD ✅Freeiptv25
-https://freeiptv25.netlify.app/live/bdix/app/ASPCRI.m3u8
-
-
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Astro Crickt HD ✅
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
@@ -45,17 +31,9 @@ https://freeiptv25.netlify.app/live/bdix/app/SkySportsCri.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Super Sports Cricket
 https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Cricket 🏏",🔲A Sports HD 📶 ✅
-http://xtv.ooo:8080/87658765/91747291/219689
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA
-http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA B
-http://xtv.ooo:8080/shahz18/18usman/220064
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA B
-http://xtv.ooo:8080/shahz18/18usman/167582
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
