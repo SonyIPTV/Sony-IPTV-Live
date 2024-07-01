@@ -43,59 +43,38 @@ https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-######################### FTP 📺 ##########################
-
-#EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD 📶 𝗙𝗧𝗣 Unique 📶
-http://11plus.live/live/ptv/index.m3u8
-#EXTINF:0, tvg-logo="http://11plus.live/img/tsports.jpg" group-title="FTP 📺", T Sports HD 📶Unique📶 
-https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶
-http://10.111.200.30/live/feed1001/index.m3u8
-#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
-http://10.111.200.30/live/feed1001/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲TPREMIER SPORTS 2 📶
 http://202.21.104.6:88/sps-play/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🟢 Sukan RTM 🟢 Malaiysia
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🟢 Sukan🟢 Malaiysia
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/9vnt801638048828.png" group-title="Cricket 🏏",🔲 SUPER SPORTS VARIETY 2 📶 HD 
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 SUPER SPORTS VARIETY 2 📶 HD 
 https://mlb.mrgamingstreams.com/variety2.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/mh03f41638048848.png" group-title="Cricket 🏏",🔲 SUPER SPORTS VARIETY 3 📶 HD 
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 SUPER SPORTS VARIETY 3 📶 HD 
 https://mlb.mrgamingstreams.com/variety3.m3u8
 
-
-
 ########################## Football 🛜 ##########################
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8K4KxYr/download-2.png" group-title="Football 🛜",  Sports HD USA EPL
+https://ovo.eelov.com/live/n-1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qWnKwGf/download-2.jpg" group-title="Football 🛜", Euro Sony Liv
 https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", TRT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMhQHDt/images.png" group-title="Football 🛜", TRT 1
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Match Time
-https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMhQHDt/images.png" group-title="Football 🛜", TRT HD Euro
+https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YpNt8KP/RTL-HD-Logo-2021-svg.png" group-title="Football 🛜", RTL HD
 https://s6.hopslan.com/rtlq122/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HHC5xv4/images.png" group-title="Football 🛜", Servus TV
 https://s6.hopslan.com/servus2/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HHC5xv4/images.png" group-title="Football 🛜", Servus TV
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Match Time Only
 https://cdn-1.bdiptv24.line.pm/live/FS1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Match Time e play Hobe
-https://cdn-1.bdiptv24.line.pm/live/FS1US/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", TSN 1
 https://cdn-1.bdiptv24.line.pm/live/TSN1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", TXNMax 1
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜",  Sports HD USA EPL
-https://ovo.eelov.com/live/n-1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜",   FIFA+
 https://i.mjh.nz/SamsungTVPlus/CABD1200008JG.m3u8
@@ -107,11 +86,34 @@ https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Canal Sports 3
 http://145.239.5.177:8080/538/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", TNT Sport 3
-https://ovo.eelov.com/live/n-3/chunks.m3u8
 
+######################### FTP 📺 ##########################
+#EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD 📶 𝗙𝗧𝗣 Unique 📶
+http://11plus.live/live/ptv/index.m3u8
+#EXTINF:0, tvg-logo="http://11plus.live/img/tsports.jpg" group-title="FTP 📺", T Sports HD 📶Unique📶 
+https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶
+http://10.111.200.30/live/feed1001/index.m3u8
+#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
+http://10.111.200.30/live/feed1001/index.m3u8
 
-#EXTINF:-1 ,
+########################## ISLAMIC CHANNELS ##########################
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/Jj9wy2q/IMG-20240129-062807.jpg",MAKKAH Tv
+https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TPdPzcn/IMG-20240126-102629.jpg"group-title="ISLAMIC CHANNELS",ATN ISLAMIC TV
+https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/YdZR2jZ/IMG-20240129-062846.jpg",ISLAM Tv
+https://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV
+https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/VjGgqcc/images-2024-03-02-T220831-913.jpg",ISLAM Bangla
+https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L5DsYMv/IMG-20240205-094204.jpg" group-title="ISLAMIC CHANNELS", MADANI TV BANGLA
+http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg"group-title="ISLAMIC CHANNELS",DEEN TV
+https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sbyq79V/IMG-20240126-102440.jpg" group-title="ISLAMIC CHANNELS", IQRA BANGLA
+https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 
 ########################## Infotainment Channels ##########################
 
