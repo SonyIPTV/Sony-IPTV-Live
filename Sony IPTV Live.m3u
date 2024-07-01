@@ -3,8 +3,8 @@
 ######################## Cricket 🏏 ##########################
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StqzYT2/mobile-logo-060681001717400250.png" group-title="Cricket 🏏", Toffee ENG
 https://fifabd.xyz/JOIN@TGxRANAPK33x/play.m3u8?id=match-1
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300099/logo/240x240/mobile_logo_332351001717400403.png"group-title="Cricket 🏏", Toffee 2
-https://fifabd.xyz/JOIN@TGxRANAPK33x/play.m3u8?id=match-2
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png",group-title="Cricket 🏏", T Sports HD B
+https://fmrx.short.gy/EURO_CUP_T_Sports/Join@AbidDthOfficial/ABID_DTH.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhpHPxx/download.jpg" group-title="Cricket 🏏", Sky Sports Cricket
 https://us.score806.cc/uk_sscricket/tracks-v1a1/mono.m3u8
@@ -55,6 +55,8 @@ https://mlb.mrgamingstreams.com/variety2.m3u8
 https://mlb.mrgamingstreams.com/variety3.m3u8
 
 ########################## Football 🛜 ##########################
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8K4KxYr/download-2.png" group-title="Football 🛜",  Super Sports HD 
+http://145.239.5.177:8080/566/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4KxYr/download-2.png" group-title="Football 🛜",  Sports HD USA EPL
 https://ovo.eelov.com/live/n-1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qWnKwGf/download-2.jpg" group-title="Football 🛜", Euro Sony Liv
