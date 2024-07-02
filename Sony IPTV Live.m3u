@@ -120,7 +120,10 @@ https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 
 ########################## Infotainment Channels ##########################
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HVTPBf7/download-2.jpg" group-title="Infotainment Channels", Star Jalsha HD 
+https://fsd3.short.gy/Star_jalsha.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DbrxTbf/download-3.jpg" group-title="Infotainment Channels", Zee_Bangla
+https://fsd3.short.gy/Zee_Bangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Zee Bangla Cinema 
 https://dai.google.com/ssai/event/MQ737atmSaWzYp63efXNTQ/master.m3u8 
 
