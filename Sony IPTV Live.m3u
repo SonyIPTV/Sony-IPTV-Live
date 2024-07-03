@@ -3,11 +3,8 @@
 ######################## Cricket 🏏 ##########################
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VB9y6Mf/download-3.png" group-title="Cricket 🏏", LPL 24 Fancode 
 https://dai.fancode.com/primary/103767_english_hls_6109ta-di/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VB9y6Mf/download-3.png" group-title="Cricket 🏏", LPL 24 Worldwide Fancode 
 https://1rdk.short.gy/LPL-2024-Worldwide/50fps-auto/Join-TG-@HimelOP_Official.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VB9y6Mf/download-3.png" group-title="Cricket 🏏", LPL 24 Fancode  Use Indian IP
 https://mls3.fancode.com/103767_english_hls_6109ta-di/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png",group-title="Cricket 🏏", T Sports HD B
@@ -62,6 +59,10 @@ https://mlb.mrgamingstreams.com/variety2.m3u8
 https://mlb.mrgamingstreams.com/variety3.m3u8
 
 ########################## Football 🛜 ##########################
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D9KhnQN/download-4.jpg" group-title="Football 🛜",  Premier Sports 1 
+https://cdn.hotflix-bd.online/hotflixbd/Premier-sports1/index.m3u8
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png",group-title="Football 🛜", T Sports HD B
+https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4KxYr/download-2.png" group-title="Football 🛜",  Super Sports HD 
 http://145.239.5.177:8080/566/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4KxYr/download-2.png" group-title="Football 🛜",  Sports HD USA EPL
