@@ -59,25 +59,26 @@ https://mlb.mrgamingstreams.com/variety2.m3u8
 https://mlb.mrgamingstreams.com/variety3.m3u8
 
 ########################## Football 🛜 ##########################
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D9KhnQN/download-4.jpg" group-title="Football 🛜", Premier Sports 1 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D9KhnQN/download-4.jpg" group-title="Football 🛜", Premier Sports 1  🏆
 https://cdn.hotflix-bd.online/hotflixbd/Premier-sports1/index.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png",group-title="Football 🛜", T Sports HD B
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png",group-title="Football 🛜", T Sports HD 🏆
 https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png",group-title="Football 🛜", COPA AMERICA 2024 🏆
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qWnKwGf/download-2.jpg" group-title="Football 🛜", Euro Sony Liv
-https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PMhQHDt/images.png" group-title="Football 🛜", TRT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qWnKwGf/download-2.jpg" group-title="Football 🛜", Euro Sony Liv 🏆
+https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8       
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Football 🛜", VTC 1 HD 🏆
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMhQHDt/images.png" group-title="Football 🛜", TRT 1 🏆
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PMhQHDt/images.png" group-title="Football 🛜", TRT HD Euro
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMhQHDt/images.png" group-title="Football 🛜", TRT HD Euro 🏆
 https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YpNt8KP/RTL-HD-Logo-2021-svg.png" group-title="Football 🛜", TXNMax 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YpNt8KP/RTL-HD-Logo-2021-svg.png" group-title="Football 🛜", TXN Max 1 🏆
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HHC5xv4/images.png" group-title="Football 🛜", Servus TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HHC5xv4/images.png" group-title="Football 🛜", Servus TV 🏆
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", TSN 1
+#EXTINF:-1 tvg-logo="" group-title="Football 🛜", TSN 1 🏆
 https://cdn-1.bdiptv24.line.pm/live/TSN1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TvMbnLR/download-2.png" group-title="Football 🛜", CCTV5 HD
 https://node3.olelive.com:6443/live/CCTV5HD_360/hls.m3u8
 
