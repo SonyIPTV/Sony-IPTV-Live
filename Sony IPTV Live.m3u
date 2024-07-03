@@ -40,25 +40,18 @@ https://freeiptv25.netlify.app/live/bdix/app/SkySportsCri.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ Super Sports Cricket
 https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
 
-
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 Event TV 📶 HD
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲TPREMIER SPORTS 2 📶
-http://202.21.104.6:88/sps-play/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🟢 Sukan RTM 🟢 Malaiysia
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🟢 Sukan🟢 Malaiysia
-https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/02.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 SUPER SPORTS VARIETY 2 📶 HD 
-https://mlb.mrgamingstreams.com/variety2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",🔲 SUPER SPORTS VARIETY 3 📶 HD 
-https://mlb.mrgamingstreams.com/variety3.m3u8
 
 ########################## Football 🛜 ##########################
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3f8d5VC/download-5.png" group-title="Football 🛜", bein sports 4k🏆
+https://kora-sa.live/hls/1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D9KhnQN/download-4.jpg" group-title="Football 🛜", Premier Sports 1  🏆
 https://cdn.hotflix-bd.online/hotflixbd/Premier-sports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png",group-title="Football 🛜", T Sports HD 🏆
