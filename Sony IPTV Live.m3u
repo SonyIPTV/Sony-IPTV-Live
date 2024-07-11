@@ -107,38 +107,18 @@ https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 
 ########################## Infotainment Channels ##########################
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HVTPBf7/download-2.jpg" group-title="Infotainment Channels", Star Jalsha HD 
-https://fsd3.short.gy/Star_jalsha.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DbrxTbf/download-3.jpg" group-title="Infotainment Channels", Zee_Bangla
-https://fsd3.short.gy/Zee_Bangla.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Zee Bangla Cinema 
-https://dai.google.com/ssai/event/MQ737atmSaWzYp63efXNTQ/master.m3u8 
-
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Zee Cinema 
-https://dai.google.com/ssai/event/XUmyfp_MQk2H_cTDIvz6aA/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Xplore TV 📶 
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Xplore TV 
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discover Pakistan TV
-https://livess.ncare.live/live-orgin/discoverpakistan.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discover TV
-https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Channel.m3u8
 
-#EXTINF:-1 tvg-logo="http://11plus.live/img/dis.png" group-title="Infotainment Channels",Discovery_Bangla
-https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png", Discovery HD
-https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png", Discovery HD (Subir)
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png", Discovery HD
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.pngg", Discovery HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png", Discovery English HD (BD)
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.png", Discovery English HD
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Channel.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png", Discovery Hindi HD (BD)
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.png", Discovery Hindi HD (BD)
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png", Discovery HD
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.png", Discovery HD
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png", Discovery Asia HD
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.png", Discovery Asia HD
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
@@ -196,19 +176,15 @@ https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Infotainment Channels",Nasa TV
 #https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",  BBC Travel
-https://i.mjh.nz/SamsungTVPlus/DEBA1000009TT.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", BBC Food
-https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
 
+
+########################## Entertainment ##########################
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Entertainment",Colors Infinity SD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Infinity_SD_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", Star Movies Select HD
 http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",DMAX
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 
 ########################## NEWS INTERNASIONAL ##########################
 
