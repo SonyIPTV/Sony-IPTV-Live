@@ -91,7 +91,16 @@ https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=test
 http://10.111.200.30/live/feed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
+########################## Bangladeshi 📺 ##########################
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1mPjQ4L/download-4.jpg" group-title="Bangladeshi 📺",Independent TV
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k4yxkv4/download-3.jpg" group-title="Bangladeshi 📺",Ekattor TV
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3rnwvDD/download-2.jpg" group-title="Bangladeshi 📺",Ekhon TV
+https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hDbbNZT/download-1.png" group-title="Bangladeshi 📺",Channel 24
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=8O3IYV3xDOtCriJk7aHtVA&expires=1721054527&user=d477246e9e724f81a011b847457e71c4
 ########################## ISLAMIC CHANNELS ##########################
 #EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/Jj9wy2q/IMG-20240129-062807.jpg",MAKKAH Tv
 https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
