@@ -201,19 +201,13 @@ http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
 
 ########################## NEWS INTERNASIONAL ##########################
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",  Reuters 🛜
-https://i.mjh.nz/SamsungTVPlus/DEBD4900001QV.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", Euro News (AU) 🛜
-https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", FRANCE 24 FAST 🛜
-https://i.mjh.nz/SamsungTVPlus/GBBD1100002L5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", RT News (EN) 🛜
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="NEWS INTERNASIONAL", RT News (EN) 🛜
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", CNBC Indonesia (EN) 🛜
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tv1pgrG/download-4.png" group-title="NEWS INTERNASIONAL", CNBC Indonesia (EN) 🛜
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", CGTN News (EN) 🛜
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fHPbTH/images.jpg" group-title="NEWS INTERNASIONAL", CGTN News (EN) 🛜
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",Iran International(EN) 🛜
