@@ -3,10 +3,7 @@
 ######################## Cricket 🏏 ####################################################
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VB9y6Mf/download-3.png" group-title="Cricket 🏏", LPL 24 Fancode 
 https://dai.fancode.com/primary/103767_english_hls_6109ta-di/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VB9y6Mf/download-3.png" group-title="Cricket 🏏", Eng Vs WI 
-https://dai.google.com/linear/hls/event/_P6WBA4YTomLa7Aoliytog/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VB9y6Mf/download-3.png" group-title="Cricket 🏏", LPL 24 Fancode  Use Indian IP
-https://mls3.fancode.com/103767_english_hls_6109ta-di/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png", group-title="Cricket 🏏", T Sports HD
 https://homeip.biz/GaziTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png", group-title="Cricket 🏏", T Sports HD B
@@ -26,11 +23,11 @@ https://mm5-97.tinyuri.org/live/m4-index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA
 http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", PTV Sports 
-http://121.91.61.106:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", A Sports T_20 World Cup
+http://filex.tv:8080/mohsin8080/347509/250211
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bdX7X4s/download-2.jpg" group-title="Cricket 🏏", A Sports T_20 World Cup
 https://homeip.biz/PK_PS/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", GTV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CzQG41G/images.jpg" group-title="Cricket 🏏", GTV 
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
@@ -49,12 +46,12 @@ https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
 https://dai.google.com/ssai/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="Football 🛜", Ten 2 🏆
 https://tsneh.vercel.app/eagleflix.ten2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3f8d5VC/download-5.png" group-title="Football 🛜", bein sports 4k🏆
-https://kora-sa.live/hls/1/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D9KhnQN/download-4.jpg" group-title="Football 🛜", Premier Sports 1  🏆
-https://cdn.hotflix-bd.online/hotflixbd/Premier-sports1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TvMbnLR/download-2.png" group-title="Football 🛜", CCTV5 HD
+https://node3.olelive.com:6443/live/CCTV5HD_360/hls.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png",group-title="Football 🛜", T Sports HD 🏆
-https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8 
+http://filex.tv:8080/mohsin8080/347509/111409
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png",group-title="Football 🛜", COPA AMERICA 2024 🏆
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png",group-title="Football 🛜", TV Azteca 🏆
@@ -74,13 +71,9 @@ https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", TSN 1 🏆
 https://cdn-1.bdiptv24.line.pm/live/TSN1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TvMbnLR/download-2.png" group-title="Football 🛜", CCTV5 HD
-https://node3.olelive.com:6443/live/CCTV5HD_360/hls.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜",   FIFA+
 https://i.mjh.nz/SamsungTVPlus/CABD1200008JG.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TvMbnLR/download-2.png" group-title="Football 🛜",  CCTV 5 Sports
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Canal Sports 3
 http://145.239.5.177:8080/538/index.m3u8
 
