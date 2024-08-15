@@ -11,20 +11,11 @@ https://fmrx.short.gy/bdixiptvhub/sony_bbc_earth_hd.m3u8
 http://filex.tv:8080/mohsin8080/347509/52106
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JxgDTGW/download-4.png", group-title="Cricket 🏏", TEN CRICKET HD
 http://filex.tv:8080/mohsin8080/347509/99833
-EXTINF:-1 tvg-logo="https://i.ibb.co/crM4ptt/download-3.jpg", group-title="Cricket 🏏", SKY SPORTS CRICKET FHD
-http://filex.tv:8080/mohsin8080/347509/250199
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png", group-title="Cricket 🏏", T Sports HD
-https://cdn.querysports.com/hls/copa_1080.m3u8
-#https://homeip.biz/GaziTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png", group-title="Cricket 🏏", T Sports HD B
-https://fmrx.short.gy/EURO_CUP_T_Sports/Join@AbidDthOfficial/ABID_DTH.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhpHPxx/download.jpg" group-title="Cricket 🏏", Sky Sports Cricket
 https://us.score806.cc/uk_sscricket/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", T Sports HD 
-https://fmrx.short.gy/EURO_CUP_T_Sports/Join@AbidDthOfficial/ABID_DTH.m3u8
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png",group-title="Cricket 🏏", T Sports HD B
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jhpHPxx/download.jpg" group-title="Cricket 🏏", Sky Sports Cricket
+http://filex.tv:8080/mohsin8080/347509/250199
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7TyjmX/108693714.jpg" group-title="Cricket 🏏", Willow HD 
 https://mm5-97.tinyuri.org/live/m4-index.m3u8
@@ -32,13 +23,9 @@ https://mm5-97.tinyuri.org/live/m4-index.m3u8
 https://mm5-97.tinyuri.org/live/m4-index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA
 http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
-#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", PTV Sports 
-http://filex.tv:8080/mohsin8080/347509/250211
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bdX7X4s/download-2.jpg" group-title="Cricket 🏏", A Sports T_20 World Cup
 https://homeip.biz/PK_PS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CzQG41G/images.jpg" group-title="Cricket 🏏", GTV 
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
@@ -46,14 +33,9 @@ https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 🟢 Sukan RTM 🟢 Malaiysia
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
 
 ########################## Football 🛜 ##########################
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qWnKwGf/download-2.jpg" group-title="Football 🛜", Euro Sony Liv 🏆
-https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qWnKwGf/download-2.jpg" group-title="Football 🛜", Euro Sony Liv Eng 🏆
-https://dai.google.com/ssai/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="Football 🛜", Ten 2 🏆
 https://tsneh.vercel.app/eagleflix.ten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TvMbnLR/download-2.png" group-title="Football 🛜", CCTV5 HD
@@ -66,24 +48,12 @@ http://filex.tv:8080/mohsin8080/347509/111409
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png",group-title="Football 🛜", TV Azteca 🏆
 https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png",group-title="Football 🛜", Soco Live 🏆
-https://pull.niues.live/live/stream-9912096_lsd.m3u8?auth_key=1718481015-0-0-cbe72d7ce511ce3fb2319d8190a7cec8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Football 🛜", VTC 1 HD 🏆
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PMhQHDt/images.png" group-title="Football 🛜", TRT 1 🏆
-https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PMhQHDt/images.png" group-title="Football 🛜", TRT HD Euro 🏆
-https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YpNt8KP/RTL-HD-Logo-2021-svg.png" group-title="Football 🛜", TXN Max 1 🏆
-https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HHC5xv4/images.png" group-title="Football 🛜", Servus TV 🏆
-https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", TSN 1 🏆
 https://cdn-1.bdiptv24.line.pm/live/TSN1/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜",   FIFA+
-https://i.mjh.nz/SamsungTVPlus/CABD1200008JG.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football 🛜", Canal Sports 3
 http://145.239.5.177:8080/538/index.m3u8
 
