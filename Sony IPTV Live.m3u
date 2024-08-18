@@ -3,14 +3,15 @@
 ######################## Cricket 🏏 ####################################################
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Live Envent
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYRP552/images-1.jpg" group-title="Cricket 🏏",SOMOY TV
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/72YgBCk/download-1.png" group-title="Cricket 🏏", CHANNEL 24 
 https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rc9V6fv/download-2.jpg" group-title="Cricket 🏏", Jamuna TV 
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rc9V6fv/download-2.jpg" group-title="Cricket 🏏", Jamuna TV 
 https://utube.buddyxiptv.com/@jamunatvbd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3rYngJk/Sony-BBC-Earth.png" group-title="Cricket 🏏", SONY BBC EARTH HD
-https://fmrx.short.gy/bdixiptvhub/sony_bbc_earth_hd.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Cricket 🏏",WILLOW CRICKET 
 https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8?hdnea=st=1723822742~exp=1723823042~acl=*~id=33c99bf8-07de-432d-931e-6de9e755fe99~hmac=ef4989db731e70232cbe8648175266d67498e5545135d840a5e9ae1dfd2c9918
 
@@ -107,6 +108,8 @@ https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 https://fmrx.short.gy/national_geographic/bdixiptvhub.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Xplore TV 
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3rYngJk/Sony-BBC-Earth.png" group-title="Infotainment Channels", SONY BBC EARTH HD
+https://fmrx.short.gy/bdixiptvhub/sony_bbc_earth_hd.m3u8
 
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.pngg", Discovery HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
