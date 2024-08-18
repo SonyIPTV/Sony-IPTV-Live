@@ -38,31 +38,33 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 ########################## Football 🛜 ##########################
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜",Live Football 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7wKLds/images.png" group-title="Football",Laliga-TV
+https://himel-op.top/Join-Telegram-@HimelOP_Official/laliga-tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Live Football 
 https://xcdn.bong.ink/hls/bong1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Bein Sports English 
+#EXTINF:-1 tvg-logo="" group-title="Football", Bein Sports English 
 http://worldcup1.sawatvplus.store/streams_cach/158552.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Bein Sports SD
+#EXTINF:-1 tvg-logo="" group-title="Football", Bein Sports SD
 http://sawa1.sawaghost1.xyz/live121/158529.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="Football 🛜", Ten 2 🏆
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="Football", Ten 2 🏆
 https://tsneh.vercel.app/eagleflix.ten2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TvMbnLR/download-2.png" group-title="Football 🛜", CCTV5 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TvMbnLR/download-2.png" group-title="Football", CCTV5 HD
 https://node3.olelive.com:6443/live/CCTV5HD_360/hls.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png",group-title="Football 🛜", T Sports HD 🏆
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png",group-title="Football", T Sports HD 🏆
 http://filex.tv:8080/mohsin8080/347509/111409
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png",group-title="Football 🛜", COPA AMERICA 2024 🏆
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png",group-title="Football", COPA AMERICA 2024 🏆
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png",group-title="Football 🛜", TV Azteca 🏆
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png",group-title="Football", TV Azteca 🏆
 https://ch1-tva.duin.dev/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Football 🛜", VTC 1 HD 🏆
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Football", VTC 1 HD 🏆
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", TSN 1 🏆
+#EXTINF:-1 tvg-logo="" group-title="Football", TSN 1 🏆
 https://cdn-1.bdiptv24.line.pm/live/TSN1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football 🛜", Canal Sports 3
+#EXTINF:-1 tvg-logo="" group-title="Football", Canal Sports 3
 http://145.239.5.177:8080/538/index.m3u8
 
 ######################### FTP 📺 ##########################
