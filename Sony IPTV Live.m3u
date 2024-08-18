@@ -18,25 +18,10 @@ https://humsab.xyz/S_Ten5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=G14x4UW6j-IQF_pH586ITA&expires=1724029532&user=8c122f042c3043aba79a72f643fda382
 #https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KhC1jPs/download-1.png" group-title="Cricket 🏏", Ten Sports HD
-http://filex.tv:8080/mohsin8080/347509/52106
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JxgDTGW/download-4.png", group-title="Cricket 🏏", TEN CRICKET HD
-http://filex.tv:8080/mohsin8080/347509/99833
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jhpHPxx/download.jpg" group-title="Cricket 🏏", Sky Sports Cricket
-https://us.score806.cc/uk_sscricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhpHPxx/download.jpg" group-title="Cricket 🏏", Sky Sports Cricket
 http://filex.tv:8080/mohsin8080/347509/250199
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7TyjmX/108693714.jpg" group-title="Cricket 🏏", Willow HD 
-https://mm5-97.tinyuri.org/live/m4-index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8CfWm5/2-18.webp " group-title="Cricket 🏏", Willow Xtra HD 
-https://mm5-97.tinyuri.org/live/m4-index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ WILLOW EXTRA
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png", ✅ WILLOW EXTRA
 http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bdX7X4s/download-2.jpg" group-title="Cricket 🏏", A Sports T_20 World Cup
-https://homeip.biz/PK_PS/index.m3u8
-
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
