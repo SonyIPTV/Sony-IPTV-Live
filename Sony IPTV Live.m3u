@@ -45,7 +45,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 ########################## Football 🛜 ##########################
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7wKLds/images.png" group-title="Football",Laliga-TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JxrWc1w/download-5.jpg" group-title="Football", Sky_Sports_Premier_League
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Premier_League/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hg6CS97/download-1.png" group-title="Football", Super Sport LaLiga
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7wKLds/images.png" group-title="Football", Laliga-TV
 https://himel-op.top/Join-Telegram-@HimelOP_Official/laliga-tv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Live Football 
 https://xcdn.bong.ink/hls/bong1.m3u8
