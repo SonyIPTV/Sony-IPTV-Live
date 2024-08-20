@@ -3,6 +3,8 @@
 ######################## Cricket 🏏 ####################################################
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Live Envent
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYRP552/images-1.jpg" group-title="Cricket 🏏",SOMOY TV 📺
+https://tsneh.vercel.app/manikchor.join@freedishbhai.somoy.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QYRP552/images-1.jpg" group-title="Cricket 🏏",SOMOY TV
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/72YgBCk/download-1.png" group-title="Cricket 🏏", CHANNEL 24 
@@ -33,6 +35,12 @@ https://cdn.querysports.com/hls/copa_1080.m3u8
 #https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhpHPxx/download.jpg" group-title="Cricket 🏏", Sky Sports Cricket
 http://filex.tv:8080/mohsin8080/347509/250199
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jhpHPxx/download.jpg" group-title="Cricket 🏏", Sky Sports Cricket 
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TWMdq1V/images.png" group-title="Cricket 🏏", Willow Cricket
+https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png", WILLOW EXTRA
+https://vipgoodlive-tvs.creativehub.sbs/Willow_Extra_Live_TV/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png", ✅ WILLOW EXTRA
 http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
 
@@ -45,12 +53,20 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 ########################## Football 🛜 ##########################
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VJyYgQF/download-7.jpg" group-title="Football", Sky Sports Mix
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Main_Event/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DK8FfrZ/download-4.png" group-title="Football", Sky Sports Mix
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Mix_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pb2FPWr/download-6.jpg" group-title="Football", Sky Sports Football
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JxrWc1w/download-5.jpg" group-title="Football", Sky_Sports_Premier_League
 https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Premier_League/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hg6CS97/download-1.png" group-title="Football", Super Sport LaLiga
 https://vipgoodlive-tvs.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M7wKLds/images.png" group-title="Football", Laliga-TV
 https://himel-op.top/Join-Telegram-@HimelOP_Official/laliga-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7wKLds/images.png" group-title="Football", Laliga-TV
+https://vipgoodlive-tvs.creativehub.sbs/La_Liga_TV_Live_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Live Football 
 https://xcdn.bong.ink/hls/bong1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Bein Sports English 
