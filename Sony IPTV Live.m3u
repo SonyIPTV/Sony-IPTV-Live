@@ -1,6 +1,8 @@
 #EXTM3U
 
 ######################## Cricket 🏏 ####################################################
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/6DZ4Lr2/098f8c00-33a0-4e53-96f9-e1d9dfd3f252.jpg", Bangladesh Vs Pakistan 
+https://bdix.proximitybd.xyz/Fazla-Rabby-t-sports.php?id=live-02&e.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Live Envent
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QYRP552/images-1.jpg" group-title="Cricket 🏏",SOMOY TV 📺
