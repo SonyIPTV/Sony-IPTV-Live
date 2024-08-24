@@ -40,9 +40,9 @@ http://ekdilhai.pro/IN_SNT2/index.m3u8?token=ed35bc130772d0d29435cee71272324c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Cricket 🏏",SONY SPORTS 5
 https://humsab.xyz/S_Ten5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=G14x4UW6j-IQF_pH586ITA&expires=1724029532&user=8c122f042c3043aba79a72f643fda382
+https://tv.sportsoneapp.workers.dev/tsports/hex.m3u8?id=02
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD
-https://cdn.querysports.com/hls/copa_1080.m3u8
+https://tv.sportsoneapp.workers.dev/tsports/hex.m3u8?id=02
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD B
 https://bdix.proximitybd.xyz/Fazla-Rabby-t-sports.php?id=live-02&e.m3u8
 #https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
