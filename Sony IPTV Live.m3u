@@ -10,62 +10,33 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rc9V6fv/download-2.jpg" group-title="Cricket 🏏", Jamuna TV 
 https://utube.buddyxiptv.com/@jamunatvbd.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=t_sports
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Super sports action 
 https://sports.bdixtv24.com/m3u8.php/superactions.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Super Sports laliga 
 https://sports.bdixtv24.com/m3u8.php/superlaliga.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Super Sports Prime League 
 https://sports.bdixtv24.com/m3u8.php/superpremier.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",PTV Sports 🏏 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg",PTV Sports 🏏 
 https://sports.bdixtv24.com/m3u8.php/ptvpk.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Ten Sports HD pak
-https://sports.bdixtv24.com/m3u8.php/tenspk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png",group-title="Cricket 🏏", Football 2024 🏆
-https://bong.ink/zone-11.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r6FJsv4/14b3a6d6-c9bc-4966-8e2a-b8142dfd6ee6.jpg" group-title="Cricket 🏏", Himel OP Sports
-https://himel-op.top/Join-Telegram-@HimelOP_Official/puk.m3u8?id=22144
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XjCw6Fv/download-6.jpg" group-title="Cricket 🏏", GTV Sports HD
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=NPYUKjaQzKH-LZ6AID3IRg&expires=1724793073&user=ec6dd7dec84545a2a15edb664bb2d4aa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=4ZfKfdV16f2UBwEikX6OsA&expires=1724793132&user=8c122f042c3043aba79a72f643fda382
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg" group-title="Cricket 🏏", PTV Sports HD
 https://test-tan-iota-90.vercel.app/live/bdix/app/PtvSports.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gTYL8jT/download-4.jpg" group-title="Cricket 🏏", A Sports HD
-http://ekdilhai.pro/PK_PS/index.m3u8?token=f7003f6924312d3482ee2910567d07e1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gTYL8jT/download-4.jpg" group-title="Cricket 🏏", A Sports HD B
-https://humsab.xyz/APakSpo/index.m3u8?token=bfaeae8c8599b3970bb1d7b0bc335988
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Ten Sports HD pak
+https://sports.bdixtv24.com/m3u8.php/tenspk.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1kKv1f/download-4.png" group-title="Cricket 🏏", Astro Cricket HD
 https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v1kKv1f/download-4.png" group-title="Cricket 🏏", Astro Cricket HD B
-http://z88.ubtvfans.com/live/rx3/1173/b9032b89cc136d03888b97ebd36f03aa/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Cricket 🏏",WILLOW CRICKET 
-https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8?hdnea=st=1723822742~exp=1723823042~acl=*~id=33c99bf8-07de-432d-931e-6de9e755fe99~hmac=ef4989db731e70232cbe8648175266d67498e5545135d840a5e9ae1dfd2c9918
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Cricket 🏏",STAR SPORTS 1
 http://xtv.ooo:8080/live/927382370/837382809/167575.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jk13kq9/download-5.jpg"group-title="Cricket 🏏",SONY SPORTS 2
 http://ekdilhai.pro/IN_SNT2/index.m3u8?token=ed35bc130772d0d29435cee71272324c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Cricket 🏏",SONY SPORTS 5
-https://humsab.xyz/S_Ten5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD
-https://tv.sportsoneapp.workers.dev/tsports/hex.m3u8?id=02
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=t_sports
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD B
-https://bdix.proximitybd.xyz/Fazla-Rabby-t-sports.php?id=live-02&e.m3u8
-#https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhpHPxx/download.jpg" group-title="Cricket 🏏", Sky Sports Cricket
 http://filex.tv:8080/mohsin8080/347509/250199
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhpHPxx/download.jpg" group-title="Cricket 🏏", Sky Sports Cricket 
 http://z88.ubtvfans.com/live/rx3/2786/2f513c311498fa93c5c5715d23d07827/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TWMdq1V/images.png" group-title="Cricket 🏏", Willow Cricket
-http://z88.ubtvfans.com/live/rx2/3231/917a897f61f8155dcd2b7601b70eaf4a/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png", WILLOW EXTRA
-https://vipgoodlive-tvs.creativehub.sbs/Willow_Extra_Live_TV/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png", ✅ WILLOW EXTRA
-http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
