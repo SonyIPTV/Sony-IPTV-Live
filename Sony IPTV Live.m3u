@@ -6,15 +6,22 @@
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QYRP552/images-1.jpg" group-title="Cricket 🏏",SOMOY TV
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/72YgBCk/download-1.png" group-title="Cricket 🏏", CHANNEL 24 
-https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rc9V6fv/download-2.jpg" group-title="Cricket 🏏", Jamuna TV 
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rc9V6fv/download-2.jpg" group-title="Cricket 🏏", Jamuna TV 
 https://utube.buddyxiptv.com/@jamunatvbd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png",group-title="Cricket 🏏", Football 2024 🏆
-https://storage.googleapis.com/bongesritmn/mux_video_ts/index-1.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Super sports action 
+https://sports.bdixtv24.com/m3u8.php/superactions.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Super sports laliga 
+https://sports.bdixtv24.com/m3u8.php/superlaliga.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Super sports Prime League 
+https://sports.bdixtv24.com/m3u8.php/superpremier.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",PTV Sports 🏏 
+https://sports.bdixtv24.com/m3u8.php/ptvpk.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Ten Sports HD pak
+https://sports.bdixtv24.com/m3u8.php/tenspk.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png",group-title="Cricket 🏏", Football 2024 🏆
 https://bong.ink/zone-11.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r6FJsv4/14b3a6d6-c9bc-4966-8e2a-b8142dfd6ee6.jpg" group-title="Cricket 🏏", Himel OP Sports
