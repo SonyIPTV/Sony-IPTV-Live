@@ -11,6 +11,8 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 https://utube.buddyxiptv.com/@jamunatvbd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD
+https://hotflix-bd.online/T-Sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=t_sports
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Super sports action 
 https://sports.bdixtv24.com/m3u8.php/superactions.m3u8
