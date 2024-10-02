@@ -40,14 +40,12 @@ https://test-tan-iota-90.vercel.app/live/bdix/app/PtvSports.m3u8
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1kKv1f/download-4.png" group-title="Cricket 🏏", Astro Cricket HD
 https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhpHPxx/download.jpg" group-title="Cricket 🏏", Sky Sports Cricket
 http://filex.tv:8080/mohsin8080/347509/250199
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhpHPxx/download.jpg" group-title="Cricket 🏏", Sky Sports Cricket 
 http://z88.ubtvfans.com/live/rx3/2786/2f513c311498fa93c5c5715d23d07827/index.m3u8
-
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
@@ -122,13 +120,16 @@ https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 
 
 ########################## Infotainment Channels ##########################
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg",ACCU WEATHER
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V2gtYfH/download-1.png" group-title="Infotainment Channels", National_Geographic
 https://fmrx.short.gy/national_geographic/bdixiptvhub.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Xplore TV 
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3rYngJk/Sony-BBC-Earth.png" group-title="Infotainment Channels", SONY BBC EARTH HD
 https://fmrx.short.gy/bdixiptvhub/sony_bbc_earth_hd.m3u8
-
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png",FOOD FOOD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?v=1
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.pngg", Discovery HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.png", Discovery English HD
@@ -185,8 +186,6 @@ https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/44bFXMZ/download-4.png" group-title="Infotainment Channels", Food Network 
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/44bFXMZ/download-4.png" group-title="Infotainment Channels", Asian Food Network
@@ -207,6 +206,13 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Infinity_SD_MOB/Fallback/in
 http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
 
 ########################## NEWS INTERNASIONAL ##########################
+
+#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
+#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
+#EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
