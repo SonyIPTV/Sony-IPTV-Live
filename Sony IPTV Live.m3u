@@ -1,10 +1,6 @@
 #EXTM3U
 
 ######################## Cricket 🏏 ####################################################
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4wqML8v/download.png" group-title="Cricket 🏏", Disney Airtel (Test) 
-https://directx-taupe.vercel.app/disneyairtel.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QYRP552/images-1.jpg" group-title="Cricket 🏏",SOMOY TV
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QYRP552/images-1.jpg" group-title="Cricket 🏏",SOMOY TV
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rc9V6fv/download-2.jpg" group-title="Cricket 🏏", Jamuna TV 
@@ -19,7 +15,6 @@ https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/
 https://dai.google.com/linear/hls/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/qF3VTKB/download-1.png", Sony Liv Champions League 2
 https://dai.google.com/linear/hls/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Cricket 🏏", RTA Sports HD 🔗🏏
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
@@ -27,12 +22,8 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 https://bdiptv24.com/sports/m3u8.php/star1in.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=t_sports
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Super sports action 
-https://sports.bdixtv24.com/m3u8.php/superactions.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Super Sports laliga 
-https://sports.bdixtv24.com/m3u8.php/superlaliga.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Super Sports Prime League 
-https://sports.bdixtv24.com/m3u8.php/superpremier.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Willow Cricbuzz
+https://bdiptv24.com/sports/m3u8.php/willowusa.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg",PTV Sports 🏏 
 https://sports.bdixtv24.com/m3u8.php/ptvpk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg" group-title="Cricket 🏏", PTV Sports HD
