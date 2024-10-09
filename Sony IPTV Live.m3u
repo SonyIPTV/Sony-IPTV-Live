@@ -12,8 +12,8 @@ http://tv.cloudcdn.me/live.ts?channelId=93&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QYRP552/images-1.jpg" group-title="Cricket 🏏",SOMOY TV
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
 
-
-
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
+https://fdev.short.gy/PakVenGxRanaPk.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
 https://stream.imotv.online/sports/m3u8.php/asportshd.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=",ফুটবল সরাসরি 
