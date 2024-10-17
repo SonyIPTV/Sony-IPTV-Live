@@ -56,6 +56,30 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 ########################## Football 🛜 ##########################
+#EXTINF:-1 tvg-logo="" group-title="Football",Sport italia
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Sport Italia
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", O Sports 
+https://f77zvuxbr89.a.trbcdn.net/reserv9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",SETANTA 1 laliga
+https://25axin5tbn8.a.trbcdn.net/Setanta1_La_Liga/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",SETANTA 2 laliga
+https://25axin5tbn8.a.trbcdn.net/Setanta2_La_Liga/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",SETANTA ua
+https://s44gx6hkds2.a.trbcdn.net/SetantaUA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",  Sports TV
+https://cr7v.short.gy/ManoTV/Whats75991634025/1/Index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",  Sports TV 1
+https://8r1fp7ro6am.a.trbcdn.net/SportTV1/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",  Sports TV 2
+https://8r1fp7ro6am.a.trbcdn.net/SportTV2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",  Sports TV 3
+https://8r1fp7ro6am.a.trbcdn.net/SportTV3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",  Sports TV 4
+https://8r1fp7ro6am.a.trbcdn.net/SportTV4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",  Sports TV 6
+https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",  Grar TV
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M7wKLds/images.png" group-title="Football", Laliga-TV
