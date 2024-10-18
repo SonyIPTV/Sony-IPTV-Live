@@ -37,6 +37,10 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 https://bdiptv24.com/sports/m3u8.php/star1in.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", Ten Cricket-Sports HD
 http://46.250.234.136:8080/live/778899/778899/9134.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Ten Sports
+http://46.250.234.136:8080/live/778899/778899/9134.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Super Sports Maximo
+http://46.250.234.136:8080/live/778899/778899/1675.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD B
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=In4h4TcVCM8gfXW3l9N_Ig&expires=1728433826&user=7e48d7e5f01d439f8a06d1e1dd00dded
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Willow Cricbuzz
