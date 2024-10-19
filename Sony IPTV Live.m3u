@@ -9,8 +9,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_24
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Desh TV Digi Jadoo
 http://tv.cloudcdn.me/live.ts?channelId=93&uid=13603&deviceMac=00:1A:79:64:B4:A6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QYRP552/images-1.jpg" group-title="Cricket 🏏",SOMOY TV
-https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Jamuna TV
+http://lifetvbd.xyz:8080/live/778899/778899/84.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", RTV  
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w2015195144.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Deptto TV
