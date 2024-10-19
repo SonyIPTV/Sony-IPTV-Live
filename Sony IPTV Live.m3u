@@ -16,6 +16,9 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w201
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Deptto TV
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8?v=1
 
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",ACC Asia Cup 2024 HD 2
+https://ams1.styxsports.com:5443/LiveApp/streams/2Oj0R1ALVUcjgJxt4332103373172931.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",ACC Asia Cup 2024 HD 
 https://1rdk.short.gy/BAN-VS-HKG/Himel-Op.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Live Sports HD 
