@@ -83,9 +83,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 ########################## Football 🛜 ##########################
-#EXTINF:-1 tvg-logo="" group-title="Football"BeIN Sports 1
+#EXTINF:-1 tvg-logo="" group-title="Football",BeIN Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football"BeIN Sports 2
+#EXTINF:-1 tvg-logo="" group-title="Football",BeIN Sports 2
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Live Sports Football 
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
