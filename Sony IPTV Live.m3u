@@ -3,8 +3,10 @@
 ######################## Cricket 🏏 ####################################################
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Extra 
 http://xtv.ooo:8080/live/Galaxy.2/4321/167582.ts
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TnT Sports 1🇧🇩
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TnT Sports 1
 http://opplex.tv:8080/live/global/global/346373.ts
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TnT Sports 2 🇧🇩
+https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg",T Sports 🇧🇩
 https://fdev.short.gy/BDMATCHxRANAPK.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",PTV Sports 🇧🇵🇰
