@@ -67,7 +67,8 @@ https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhpHPxx/download.jpg" group-title="Cricket 🏏", T Sports Cricket
 https://ddy1.iosplayer.ru/tshttp/ddy1/premium270/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
-#EXTINF:-1 tvg-logo=" "group-title="Cricket 🏏", Ten Sports HD  http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" "group-title="Cricket 🏏", Ten Sports HD  
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", ✅ ATN AFG TV
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
@@ -75,6 +76,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 ########################## Football 🛜 ##########################
+#EXTINF:-1 tvg-logo="" group-title="Football", Live Sports Football Laliga 
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",BeiN Sports 1 
 https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Arena Sports 1 🇨
