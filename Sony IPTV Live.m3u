@@ -1,7 +1,7 @@
 #EXTM3U
 
 ######################## Cricket 🏏 ####################################################
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png",স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Extra 
 http://xtv.ooo:8080/live/Galaxy.2/4321/167582.ts
@@ -78,6 +78,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 ########################## Football 🛜 ##########################
+#EXTINF:-1 tvg-logo="" group-title="Football", SETANTA SPORT B
+https://rzkgtzlsvbb.a.trbcdn.net/Setanta2_La_Liga/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",SETANTA SPORT 2
+https://8k1bqvttdjh.a.trbcdn.net/SetantaUA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Live Sports Football Laliga 
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",BeiN Sports 1 
