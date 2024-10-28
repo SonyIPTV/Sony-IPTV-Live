@@ -5,20 +5,24 @@
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SKY SPORTS 
 http://gcp-dash.ngslbs.com/TVD024/index.mpd
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Extra 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Extra 
 http://xtv.ooo:8080/live/Galaxy.2/4321/167582.ts
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TnT Sports 2 🇧🇩
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TnT Sports 2 🇧🇩
 https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg",T Sports 🇧🇩 HD
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg", T Sports 🇧🇩 HD 1
 https://fyfl.short.gy/017666.blogspot.com/0007.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg",T Sports 🇧🇩 HD
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg", T Sports 🇧🇩 HD 2
 https://tsports.iptvbd.xyz/master_1080.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sports Live 🇧🇩
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg", T Sports 🇧🇩 HD 3
+https://cdn.livestreambd.com/TSportstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD B
+https://cdn.livestreambd.com/TSports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sports Live 🇧🇩
 https://sports.lvyclv.com/live/m33718863/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Wild Nature
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Wild Nature
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",4k Nature
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 4k Nature
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?v=1%20#EXTINF:-1%20,Wild%20Earth
 
 
@@ -28,9 +32,9 @@ https://criccoder.pages.dev/astro.m3u8
 https://fyfl.short.gy/017666.blogspot.com/astrocricket.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=",ফুটবল সরাসরি 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=", ফুটবল সরাসরি 
 https://sportnext.online/hls/M1.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=",সরাসরি আকাশ DTH
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=", সরাসরি আকাশ DTH
 http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/qYcmzmw/images-1.jpg", GXR WORLD 🇮🇳
 https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
@@ -56,8 +60,7 @@ http://46.250.234.136:8080/live/778899/778899/9134.m3u8
 http://46.250.234.136:8080/live/778899/778899/145.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Super Sports Maximo
 http://46.250.234.136:8080/live/778899/778899/1675.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD B
-https://cdn.livestreambd.com/TSports/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Willow Cricbuzz
 https://bdiptv24.com/sports/m3u8.php/willowusa.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg",PTV Sports 🏏 
