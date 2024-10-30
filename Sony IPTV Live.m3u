@@ -26,11 +26,19 @@ https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sports Live 🇧🇩
 https://sports.lvyclv.com/live/m33718863/playlist.m3u8
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sports 18 HD 1
+http://176.119.29.52/live.ts?channelId=102479&uid=14505&deviceMac=00:1A:79:A7:53:75
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sport 18  HD 2
+http://176.119.29.52/live.ts?channelId=132373&uid=14505&deviceMac=00:1A:79:A7:53:75
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sports 18 HD 3
+http://176.119.29.52/live.ts?channelId=132374&uid=14505&deviceMac=00:1A:79:A7:53:75
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sports 18 khel HD 4
+http://176.119.29.52/live.ts?channelId=102478&uid=14505&deviceMac=00:1A:79:A7:53:75
+
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Wild Nature
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 4k Nature
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?v=1%20#EXTINF:-1%20,Wild%20Earth
-
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Astro Cricket HD 
 https://criccoder.pages.dev/astro.m3u8
