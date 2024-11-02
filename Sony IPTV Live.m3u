@@ -4,8 +4,6 @@
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Bangladesh vs South Africa  2nd Test Day 1 
-https://fdev.short.gy/tsportsxRANAPK.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Bangladesh vs South Africa  2nd Test Day 1 
 https://tsports.iptvbd.xyz/master_720.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SKY SPORTS 
 http://gcp-dash.ngslbs.com/TVD024/index.mpd
@@ -147,6 +145,8 @@ http://10.111.200.30/live/feed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
 ########################## Bangladeshi 📺 ##########################
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Jamuna TV
+http://103.205.133.71/JamunaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", RTV  
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w2015195144.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Deptto TV
