@@ -3,7 +3,7 @@
 ######################## Cricket 🏏 ####################################################
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Bangladesh vs South Africa  2nd Test Day 1 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/V2Bd5jn/Pak.jpg", Pakistan VS Australia Odi 
 https://tsports.iptvbd.xyz/master_720.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SKY SPORTS 
 http://gcp-dash.ngslbs.com/TVD024/index.mpd
@@ -59,21 +59,8 @@ https://dai.google.com/linear/hls/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Cricket 🏏", RTA Sports HD 🔗🏏
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Super Sports Cricket HD
-http://starshare.live:8080/live/Habib/Habib/158442.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Paper Sports HD
-http://starshare.live:8080/live/Habib/Habib/269552.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Astro Cricket
-http://46.250.234.136:8080/live/778899/778899/49.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", Ten Cricket-Sports HD
-http://46.250.234.136:8080/live/778899/778899/9134.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Ten Sports
-http://46.250.234.136:8080/live/778899/778899/145.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="", Super Sports Maximo
-http://46.250.234.136:8080/live/778899/778899/1675.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Willow Cricbuzz
 https://bdiptv24.com/sports/m3u8.php/willowusa.m3u8
