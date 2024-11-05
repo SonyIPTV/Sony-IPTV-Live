@@ -18,11 +18,17 @@ https://cdn-bd.televisionbd.com/Star-Sports-1-HD/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD Ban Vs AFG
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Willow Cricbuzz
+https://crichd.filofilmes.art/sexy.php/willowusa.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Willow Extra 
+https://crichd.filofilmes.art/sexy.php/willowextra.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SKY SPORTS 
 http://gcp-dash.ngslbs.com/TVD024/index.mpd
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SKY SPORTS Cricket
 https://fr.globalplay.live/Sports-1/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SKY SPORTS Cricket
+https://crichd.filofilmes.art/sexy.php/skyscric.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sports 18-HD
 https://cdn-bd.televisionbd.com/Sports18-Hd/index.fmp4.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TnT Sports 2 🇧🇩
