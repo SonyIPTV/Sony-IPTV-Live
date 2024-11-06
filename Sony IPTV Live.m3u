@@ -9,41 +9,32 @@ https://fr.globalplay.live/Sports-13/tracks-v1a1/mono.m3u8
 https://onlinetvbd.com/m3u8.php/ptvpk.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/QYyCSBm/manik.webp", Pakistan VS Australia Odi 
 https://onlinetvbd.com/m3u8.php/star1in.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/V2Bd5jn/Pak.jpg", Pakistan VS Australia Odi 
-https://cdn-bd.televisionbd.com/Fox-sports-501/index.fmp4.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/QYyCSBm/manik.webp", Pakistan VS Australia Odi 
-https://cdn-bd.televisionbd.com/Willow-HD/index.fmp4.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star-Sports-1-HD Pakistan VS Australia Odi
-https://cdn-bd.televisionbd.com/Star-Sports-1-HD/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg", T Sports 🇧🇩 HD 1
+https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg", GTV Sports 🇧🇩
+https://hotflixbd.online/gtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD 4
+https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD Ban Vs AFG
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Willow Cricbuzz
 https://crichd.filofilmes.art/sexy.php/willowusa.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Willow Cricbuzz
+https://hotflixbd.online/willow-cricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Willow Extra 
 https://crichd.filofilmes.art/sexy.php/willowextra.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SKY SPORTS 
 http://gcp-dash.ngslbs.com/TVD024/index.mpd
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SKY SPORTS Cricket
-https://fr.globalplay.live/Sports-1/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SKY SPORTS Cricket
 https://crichd.filofilmes.art/sexy.php/skyscric.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sports 18-HD
 https://cdn-bd.televisionbd.com/Sports18-Hd/index.fmp4.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TnT Sports 2 🇧🇩
 https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg", T Sports 🇧🇩 HD 1
-https://cdn-bd.televisionbd.com/Tsports-Bd/index.fmp4.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg", T Sports 🇧🇩 HD 3
-https://cdn.livestreambd.com/TSportstv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD 4
-https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD 
-https://cdn-bd.televisionbd.com/Tsports-Bd/index.fmp4.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sports Live 🇧🇩
-https://cdn-bd.televisionbd.com/Willow-HD/index.fmp4.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Wild Nature
@@ -164,6 +155,8 @@ http://10.111.200.30/live/feed1001/index.m3u8
 http://altogether.unaux.com/Stream/?url=http://bdix.sadman.app.tc/ZeeBangla/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Zee Bangla HD
 http://altogether.unaux.com/Playstream/?url=http://bdix.sadman.app.tc/ZeeBangla/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Somoy TV HD
+https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Jamuna TV
 http://103.205.133.71/JamunaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", RTV  
