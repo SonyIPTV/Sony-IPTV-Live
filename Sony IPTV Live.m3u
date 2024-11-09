@@ -379,3 +379,19 @@ https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="NEWS INTERNASIONAL" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN International Europe 🌏
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Speed Internet Broadband",Sports 18 HD 
+https://11plus.live/live/tsports/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Speed Internet Broadband", Star Sports 
+http://11plus.live/live/gazitv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Speed Internet Broadband", Live Sports
+http://11plus.live/live/starsports3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Speed Internet Broadband", Star Movies HD
+http://11plus.live/live/starsports2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Speed Internet Broadband",
+
+#EXTINF:-1 tvg-logo="" group-title="Speed Internet Broadband",
