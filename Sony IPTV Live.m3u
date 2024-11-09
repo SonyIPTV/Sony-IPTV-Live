@@ -26,7 +26,7 @@ https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD Ban Vs AFG
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Willow Cricbuzz
-https://crichd.filofilmes.art/sexy.php/willowusa.m3u8
+http://195.90.209.41:7575/channel/580f316d/index.m3u8?q=1731142068821
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Willow Cricbuzz
 https://hotflixbd.online/willow-cricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Willow Extra 
