@@ -27,8 +27,8 @@ https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Willow Cricbuzz
 http://195.90.209.41:7575/channel/580f316d/index.m3u8?q=1731142068821
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Willow Cricbuzz
-https://hotflixbd.online/willow-cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Sony Liv For NZ Vs Sri T20
+https://a2uy.short.gy/SL-V-NZ/TG@ZubayerOp_Official.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Willow Extra 
 https://crichd.filofilmes.art/sexy.php/willowextra.m3u8
 
@@ -384,14 +384,27 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Speed Internet Broadband",Sports 18 HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband",Sports 18 HD 
 https://11plus.live/live/tsports/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Speed Internet Broadband", Star Sports 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband", Star Sports 
 http://11plus.live/live/gazitv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Speed Internet Broadband", Live Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband", Live Sports
 http://11plus.live/live/starsports3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Speed Internet Broadband", Star Movies HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband", Star Movies HD
 http://11plus.live/live/starsports2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband",Live Sports 1
+https://11plus.live/live/tsports1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband",Live Sports 2
+https://11plus.live/live/starsports2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband",Live Sports 3
+https://11plus.live/live/sonyten1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband",Live Sports 4
+https://11plus.live/live/sonyten5/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Speed Internet Broadband",
 
 #EXTINF:-1 tvg-logo="" group-title="Speed Internet Broadband",
+
+#EXTINF:-1 tvg-logo="" group-title="Speed Internet Broadband",
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband", Star Jalsha HD
+https://11plus.live/live/stersports1hd/index.m3u8
