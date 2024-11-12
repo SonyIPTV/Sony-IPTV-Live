@@ -14,11 +14,13 @@ https://onlinetvbd.com/m3u8.php/ptvpk.m3u8
 https://onlinetvbd.com/m3u8.php/star1in.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg", T Sports 🇧🇩 HD 1
-http://103.175.242.10:8080/tsports/tracks-v1a1/mono.m3u8
+https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg", T Sports 🇧🇩 HD 
-http://103.175.242.10:8080/sports18/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg", RTA Sports 🇧🇩
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
+http://starshare.live:8080/live/sachin/sachin/767.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg", GTV Sports 🇧🇩
+https://hotflixbd.online/gtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD 4
+https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD Ban Vs AFG
@@ -131,6 +133,8 @@ https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
 https://anonmedia.foo/espn5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", ESPN 6
 https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", BeiN Sports Extra
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
 ######################### FTP 📺 ##########################
 #EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD 📶 𝗙𝗧𝗣 Unique 📶
@@ -145,7 +149,7 @@ http://10.111.200.30/live/feed1001/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Zee Bangla HD
 http://altogether.unaux.com/Stream/?url=http://bdix.sadman.app.tc/ZeeBangla/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Zee Bangla HD
-http://103.175.242.10:8080/23-Jalshamovies/tracks-v1a1/mono.m3u8
+http://altogether.unaux.com/Playstream/?url=http://bdix.sadman.app.tc/ZeeBangla/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Somoy TV HD
 https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Jamuna TV
