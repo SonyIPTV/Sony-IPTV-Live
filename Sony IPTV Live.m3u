@@ -8,12 +8,12 @@ https://stream.spicefmbd.com/stream.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SKY SPORTS 
 http://gcp-dash.ngslbs.com/TVD024/index.mpd
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky sports Formula One F1 
-http://gcp-dash.ngslbs.com/TVD023/index.mpd
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/QYyCSBm/manik.webp", Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/QYyCSBm/manik.webp", PTV Sports HD
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/NFCYXjmh/images-1.jpg", PTV Sports HD
 https://onlinetvbd.com/m3u8.php/ptvpk.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/NFCYXjmh/images-1.jpg", PTV HD
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
@@ -35,8 +35,6 @@ https://dai.google.com/linear/hls/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  Ten Sports HD  
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", ✅ ATN AFG TV
-https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
