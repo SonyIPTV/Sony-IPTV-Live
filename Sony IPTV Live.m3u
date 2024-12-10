@@ -99,28 +99,6 @@ http://10.111.200.30/live/feed1001/index.m3u8
 ########################## Bangladeshi 📺 ##########################
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Somoy TV HD
 https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Somoy TV
-https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",ATN News
-https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",CHANNEL 24
-https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",DBC News
-https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Ekattor
-https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Ekhon Tv
-https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", DESH TV
-https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",RTV
-https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",NTV
-https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Tom and Jerry
-https://ythls.armelin.one/channel/UCmst562fALOY2cKb4IFgqEg.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Mr. Bean
-https://ythls.armelin.one/channel/UCEwIUtFBhaI2L2PuKv0KL2g.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", RTV  
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w2015195144.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Deptto TV
