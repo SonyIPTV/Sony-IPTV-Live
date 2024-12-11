@@ -4,18 +4,19 @@
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 
-
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SKY SPORTS 
-http://gcp-dash.ngslbs.com/TVD024/index.mpd
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Pakistan T20 Cup 2024 
+https://playback.livepeer.studio/hls/dcf5d3tjf59e7uss/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A SPORTS HD  
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/QYyCSBm/manik.webp", Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/NFCYXjmh/images-1.jpg", PTV Sports HD
 https://onlinetvbd.com/m3u8.php/ptvpk.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/NFCYXjmh/images-1.jpg", PTV HD
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Fast-Studios-Womens-Sports
