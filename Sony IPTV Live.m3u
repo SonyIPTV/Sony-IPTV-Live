@@ -4,6 +4,8 @@
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T SPORTS HD 
+https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Cricket
 http://extraott.com/live/3969424152/3723991250/175793.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", BBL T20 2024/25 SPORTSMAX
