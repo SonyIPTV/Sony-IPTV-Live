@@ -4,6 +4,8 @@
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ten SPORTS HD 
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Gazi TV BPL 2025
 https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports BPL 2025
