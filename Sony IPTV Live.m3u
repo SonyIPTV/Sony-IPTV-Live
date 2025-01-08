@@ -51,6 +51,21 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Astro Cricket HD 💥 
+https://fyfl.short.gy/NadimRazaTVLiveSSPStream13.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sky sports Cricket HD 💥 
+https://fyfl.short.gy/NadimRazaTVLiveSSPStream14.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", T SPORTS HD 🇧🇩 
+https://fyfl.short.gy/NadimRazaTVLiveStream10.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", A Sports HD 💥
+https://fyfl.short.gy/NadimRazaTVLiveSSPStream15.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Star Sports 1 HD
+https://fyfl.short.gy/NadimRazaTVLiveSSPStream16.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Willow Cricket HD 💥 
+https://fyfl.short.gy/NadimRazaTVLiveSSPStream140.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Fox Sports 501 HD 💥 
+https://fyfl.short.gy/NadimRazaTVLiveSSPStream1224.m3u8
+
 ########################## Football 🛜 ##########################
 #EXTINF:-1 tvg-logo="" group-title="Football",LIGA ESPAÑOLA (2)
 https://sslideaweb.store/live/1/chunks.m3u8
