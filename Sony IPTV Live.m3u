@@ -4,15 +4,17 @@
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ten SPORTS HD 
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Gazi TV BPL 2025
 https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports BPL 2025
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",SPORTSMAX TV BPL 2025
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTT Sports
+https://atg100.xyz/live/UL33K17/SYC4T9D/63126.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SPORTSMAX
 https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T SPORTS HD 
+https://live.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T SPORTS HD 
 https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Cricket
