@@ -47,25 +47,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 ########################## Football 🛜 ##########################
 #EXTINF:-1 tvg-logo="" group-title="Football",Football Live
 https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",LIGA ESPAÑOLA (2)
-https://sslideaweb.store/live/1/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",BEIN sports ENGLISH 2 
-http://gcp-dash.ngslbs.com:80/TVD4012/index.mpd
-#EXTINF:-1 tvg-logo="" group-title="Football",BEIN SPORTS 1HD
-https://flu.systemnet.tv/Bein.Hd.1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",BEIN SPORTS 2HD
-https://flu.systemnet.tv/Bein.Hd.2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",BEIN SPORTS 3HD
-https://flu.systemnet.tv/Bein.Hd.3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Football", ESPN 4 
-https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", Live Sports Football Laliga 
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",BeiN Sports 1 
-https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Arena Sports 1 🇨
-http://xtv.ooo:8080/live/Galaxy.2/4321/353725.ts
 #EXTINF:-1 tvg-logo="" group-title="Football",Live Sports Football 
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",TYC Sports Play
@@ -79,21 +60,6 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Football", VTC 1 HD 🏆
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", ESPN 1
-https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",ESPN 2
-https://anonmedia.foo/espn2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", ESPN 3
-https://anonmedia.foo/espn3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",ESPN 4
-https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",ESPN 5
-https://anonmedia.foo/espn5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", ESPN 6
-https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", BeiN Sports Extra
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-
 ######################### FTP 📺 ##########################
 #EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD 📶 𝗙𝗧𝗣 Unique 📶
 http://11plus.live/live/ptv/index.m3u8
