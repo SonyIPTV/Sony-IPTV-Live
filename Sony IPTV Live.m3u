@@ -4,36 +4,26 @@
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", ICC Womens U19 T20 CWC Final🏏🏏 
-https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports BPL 2025
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTT Sports
-https://atg100.xyz/live/UL33K17/SYC4T9D/63126.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SPORTSMAX
-https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T SPORTS HD 
 https://live.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T SPORTS HD 
 https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SPORTSMAX
+https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Cricket
 http://extraott.com/live/3969424152/3723991250/175793.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", BBL T20 2024/25 SPORTSMAX
-https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow USA
-https://sports.bdixtv24.net/m3u8.php/willowusa.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A SPORTS HD  
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  Ten Sports HD  
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/QYyCSBm/manik.webp", Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/NFCYXjmh/images-1.jpg", PTV Sports HD
-https://onlinetvbd.com/m3u8.php/ptvpk.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/NFCYXjmh/images-1.jpg", PTV HD
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Fast-Studios-Womens-Sports
@@ -43,34 +33,16 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", 4k Nature
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?v=1%20#EXTINF:-1%20,Wild%20Earth
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/qYcmzmw/images-1.jpg", GXR WORLD 🇮🇳
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", GXR WORLD 🇮🇳
 https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
+
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/qF3VTKB/download-1.png", Sony Liv Champions League 1
 https://dai.google.com/linear/hls/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/qF3VTKB/download-1.png", Sony Liv Champions League 2
 https://dai.google.com/linear/hls/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  Ten Sports HD  
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Astro Cricket HD 💥 
-https://fyfl.short.gy/NadimRazaTVLiveSSPStream13.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sky sports Cricket HD 💥 
-https://fyfl.short.gy/NadimRazaTVLiveSSPStream14.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", T SPORTS HD 🇧🇩 
-https://fyfl.short.gy/NadimRazaTVLiveStream10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", A Sports HD 💥
-https://fyfl.short.gy/NadimRazaTVLiveSSPStream15.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Star Sports 1 HD
-https://fyfl.short.gy/NadimRazaTVLiveSSPStream16.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Willow Cricket HD 💥 
-https://fyfl.short.gy/NadimRazaTVLiveSSPStream140.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Fox Sports 501 HD 💥 
-https://fyfl.short.gy/NadimRazaTVLiveSSPStream1224.m3u8
 
 ########################## Football 🛜 ##########################
 #EXTINF:-1 tvg-logo="" group-title="Football",Football Live
