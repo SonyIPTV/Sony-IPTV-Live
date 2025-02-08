@@ -3,7 +3,10 @@
 ######################## Cricket 🏏 ####################################################
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
-
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD Token Link
+https://cx53.xyz/UR_PTV_SPORTS/index.m3u8?token=8335126003e515986f447dcde9b91455
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow TV Cricket Token Link
+https://proximity.mominulislamm3u8.workers.dev/willowtvcricket.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports 2025
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
