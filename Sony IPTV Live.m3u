@@ -5,10 +5,10 @@
 https://stream.spicefmbd.com/stream.m3u8
 
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports BPL 2025
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports 2025
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T SPORTS HD 
-https://live.tsports.com/live-02/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T SPORTS HD B
+https://stream.iptvbd.online/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T SPORTS HD 
 https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
 
