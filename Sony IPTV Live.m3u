@@ -3,6 +3,8 @@
 ######################## Cricket 🏏 ####################################################
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/QYyCSBm/manik.webp", Manik Chora 
 https://fredflix.fun/bdix1/live.php?ferdos=T-SPORTS&e=.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD Tri Series NZ vs SA Vs Pak
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
@@ -11,10 +13,6 @@ https://cx53.xyz/UR_PTV_SPORTS/index.m3u8?token=8335126003e515986f447dcde9b91455
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow TV Cricket Token Link
 https://proximity.mominulislamm3u8.workers.dev/willowtvcricket.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 2 HD
-http://stvlive.net:8080/starsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD
-http://stvlive.net:8080/tsports2/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports 2025
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T SPORTS HD B
@@ -34,6 +32,7 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 http://175.107.244.52:4457/play/a08g/90557661.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  Ten Sports HD  
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/QYyCSBm/manik.webp", Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
