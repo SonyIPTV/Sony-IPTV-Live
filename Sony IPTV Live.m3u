@@ -5,6 +5,10 @@
 https://fredflix.fun/bdix1/live.php?ferdos=T-SPORTS&e=.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD Tri Series NZ vs SA Vs Pak
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD Tri Series NZ vs SA Vs Pak
+https://cdn.hoichoi24.com/TSportsHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD
+https://vkvsd219.okcdn.ru/hls/7719129975429.m3u8/sig/fNU_sxy76TY/expires/1739431598741/srcIp/134.209.146.240/urls/185.226.55.78/clientType/14/srcAg/CHROME_ANDROID/mid/8754317372293/7719129975429_high/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
@@ -239,7 +243,7 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 ########################## Entertainment ##########################
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Entertainment",Colors Infinity SD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Infinity_SD_MOB/Fallback/index.m3u8
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", Star Movies Select HD
 http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
 
