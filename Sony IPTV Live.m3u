@@ -3,9 +3,9 @@
 ######################## Cricket 🏏 ####################################################
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/QYyCSBm/manik.webp", Manik Chora 
 https://fredflix.fun/bdix1/live.php?ferdos=T-SPORTS&e=.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD Tri Series NZ vs SA Vs Pak
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", T Sports HD Tri Series NZ vs SA Vs Pak
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD Tri Series NZ vs SA Vs Pak
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", T Sports HD Tri Series NZ vs SA Vs Pak
 https://cdn.hoichoi24.com/TSportsHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD
 https://vkvsd219.okcdn.ru/hls/7719129975429.m3u8/sig/fNU_sxy76TY/expires/1739431598741/srcIp/134.209.146.240/urls/185.226.55.78/clientType/14/srcAg/CHROME_ANDROID/mid/8754317372293/7719129975429_high/index.m3u8
@@ -23,13 +23,13 @@ https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
 https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Cricket
 http://extraott.com/live/3969424152/3723991250/175793.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A SPORTS HD  
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg ", A SPORTS HD  
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", A Sports HD 
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", PTV Sports HD 
 http://175.107.244.52:4457/play/a08g/90557661.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  Ten Sports HD  
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg" group-title="Cricket 🏏",  Ten Sports HD  
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 
