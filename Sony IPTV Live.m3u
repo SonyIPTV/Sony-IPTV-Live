@@ -1,5 +1,15 @@
 #EXTM3U
 
+######################## HOICHOI 24 BY SIAM ####################################################
+#EXTINF:-1 group-title="HOICHOI 24" tvg-logo="NO IMAGE",LIVE EVENT
+https://cdn.hoichoi24.com/LIVE/video.m3u8
+#EXTINF:-1 group-title="HOICHOI 24 " tvg-logo="NO IMAGE",T SPORTS
+https://cdn.hoichoi24.com/hoichoi24.com-T-sports/video.m3u8
+#EXTINF:-1 group-title="HOICHOI 24 " tvg-logo="NO IMAGE",LIVE SPORTS
+https://cdn.hoichoi24.com/SP-LIVE-SPORTS-hoichoi24.com/video.m3u8
+#EXTINF:-1 group-title="HOICHOI 24 " tvg-logo="NO IMAGE",SONY TEN 2
+https://cdn.hoichoi24.com/SP-SONY-TEN-2-hoichoi24.com/video.m3u8
+
 ######################## Cricket 🏏 ####################################################
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Unifi HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
