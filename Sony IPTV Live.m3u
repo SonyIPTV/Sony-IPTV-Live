@@ -41,6 +41,8 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", Astro Cricket
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/157565
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", Astro Cricket
+https://vaathala00.github.io/stream/v1a1/mono1.m3u8?begin=20140124T134500&end=20140124T144500
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Fast-Studios-Womens-Sports
