@@ -7,6 +7,8 @@ https://fredflix.fun/bdix1/live.php?ferdos=T-SPORTS&e=.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", T Sports HD Tri Series NZ vs SA Vs Pak
 https://cdn.hoichoi24.com/TSportsHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", PTV Sports HD 
+https://yt-king-hello-people-tv.tiiny.io/stream.php?id=ptvpk&e=.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", WPL 25 HD
 https://maxplay-tv.fun/tff.php/init-370.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", WPL 25 HD Fox Sports
