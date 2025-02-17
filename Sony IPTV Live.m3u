@@ -1,15 +1,5 @@
 #EXTM3U
 
-######################## HOICHOI 24 BY SIAM ####################################################
-#EXTINF:-1 group-title="HOICHOI 24" tvg-logo="NO IMAGE",LIVE EVENT
-https://cdn.hoichoi24.com/LIVE/video.m3u8
-#EXTINF:-1 group-title="HOICHOI 24 " tvg-logo="NO IMAGE",T SPORTS
-https://cdn.hoichoi24.com/hoichoi24.com-T-sports/video.m3u8
-#EXTINF:-1 group-title="HOICHOI 24 " tvg-logo="NO IMAGE",LIVE SPORTS
-https://cdn.hoichoi24.com/SP-LIVE-SPORTS-hoichoi24.com/video.m3u8
-#EXTINF:-1 group-title="HOICHOI 24 " tvg-logo="NO IMAGE",SONY TEN 2
-https://cdn.hoichoi24.com/SP-SONY-TEN-2-hoichoi24.com/video.m3u8
-
 ######################## Cricket 🏏 ####################################################
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Unifi HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
@@ -43,6 +33,8 @@ https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SPORTSMAX
 https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Solh TV
+https://stream.sainaertebat.com/hls2/solhtv.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Cricket
 http://extraott.com/live/3969424152/3723991250/175793.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg ", A SPORTS HD  
