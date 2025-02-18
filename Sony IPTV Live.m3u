@@ -21,6 +21,8 @@ https://maxplay-tv.fun/tff.php/init-370.m3u8
 https://maxplay-tv.fun/tff.php/init-369.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", WPL 25 HD Willow Sports
 https://maxplay-tv.fun/tff.php/init-346.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky Sports 3 NZ
+https://maxplay-tv.fun/tff.php/init-590.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sports 18 HD
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
 
