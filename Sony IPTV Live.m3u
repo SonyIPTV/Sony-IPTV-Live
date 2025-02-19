@@ -5,6 +5,8 @@
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/QYyCSBm/manik.webp", Manik Chora 
 https://fredflix.fun/bdix1/live.php?ferdos=T-SPORTS&e=.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg",Star Sports 1 HD 
+https://siamstv.vercel.app/tv/ch/starsports1.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", T Sports HD 2
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", T Sports HD 2
@@ -15,13 +17,13 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 https://yt-king-hello-people-tv.tiiny.io/stream.php?id=ptvpk&e=.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", PTV Sports HD 
 https://cdn.hoichoi24.com/PTVSportsHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/x8XDQF20/CP-2025.jpg", WPL 25 HD
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", WPL 25 HD
 https://maxplay-tv.fun/tff.php/init-370.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" https://i.ibb.co.com/x8XDQF20/CP-2025.jpg", WPL 25 HD Fox Sports
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", WPL 25 HD Fox Sports
 https://maxplay-tv.fun/tff.php/init-369.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/x8XDQF20/CP-2025.jpg ", WPL 25 HD Willow Sports
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", WPL 25 HD Willow Sports
 https://maxplay-tv.fun/tff.php/init-346.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/x8XDQF20/CP-2025.jpg ", Sky Sports 3 NZ
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky Sports 3 NZ
 https://maxplay-tv.fun/tff.php/init-590.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sports 18 HD
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
@@ -30,9 +32,9 @@ https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/inde
 https://stream.spicefmbd.com/stream.m3u8
 
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/x8XDQF20/CP-2025.jpg", T Sports 2025
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports 2025
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/x8XDQF20/CP-2025.jpg", T SPORTS HD 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T SPORTS HD 
 https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SPORTSMAX
