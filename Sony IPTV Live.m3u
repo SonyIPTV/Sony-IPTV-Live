@@ -5,12 +5,10 @@
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", বেতার FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://as1.digitalsynapsebd.com/proxy/bbdkcom/stream
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports Cricket HD 
-http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", EPSN HD 
+https://tx2.nexgen.bz:4000//ESPN/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky Sports Cricket 
 http://link.luckonline.eu/live/0c:89:10:e8:1c:d4/869/505.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky Sports Cricket 
-https://hocdn.news/live/skyscric.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg",Star Sports 1 HD 
 http://server.top10bhaluka.com:100/sii/stream.m3u8?id=STAR-SPORTS-1&e=.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Star Sports SL 1 HD 
