@@ -3,6 +3,8 @@
 ######################## Cricket 🏏 ####################################################
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Radio Bater BD
+https://as1.digitalsynapsebd.com/proxy/bbdkka/stream.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", EPSN HD 
 https://tx2.nexgen.bz:4000//ESPN/index.m3u8
