@@ -27,6 +27,8 @@ https://vaathala00.github.io/stream/v1a1/mono1.m3u8?begin=20140124T134500&end=20
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Jio Hindi 
 https://userx534.protect-cdn.net/live/m3-720p.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sports 18 HD 
+https://airplay.bgrid.in/IPTVS/live/voot/1033.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", LINK NO 1. 
 https://cdnt20.t20hd.cfd/live/m3-720p.m3u8
