@@ -30,6 +30,9 @@ https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 https://bdixtv.short.gy/bdixtv_official/DPL.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", T Sports HD 1
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
+http://103.122.74.6:8888/hls/tsports.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 1 HD
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 
