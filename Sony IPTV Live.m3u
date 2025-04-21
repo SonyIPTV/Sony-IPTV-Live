@@ -112,14 +112,24 @@ http://10.111.200.30/live/feed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
 ########################## Bangladeshi 📺 ##########################
+EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Banglavision TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
+EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", NTV TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/master.m3u8
+EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Jamuna TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/master.m3u8
+EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Somoy TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/master.m3u8
+EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 24 TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/master.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", MAASRANGA-TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", NAGORIK.TV.HD
-http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Somoy TV HD
-https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Eakttor TV HD
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Indepent TV HD
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", RTV  
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w2015195144.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Deptto TV
@@ -298,9 +308,6 @@ https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="NEWS INTERNASIONAL" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN International Europe 🌏
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband",Sports 18 HD 
