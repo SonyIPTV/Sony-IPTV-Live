@@ -112,17 +112,17 @@ http://10.111.200.30/live/feed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
 ########################## Bangladeshi 📺 ##########################
-EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Banglavision TV
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Banglavision TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
-EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Banglavision TV
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Banglavision TV
 https://tvs2.aynaott.com/banglavision/index.m3u8
-EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", NTV TV
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", NTV TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/master.m3u8
-EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Jamuna TV
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Jamuna TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/master.m3u8
-EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Somoy TV
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Somoy TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/master.m3u8
-EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 24 TV
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 24 TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/master.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
