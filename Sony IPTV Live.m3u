@@ -162,27 +162,8 @@ https://freeott.site/discovery/Discovery_Channel.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
-
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC (L*)
-https://code.vthanhtivi.pw/getlink/eazie/243126/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC HD
-https://varun-iptv.netlify.app/m3u/TLC.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC English
-https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC English B
-https://altogether-007.netlify.app/discovery/api/TLC.m3u8
-
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", Animal Planet Multi Audio
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", Animal Planet Backup
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png" group-title="Infotainment Channels", Animal Planet HD
-https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.pngg", ANIMAL PLANET HD
-https://code.vthanhtivi.pw/getlink/eazie/243127/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", ANIMAL PLANET HD
-https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_22.m3u8
-
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png", Travel XP English
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Infotainment Channels",Travel XP GB
@@ -195,38 +176,20 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment Channels",Travel XP English SE
 https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png", Travel Channel
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel Channel
-https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel Channel 
-https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Infotainment Channels", Love Nature 4K*
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44bFXMZ/download-4.png" group-title="Infotainment Channels", Food Network 
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44bFXMZ/download-4.png" group-title="Infotainment Channels", Asian Food Network
-https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44bFXMZ/download-4.png" group-title="Infotainment Channels", Asian Food Network
-https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44bFXMZ/download-4.png" group-title="Infotainment Channels", Food Network
-https://altogether-007.netlify.app/discovery/api/Food%20Network.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Infotainment Channels",Nasa TV
-#https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Food Food
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
-#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="", Live Event
-https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+
 
 ########################## Entertainment ##########################
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Entertainment",Colors Infinity SD
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment", Star Movies Select HD
-http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", Live Event HD
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 
 ########################## NEWS INTERNASIONAL ##########################
 #EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
