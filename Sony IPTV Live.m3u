@@ -12,8 +12,8 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 https://rex-streaming.vercel.app/api/x/109987.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 1 HD IPL-2025
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 1 HD IPL-2025
-http://kst.moonplex.net:8080/CH10/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports 1 HD NS Player Need
+http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 1 Hindi HD IPL-2025
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports Select 1 Backup
