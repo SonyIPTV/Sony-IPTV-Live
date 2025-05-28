@@ -8,7 +8,7 @@ https://channel-swart.vercel.app/bd.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", BTV Sports HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
-EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ten Sports HD Ban Vs Pak T20
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ten Sports HD Ban Vs Pak T20
 http://c1.frsports.info/PB28/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 1 HD IPL-2025
 https://rex-streaming.vercel.app/api/x/109987.m3u8
