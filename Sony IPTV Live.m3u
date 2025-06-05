@@ -145,6 +145,9 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8?v=1
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
 ########################## ISLAMIC CHANNELS ##########################
+
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo=" ", মক্কা টিভি হজের জন্য 
+http://164.215.98.132:2082/live/8649G54859/8649G54859/39652.ts.mono.m3u8
 #EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo=" ", Peace Tv English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo=" ", Madani Tv 
