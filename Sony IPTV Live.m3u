@@ -6,6 +6,10 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports Football Ban Vs Singapore 
+http://stvlive.net:8080/sonyten1/index.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", BTV Sports HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
@@ -27,8 +31,7 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg ", A SPORTS HD PSL-2025
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports PSL
-https://www.tbn24.com/api/video/4031_0.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
