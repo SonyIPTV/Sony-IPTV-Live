@@ -86,8 +86,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 ########################## Football 🛜 ##########################
 #EXTINF:-1 tvg-logo="" group-title="Football", Persianas
 https://stream.sainaertebat.com/hls2/persianas.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", Espn
-https://super-cdn.link/espn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", TUDN Sport’s 
+https://x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", SSC-Sports-1
 https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/tracks-v1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", SSC-Sports-1
