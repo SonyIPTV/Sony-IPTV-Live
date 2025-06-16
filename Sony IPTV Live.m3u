@@ -30,27 +30,13 @@ https://rex-streaming.vercel.app/api/x/167578.m3u8
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD  PSL-2025
 http://175.107.244.52:4457/play/a08g/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg ", A SPORTS HD PSL-2025
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg ", A SPORTS HD 
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
-http://live.matribhumitv.com/matribhumi-sports/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
-https://cdn.hoichoi24.com/LIVE/video.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Total Sports HD 
-http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
-
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", T Sports HD 2
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", DPL Cricket
-https://bdixtv.short.gy/bdixtv_official/DPL.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", T Sports HD 1
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
-http://103.122.74.6:8888/hls/tsports.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Liv Pak Vs NeZ
-https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Star Sports SL 1 HD 
 http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg" group-title="Cricket 🏏",  Ten Sports HD  
@@ -60,43 +46,47 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 
 
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Unifi HD
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/QYyCSBm/manik.webp", Manik Chora T Sports 
-https://cdn.hoichoi24.com/LIVE/video.m3u8
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/QYyCSBm/manik.webp", Manik Chora T Sports 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SPORTSMAX
 https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Fast-Studios-Womens-Sports
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", GXR WORLD 🇮🇳
-https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
-
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/qF3VTKB/download-1.png", Sony Liv Champions League 1
-https://dai.google.com/linear/hls/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/qF3VTKB/download-1.png", Sony Liv Champions League 2
-https://dai.google.com/linear/hls/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Unifi HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 ########################## Football 🛜 ##########################
 #EXTINF:-1 tvg-logo="" group-title="Football", Fifa Club World Cup USA
 https://live-stream.iblups.com/video/68fccd3c75e206b5a341d181308a4c130a2de6bd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", TUDN Sport’s 
 https://x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", SSC-Sports-1
-https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/tracks-v1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", SSC-Sports-1
-https://live.eighty-eight.tv:8880/eighty-eight_SSC-Sports-1_A/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", beIN-Sports-1
-https://live.eighty-eight.tv:8880/eighty-eight_beIN-Sports-1_A/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Football",Football Live
 https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",  FIFA CWC 
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlistBU_1_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",  Dazn 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 2
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 2
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19043/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 3 FCW
+http://xxip25.top:8080/DAFsm1/015993/167748
+#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 3 FCW
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 4 FCW
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 5 FCW
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",  Digi Sport 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
+
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2536/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Live Sports Football 
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",TYC Sports Play
@@ -105,11 +95,9 @@ https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/in
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sport Italia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png",group-title="Football", Solh TV 🏆
-https://stream.sainaertebat.com/hls2/solhtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Football", VTC 1 HD 🏆
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
+
 ######################### FTP 📺 ##########################
 #EXTINF:-1 group-title="FTP 📺" tvg-logo="http://11plus.live/img/PTV_Sports.png", PTV Sports HD 📶 𝗙𝗧𝗣 Unique 📶
 http://11plus.live/live/ptv/index.m3u8
