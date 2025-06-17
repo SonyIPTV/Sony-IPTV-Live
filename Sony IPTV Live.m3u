@@ -66,7 +66,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 ########################## Football 🛜 ##########################
-
+#EXTINF:-1 tvg-logo="" group-title="Football", Sony Liv Champion League
+https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Fifa Club World Cup USA
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", TUDN Sport’s 
