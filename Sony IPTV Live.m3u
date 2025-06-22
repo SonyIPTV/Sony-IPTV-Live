@@ -34,6 +34,8 @@ http://stvlive.net:8080/starsports1/tracks-v1a1/mono.m3u8
 https://ddy6new.newkso.ru/ddy6/premium269/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports 1 HD NS Player Need
 http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports 1 HD
+http://103.175.242.10:8080/tsports1/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",  Sports Max NS Player 
 https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1124/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports Select 1 Backup
