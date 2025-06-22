@@ -6,7 +6,9 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ten Sports HD
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Astro Cricket HD
+http://3.team.ga/ch1988/mono.m3u8?token=id30419567.shE0SMLseR1OpD0I1s8D3IRaGCxpjif9IHaJRimdMfHhDAtm6f-KSOvnVbujzo07
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony Sports HD
 https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ban Vs Sri Test Match Live
 https://zubayerop.short.gy/BAN-V-SL-D5.m3u8
@@ -55,9 +57,8 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 
 
-
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/QYyCSBm/manik.webp", Manik Chora T Sports 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/QYyCSBm/manik.webp", EuroSports 
+https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SPORTSMAX
 https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
