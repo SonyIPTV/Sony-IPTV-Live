@@ -77,8 +77,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTVLCOPT:http-user-agent=BEXO/31.05
 https://dcb-fl-live.dtcdn.dazn.com/466js0vm8hm41oguv6s17n48e/tv/stream.mpd?channel=2651&outlet=dazn-row&plang=en
 
-#EXTINF:-1 tvg-logo="" group-title="Football", Sky Sports News
-http://3.team.ga/ch074/mono.m3u8?token=id30419567.shE0SMLseR1OpD0I1s8D3IRaGCxpjif9IHaJRimdMfHhDAtm6f-KSOvnVbujzo07
+#EXTINF:-1 tvg-logo="" group-title="Football", S Sports 
+https://217.30.11.74/e/3030.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Sony Liv Champion League
 https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Fifa Club World Cup USA
