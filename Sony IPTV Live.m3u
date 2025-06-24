@@ -6,7 +6,8 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
-
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
