@@ -9,60 +9,31 @@ https://channel-swart.vercel.app/bd.m3u8
 https://tataplay.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow 
+https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 3 HD
-http://103.175.242.10:8080/sonyten3/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 2 HD
-http://103.175.242.10:8080/sonyten2/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 5 HD
-http://103.175.242.10:8080/sonyten5/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony LIv Cricket HD
-https://zubayerop.short.gy/IND-V-ENG.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony Sports HD
 https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ban Vs Sri Test Match Live
-https://zubayerop.short.gy/BAN-V-SL-D5.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Starz on Criclife 
 https://ddy6new.newkso.ru/ddy6/premium282/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 1 Sports 
 https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 5 Sports 
-http://stvlive.net:8080/sonyten1/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports Football 
 http://38.96.178.201/live/TSports/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sports en France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", BTV Sports HD
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
-http://stvlive.net:8080/tsports1/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 1 HD IPL-2025
-https://rex-streaming.vercel.app/api/x/109987.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 1 HD 
-http://stvlive.net:8080/starsports1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD MLC USA-2025
 https://ddy6new.newkso.ru/ddy6/premium269/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports 1 HD NS Player Need
 http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports 1 HD
-http://103.175.242.10:8080/tsports1/index.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",  Sports Max NS Player 
 https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1124/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports Select 1 Backup
-https://rex-streaming.vercel.app/api/x/167578.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", M-Sports HD 
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD  PSL-2025
 http://175.107.244.52:4457/play/a08g/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg ", A SPORTS HD 
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", T Sports HD 2
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg", T Sports HD 1
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="",Star Sports SL 1 HD 
-http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg" group-title="Cricket 🏏",  Ten Sports HD  
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 1 HD
