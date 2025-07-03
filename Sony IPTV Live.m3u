@@ -54,9 +54,15 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 ########################## Football 🛜 ##########################
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/dl40oggorfri8ks43v7sqavwy_image-header_pRow_1747916130000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa WorldCup",Manchester City vs. Al Ain FC
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://dcb-fl-live.dtcdn.dazn.com/466js0vm8hm41oguv6s17n48e/tv/stream.mpd?channel=2651&outlet=dazn-row&plang=en
+#EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-1
+https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-2
+https://tiger-hub.vercel.app/Hub_Sports-2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-3
+https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-4
+https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Football", S Sports 
 https://217.30.11.74/e/3030.m3u8
