@@ -171,7 +171,20 @@ https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",4/7 Doraemon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Sony Aath
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Kolkata Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Bollywood Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Bollywood Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Jio Chinema
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Catoons
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",Dorymon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 ########################## ISLAMIC CHANNELS ##########################
 
 #EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo=" ", মক্কা টিভি হজের জন্য 
