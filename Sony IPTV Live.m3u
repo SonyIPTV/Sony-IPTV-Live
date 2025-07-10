@@ -11,7 +11,6 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
-
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",বাংলাদেশ বনাম শ্রীলঙ্কা সনি লিভ 
 https://zubayer-tg.short.gy/BAN-V-SL.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD 
@@ -131,38 +130,13 @@ http://10.111.200.30/live/feed1001/index.m3u8
 http://mxonlive-restream.atwebpages.com/mx/default.php/110034.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", MBC Saudi Arabia
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", NTV TV
-http://103.175.242.10:8080/ntv/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", ATN TV
-http://103.175.242.10:8080/atnbangla/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Jamuna TV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Banglavision TV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Banglavision TV
-https://tvs2.aynaott.com/banglavision/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", NTV TV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/master.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", NTV TV UK
 https://ap02.iqplay.tv:8082/iqb8002/nt589v/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Jamuna TV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/master.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Somoy TV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/master.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Channel 24 TV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/master.m3u8
+
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", MAASRANGA-TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", MAASRANGA-TV
-http://stvlive.net:8080/maasranga/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Eakttor TV HD
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Indepent TV HD
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", RTV  
-https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w2015195144.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Deptto TV
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",24/7 Gopal Bhar
