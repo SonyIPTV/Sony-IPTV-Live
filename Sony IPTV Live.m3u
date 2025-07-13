@@ -1,11 +1,6 @@
 #EXTM3U
 ######################## Cricket 🏏 ####################################################
 
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/jp/v3/jp/none/7zswdyq1zig8uxxc9owmwvpmp_image-header_pRow_1751182405000/fill/none/top/none/85/600/336/webp/image" group-title="Dazn | Fifa club WorldCup",Palmeiras vs. Chelsea FC
-#EXTVLCOPT:http-user-agent=BEXO/31.05
-https://ohbexo@dca-co-live-gcr.gcdn.co/1aqcwp2kaf4tm1dmqk837hdwxk/tv/stream.mpd?channel=1659&outlet=dazn-row&plang=en
-
-
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
@@ -15,16 +10,16 @@ https://channel-swart.vercel.app/bd.m3u8
 https://tvsen5.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony LIV IND VS ENG
 https://zubayerop.short.gy/IND-V-ENG.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD 
-https://bdix.fredflix.fun/live/209/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky Sports 1 HD 
+http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 2 HD 
-https://bdix.fredflix.fun/live/58/master.m3u8
+http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/9258/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD New
 http://kst.moonplex.net:8080/CH2/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD New
-https://bdix.fredflix.fun/live/56/master.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",A Sports HD 
-https://bdix.fredflix.fun/live/59/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Fox Sports 501 HD 
+http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",SONY SIX HD
+https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 3 HD
 https://tataplay.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
