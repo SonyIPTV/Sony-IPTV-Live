@@ -26,6 +26,14 @@ http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",SONY SIX HD
 https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
+
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 1
+https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 2
+https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 5
+https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 3 HD
 https://tataplay.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 5 HD
