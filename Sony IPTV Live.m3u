@@ -6,7 +6,8 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
-
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Nagorik TV Ban vs PAk T20
+https://tvsen6.aynaott.com/nagoriktv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD Ban vs PAk T20
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
