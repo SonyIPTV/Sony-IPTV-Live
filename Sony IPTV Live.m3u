@@ -6,20 +6,16 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Nagorik TV Ban vs PAk T20
-https://tvsen6.aynaott.com/nagoriktv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Tapmad HD Ban vs PAk T20
-http://c1.frsports.info/bsaw22/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
-https://tvsen5.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD
+http://103.15.140.138/tsports/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD New
 http://kst.moonplex.net:8080/CH2/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow HD 
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 1 HD 
 https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony LIV IND VS ENG
-https://zubayerop.short.gy/IND-V-ENG.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky Sports 1 HD 
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",SKY SPORTS MAIN EVENT
@@ -32,13 +28,6 @@ http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
 
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/76DdVhNJ/TNT-Sports-1.jpg",TNT Sports 1 
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TNT Sports 2
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TNT Sports 3
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Ten Cricket 
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 1
@@ -61,15 +50,11 @@ https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8
 https://ddy6new.newkso.ru/ddy6/premium282/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 1 Sports 
 https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports Football 
-http://38.96.178.201/live/TSports/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sports en France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD MLC USA-2025
 https://ddy6new.newkso.ru/ddy6/premium269/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports 1 HD NS Player Need
-http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",  Sports Max NS Player 
 https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1124/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
