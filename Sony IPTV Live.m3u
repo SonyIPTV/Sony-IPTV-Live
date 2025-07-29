@@ -14,14 +14,8 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 http://kst.moonplex.net:8080/CH2/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow HD 
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 1 HD 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD 
 https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky Sports 1 HD 
-http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",SKY SPORTS MAIN EVENT
-http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/9308/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 2 HD 
-http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/9258/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Fox Sports 501 HD 
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",SONY SIX HD
@@ -55,15 +49,10 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD MLC USA-2025
 https://ddy6new.newkso.ru/ddy6/premium269/mono.m3u8
 
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",  Sports Max NS Player 
-https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1124/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", M-Sports HD 
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD
 https://bdix.fredflix.fun/live/57/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg" group-title="Cricket 🏏",  Ten Sports HD  
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 1 HD
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 
@@ -93,18 +82,10 @@ https://tiger-hub.vercel.app/Hub_Sports-2/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-4
 https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", S Sports 
-https://217.30.11.74/e/3030.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", Sony Liv Champion League
-https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", Fifa Club World Cup USA
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", TUDN Sport’s 
 https://x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Football Live
 https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", ESPN FIFA CWC 
-http://38.96.178.201/live/ESPNHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1
 http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 2
@@ -138,8 +119,6 @@ https://tiger-hub.vercel.app/Arena-Sports/7/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Arena Sports8
 https://tiger-hub.vercel.app/Arena-Sports/8/tracks-v1a1/mono.ts.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="" group-title="Football",Sport italia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sport Italia
@@ -158,10 +137,6 @@ http://10.111.200.30/live/feed1001/index.m3u8
 http://10.111.200.30/live/feed1001/index.m3u8
 
 ########################## Bangladeshi 📺 ##########################
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Jajsha movie 
-http://tv.bdiptv.store/live/restreax/refstream/81.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", HUM TV pk
-http://mxonlive-restream.atwebpages.com/mx/default.php/110034.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", MBC Saudi Arabia
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", NTV TV UK
