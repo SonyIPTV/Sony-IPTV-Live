@@ -209,10 +209,6 @@ https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", MAASRANGA-TV
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Deptto TV
-https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",24/7 Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",24/7 Motu Patlu
@@ -237,8 +233,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duronto TV 
-https://tvsen6.aynaott.com/durontotv/index.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duronto TV 
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12609.ts
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",ZB Cartoon
