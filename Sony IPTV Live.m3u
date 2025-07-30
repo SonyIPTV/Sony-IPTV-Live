@@ -10,6 +10,8 @@ https://channel-swart.vercel.app/bd.m3u8
 http://103.15.140.138/tsports/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
+https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD New
 http://kst.moonplex.net:8080/CH2/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow HD 
