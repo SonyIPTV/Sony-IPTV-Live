@@ -19,16 +19,20 @@ http://195.181.161.132/skycricket/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",SuperSports Cricket
 https://tiger-hub.vercel.app/SuperSports-Cricket/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
+http://filex.me:8080/live/1234567890/1234567890/247168.ts.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
+https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD
 https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD
 http://103.15.140.138/tsports/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
-https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD New
-http://kst.moonplex.net:8080/CH2/index.m3u8
+
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow HD 
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD 
@@ -63,8 +67,7 @@ https://ddy6new.newkso.ru/ddy6/premium282/mono.m3u8
 https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sports en France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD MLC USA-2025
-https://ddy6new.newkso.ru/ddy6/premium269/mono.m3u8
+
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", M-Sports HD 
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
