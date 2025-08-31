@@ -8,34 +8,11 @@ https://channel-swart.vercel.app/bd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Motor Vision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Cricket 🏏",TNT Sports 1 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
-
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Willow Cricket 
-https://smart.bengaldigital.live/Star-Plus/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", The 100 UK 
-http://195.181.161.132/skycricket/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Super Sports Cricket
-https://tiger-hub.vercel.app/SuperSports-Cricket/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Ten Cricket
-https://eamin.rootmaster.xyz/Eaminvai_Ten_Cricket/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",SONY SPORTS TEN 5 HD
-http://103.110.111.36:8081/live/spten5_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",SONY SPORTS TEN 2 HD
-http://103.110.111.36:8081/live/spten2_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",SONY SPORTS TEN 1 HD
-http://103.110.111.36:8081/live/ten1_720p/chunks.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
 http://filex.me:8080/live/1234567890/1234567890/247168.ts.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD
 http://103.122.252.100:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD
@@ -43,6 +20,23 @@ http://103.15.140.138/tsports/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Cricket 🏏",TNT Sports 1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Willow Cricket 
+https://smart.bengaldigital.live/Star-Plus/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", The 100 UK 
+http://195.181.161.132/skycricket/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",SONY SPORTS TEN 5 HD
+http://103.110.111.36:8081/live/spten5_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",SONY SPORTS TEN 2 HD
+http://103.110.111.36:8081/live/spten2_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",SONY SPORTS TEN 1 HD
+http://103.110.111.36:8081/live/ten1_720p/chunks.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow HD 
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
