@@ -19,8 +19,8 @@ http://filex.me:8080/live/1234567890/1234567890/247168.ts.m3u8
 https://bdixtv24.xyz/sports/m3u8.php/asportshd.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD
-http://103.122.252.100:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 1 Sports HD
+https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD
 http://103.15.140.138/tsports/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports
