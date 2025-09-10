@@ -5,19 +5,35 @@
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Motor Vision
-https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+
+
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 1 Asia Cup
+https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 1
+https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 3 Asia Cup
+https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD
+https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 2
+https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 5
+https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow 
+https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Duronto TV HD 
 https://tvsen4.aynaott.com/durontotv/index.m3u8
-
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
 http://filex.me:8080/live/1234567890/1234567890/247168.ts.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD B
 https://bdixtv24.xyz/sports/m3u8.php/asportshd.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 1 Sports HD
-https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD
 http://103.15.140.138/tsports/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports
@@ -34,13 +50,6 @@ https://smart.bengaldigital.live/Star-Plus/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", The 100 UK 
 http://195.181.161.132/skycricket/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",SONY SPORTS TEN 5 HD
-http://103.110.111.36:8081/live/spten5_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",SONY SPORTS TEN 2 HD
-http://103.110.111.36:8081/live/spten2_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",SONY SPORTS TEN 1 HD
-http://103.110.111.36:8081/live/ten1_720p/chunks.m3u8
-
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow HD 
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD 
@@ -53,34 +62,14 @@ https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Ten Cricket 
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 1
-https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 1
-https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 2
-https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 5
-https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 3 HD
-https://tataplay.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 5 HD
-https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow 
-https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony Sports HD
-https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Starz on Criclife 
-https://ddy6new.newkso.ru/ddy6/premium282/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 1 Sports 
-https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8
+
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sports en France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", M-Sports HD 
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD
-https://bdix.fredflix.fun/live/57/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 1 HD
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 
@@ -97,6 +86,8 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Unifi HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Motor Vision
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 ########################## Football 🛜 ##########################
 
