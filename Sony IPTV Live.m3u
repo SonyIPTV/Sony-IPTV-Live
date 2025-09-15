@@ -6,6 +6,10 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
+
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup TEN Cricket SPORTS 🇮🇳
+https://app.hughag.store/api/6b9c461155/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup SONY TEN 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia CupS ONY TEN 2 HD
@@ -21,6 +25,7 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD
 https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 2
 https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 5
