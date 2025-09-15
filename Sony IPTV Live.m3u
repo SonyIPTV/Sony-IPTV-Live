@@ -6,24 +6,25 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup SONY TEN 1 HD
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia CupS ONY TEN 2 HD
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup SONY TEN 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup SONY TEN 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup SONY TEN 4 HD
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 1 Asia Cup
-https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 1
 https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 3 Asia Cup
-https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD
 https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 2
 https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 5
 https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 3 HD
-https://tataplay.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony 5 HD
-https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow 
 https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 
