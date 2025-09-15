@@ -7,7 +7,12 @@ https://stream.spicefmbd.com/stream.m3u8
 https://channel-swart.vercel.app/bd.m3u8
 
 
-
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup English PIX HD
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup PIX HD Hindi
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup TOFFE BANGLADESH 
+http://103.73.107.122:3255/TSportsHD/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup TEN Cricket SPORTS 🇮🇳
 https://app.hughag.store/api/6b9c461155/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup SONY TEN 1 HD
