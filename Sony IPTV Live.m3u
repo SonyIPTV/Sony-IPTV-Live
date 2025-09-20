@@ -7,6 +7,8 @@ https://stream.spicefmbd.com/stream.m3u8
 https://channel-swart.vercel.app/bd.m3u8
 
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup Live Sports 
+https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow 1 HD
 https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=8AEPjlG71rcpSA1f3ujAEg&expires=1758344279
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow HD 2
