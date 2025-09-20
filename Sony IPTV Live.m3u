@@ -93,7 +93,16 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 ########################## Football 🛜 ##########################
-
+#EXTINF:-1 tvg-logo="" group-title="Football",Arena_Sport
+http://178.23.88.55/Arena_sport/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Sport 1 HD
+http://178.23.88.55/Sport1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Nova_Sport
+http://178.23.88.55/Nova_Sport/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Nova_Sport
+http://178.23.88.55/Nova_Sport/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Eurosport_2
+http://178.23.88.55/Eurosport_2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",TYC Sports
 https://tiger-hub.vercel.app/TYC_Sports-Argentina/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-1
@@ -108,16 +117,7 @@ https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
 https://x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Football Live
 https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1
-http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 2
-http://125x.org:8080/bn2hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 3
-http://125x.org:8080/bn3hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 4
-http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 6
-http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Football",Arena Sports1
 https://tiger-hub.vercel.app/Arena-Sports/1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Arena Sports Premium1
