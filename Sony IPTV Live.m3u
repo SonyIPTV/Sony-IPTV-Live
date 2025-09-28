@@ -7,8 +7,8 @@ https://stream.spicefmbd.com/stream.m3u8
 https://channel-swart.vercel.app/bd.m3u8
 
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup Live PTV Sports
-http://c10.vfruitfairy.com/asia025/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup Live Sports Final
+http://103.73.107.122:3255/TSportsHD/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", WILLOW_CRICKET Asia Cup
 https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
