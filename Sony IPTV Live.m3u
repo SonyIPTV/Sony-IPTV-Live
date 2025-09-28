@@ -7,7 +7,7 @@ https://stream.spicefmbd.com/stream.m3u8
 https://channel-swart.vercel.app/bd.m3u8
 
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Test
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Test TV
 http://flix.11plus.live:8083/NagorikTV/tracks-v1a1/mono.m3u8?token=da0c44f42060e2e9da3359862503c9bd220c0453-b024c8db90843347ac58aaed30bc7cc4-1759083494-1759072694
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup Live Sports Final
