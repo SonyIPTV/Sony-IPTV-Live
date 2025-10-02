@@ -45,16 +45,7 @@ http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports SL 2 HD EPL
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow 1 HD
-https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=8AEPjlG71rcpSA1f3ujAEg&expires=1758344279
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow HD 2
-https://d7.merichunidya.com:1686/hls/willowextra.m3u8?md5=0WRLGYiS8WJoklpyEUBN8A&expires=1758344279
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ten 1 HD  Asia Cup
-https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=OZUT4BDVkPWESfvLH74x2A&expires=1758344284
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Main Event
-https://d1.merichunidya.com:1686/hls/skysme.m3u8?md5=x8cLOs-aOIxB_LxMgHRJvA&expires=1758344280
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Premier League
-https://d4.merichunidya.com:1686/hls/skysprem.m3u8?md5=o02FjIImeD1gwFAGs2vPbw&expires=1758344282
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 1 HD
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 2 HD
