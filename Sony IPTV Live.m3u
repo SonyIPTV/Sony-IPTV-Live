@@ -6,6 +6,8 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 1 HD
+https://sportcastlive.digital/live/foot1/chunks.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png",T Sports 
 http://147.93.154.65/Bein3/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png", Willow
