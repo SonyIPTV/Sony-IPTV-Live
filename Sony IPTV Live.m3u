@@ -6,6 +6,8 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Pak vs Sa Tapmad Test Match
+http://mm@c2.frsports.info/NSA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WILLOW_CRICKET
 https://fl25.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png", Willow
