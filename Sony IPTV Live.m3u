@@ -6,6 +6,11 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports 
+https://d15.epicquesthero.com:999/hls/tenspk.m3u8?md5=6d3W-QXZ8e3fkCA807Qbtg&expires=1760253874
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",A Sports Pak vs Sa Test Match
+https://d15.epicquesthero.com:999/hls/asportshd.m3u8?md5=Z28oAyc2Cw8yZFf3o6yROg&expires=1760253874
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Pak vs Sa Tapmad Test Match
 http://mm@c2.frsports.info/NSA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WILLOW_CRICKET
