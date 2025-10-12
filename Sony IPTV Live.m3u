@@ -6,7 +6,8 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
-
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TEN Sports RAW Source
+http://144.217.76.135:8082/sami/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports 
 https://d15.epicquesthero.com:999/hls/tenspk.m3u8?md5=6d3W-QXZ8e3fkCA807Qbtg&expires=1760253874
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",A Sports Pak vs Sa Test Match
