@@ -6,27 +6,16 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TEN Sports RAW Source
-http://144.217.76.135:8082/sami/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports 
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Live Sports 
+https://ams.sandbrix.live/LiveApp/streams/H8YbJkA5EROi48mK344053877989566.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WILLOW_CRICKET Test Match
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa&e=.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WILLOW_CRICKET Extra 2 Test Match
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WILLOW_CRICKET
 https://fl25.moveonjoy.com/WILLOW_CRICKET/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png", Willow
-https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1
-https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports 
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=tenspk&e=.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky Sports Cricket 
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric&e=.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Live Sports
-http://103.73.107.122:3255/TSportsHD/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Astro_CRICKET Asia Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
