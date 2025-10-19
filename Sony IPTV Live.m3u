@@ -8,6 +8,8 @@ https://channel-swart.vercel.app/bd.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Live Sports 
 https://ams.sandbrix.live/LiveApp/streams/H8YbJkA5EROi48mK344053877989566.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Solh Live Sports 
+http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WILLOW_CRICKET Test Match
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa&e=.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WILLOW_CRICKET Extra 2 Test Match
