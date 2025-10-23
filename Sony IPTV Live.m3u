@@ -6,6 +6,8 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Bangladesh Vs West Indies Live
+https://imranapk.site/API/FCXx/play.m3u8?id=https://in-mc-fdlive.fancode.com/mumbai/137702_hindi_hls_856d072f7746149ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Solh Live Sports 
 http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Live Sports 
