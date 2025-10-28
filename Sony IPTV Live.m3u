@@ -6,8 +6,7 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Bangladesh Vs West Indies Live T20
-https://imranapk.site/API/FCXx/play.m3u8?id=http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Solh Live Sports 
 http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports 
@@ -26,42 +25,30 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw" group-title="Cricket 🏏",Willow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 YGX/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow HD 
+http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Solh Live Sports 
 http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD
-http://116.204.149.16/t_sports/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WILLOW_CRICKET Extra 2 Test Match
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WILLOW_CRICKET
-https://fl25.moveonjoy.com/WILLOW_CRICKET/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky Sports Cricket 
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric&e=.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Astro_CRICKET Asia Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-https://proxy.mydementiacompanion.com.au/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
-
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 1 HD
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 2 HD
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 3 HD
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT Sports 4 HD
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp4
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT sports 1
-http://46.105.71.222:8080/btsport1/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT sports 2
-http://46.105.71.222:8080/btsport2/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT sports 3
-http://46.105.71.222:8080/btsport3/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT sports 4
-http://46.105.71.222:8080/btsport4/index.m3u8
 
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup TOFFE BANGLADESH 
@@ -80,28 +67,7 @@ https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
-http://filex.me:8080/live/1234567890/1234567890/247168.ts.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD B
-https://bdixtv24.xyz/sports/m3u8.php/asportshd.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
-https://stream2.aryzap.com/v1/018a8885b8951eb401a603639363/018a88860ada09831f17035d95dd/main.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD
-http://103.15.140.138/tsports/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow HD 
-http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD 
-https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Fox Sports 501 HD 
-http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",SONY SIX HD
-https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sports en France
-https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", SPORTSMAX
