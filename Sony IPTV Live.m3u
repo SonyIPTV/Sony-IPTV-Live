@@ -6,6 +6,13 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",UAE vs USA (ICC CWC League 2, 2023-27) 📺
+https://bd-mc-fdlive.fancode.com/mumbai/137252_english_hls_f6533904ac22617ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",South Australia vs Western Australia (Sheffield Shield, 2025-26) 📺
+https://bd-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc152344ta-di_h264/index.m3u8
+
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 📺
 http://103.175.242.10:8080/tsports1/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 📺
