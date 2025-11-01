@@ -7,13 +7,6 @@ https://stream.spicefmbd.com/stream.m3u8
 https://channel-swart.vercel.app/bd.m3u8
 
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" "Fancode 📺
-https://bd-mc-fdlive.fancode.com/mumbai/137252_english_hls_f6533904ac22617ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" "Fancode 📺
-https://bd-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc152344ta-di_h264/index.m3u8
-
-
-
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Ten Cricket HD 🇧🇩 📺
 http://103.101.197.10:9981/stream/channelid/373034842?profile=pass
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 📺
