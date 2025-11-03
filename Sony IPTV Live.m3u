@@ -7,6 +7,8 @@ https://stream.spicefmbd.com/stream.m3u8
 https://channel-swart.vercel.app/bd.m3u8
 
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Astro Cricket HD 📺
+https://smart.bengaldigital.live/AstroCricket/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Ten Cricket HD 🇧🇩 📺
 http://103.101.197.10:9981/stream/channelid/373034842?profile=pass
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 📺
@@ -88,8 +90,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Asia Cup TOFFE BANGLADESH 
-http://103.73.107.122:3255/TSportsHD/index.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony sports 1
 https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD
