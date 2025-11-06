@@ -6,12 +6,21 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",PTV Sports 📺
+http://66.102.120.18:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",NZ_sky_Sport_2 📺
+http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 📺
 http://stvlive.net:8080/tsports1/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 📺
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1142
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Fox 501 HD 📺
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Astro Cricket HD 📺
 https://smart.bengaldigital.live/AstroCricket/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Astro Cricket HD 📺
+http://iptvtree.net:8080/F28312/cc1dc138/157565
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Ten Cricket HD 🇧🇩 📺
 http://103.101.197.10:9981/stream/channelid/373034842?profile=pass
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 📺
@@ -130,6 +139,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 ########################## Football 🛜 ##########################
+#EXTINF:-1 tvg-logo="" group-title="Football",Fox Football ESPN HD 
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Astro Football HD 
 https://smart.bengaldigital.live/AstroFootball/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",True Football 1 HD Thailand
