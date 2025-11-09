@@ -140,9 +140,12 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 ########################## Football 🛜 ##########################
-
-#EXTINF:-1 tvg-logo="" group-title="Football",Russia Football HD 
+#EXTINF:-1 tvg-logo="" group-title="Football",Russia Football 1 HD 
+http://cdntv.online/low/9mlxywika2/55.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Russia Football 2 HD 
 http://cdntv.online/low/9mlxywika2/56.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Russia Football 3 HD 
+http://cdntv.online/low/9mlxywika2/57.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Fox Football ESPN HD 
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Astro Football HD 
