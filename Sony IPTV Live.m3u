@@ -7,7 +7,8 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
 https://channel-swart.vercel.app/bd.m3u8
 
-
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Solh Sports 📺
+http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",PTV Sports 📺
 http://66.102.120.18:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",NZ_sky_Sport_2 📺
