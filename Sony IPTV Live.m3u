@@ -1,5 +1,9 @@
 #EXTM3U
 ######################## Cricket 🏏 ####################################################
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Ban vs Irl 1st Test  📺 Fancode 🇧🇩 📺
+https://bd-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011421704_1ta-di_h264/index.m3u8
+
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
@@ -14,8 +18,7 @@ http://cors.tundracast.com:2000/https://ams.sandbrix.live/LiveApp/streams/NKAv2V
 https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Solh Sports 📺
 http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Ban vs Irl 1st Test  📺 Fancode 🇧🇩 📺
-https://bd-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011421704_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",NZ_sky_Sport_2 📺
 http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports HD 🇧🇩 📺 🏏SL🆚Pak🏏
