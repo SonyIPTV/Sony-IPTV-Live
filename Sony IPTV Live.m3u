@@ -46,6 +46,9 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 https://smart.bengaldigital.live/AstroCricket/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Astro Cricket HD 📺
 http://iptvtree.net:8080/F28312/cc1dc138/157565
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Astro Cricket HD 📺 🎯
+http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Ten Cricket HD 🇧🇩 📺
 http://103.101.197.10:9981/stream/channelid/373034842?profile=pass
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 📺
