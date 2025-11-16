@@ -1,7 +1,17 @@
 #EXTM3U
 ######################## Cricket 🏏 ####################################################
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Azan TV 🎯
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
+https://stream.spicefmbd.com/stream.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
+https://channel-swart.vercel.app/bd.m3u8
+
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Cricket 📺 🇧🇩 📺
 http://cors.tundracast.com:2000/http://178.33.239.54:8080/503a/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Cricket 📺 🇧🇩 📺
+http://178.33.239.54:8080/503a/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Main Event 📺 🇧🇩 📺
 http://178.33.239.54:8080/502a/index.m3u8
 
@@ -10,15 +20,6 @@ http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Ten 2 🇧🇩📺🇮🇳🇵🇰
 http://103.240.44.26/Sony-Ten-2-HD/index.fmp4.m3u8
-
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Azan TV 🎯
-https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
-https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
-https://channel-swart.vercel.app/bd.m3u8
-
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 Hindi 🇮🇳📺
 https://starsportshindiii.pages.dev/720p.m3u8
