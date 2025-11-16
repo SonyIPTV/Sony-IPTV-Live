@@ -225,6 +225,10 @@ https://x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Football Live
 https://spstr.abntv.live/hls/psstream.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Football",Arena Sports 1 🎯
+http://78.108.251.7/Arena_Sport_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Arena Sports 2 🎯
+http://78.108.251.7/Arena_Sport_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Arena Sports1
 https://tiger-hub.vercel.app/Arena-Sports/1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Arena Sports Premium1
