@@ -5,7 +5,9 @@ https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
-https://channel-swart.vercel.app/bd.m3u8
+#https://channel-swart.vercel.app/bd.m3u8
+#http://as11.digitalsynapsebd.com:8582/;stream.mp3
+http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD 📺  📺
