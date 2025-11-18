@@ -9,7 +9,14 @@ https://stream.spicefmbd.com/stream.m3u8
 #http://as11.digitalsynapsebd.com:8582/;stream.mp3
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
-
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T-Sports-HD 📺 🇧🇩
+http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony-Ten-1-HD 📺 
+http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony-Ten-2-HD 📺 
+http://103.240.44.26/Sony-Ten-2-HD/index.fmp4.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony-Ten-5-HD 📺 
+http://103.240.44.26/Sony-Ten-5-HD/index.fmp4.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD 📺  📺
 http://cors.tundracast.com:2000/http://163.172.57.3/crc1/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Pro Sports 1 📺  📺
