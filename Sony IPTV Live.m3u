@@ -47,8 +47,8 @@ http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",NZ_sky_Sport_2 📺
 http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports HD 🇧🇩 📺 🏏SL🆚Pak🏏
-https://fl7.moveonjoy.com/WILLOW_CRICKET/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 BDIX
+http://103.240.44.26/T-Sports-HD/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Astro Cricket Sports HD 🇲🇾 📺
 http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 📺
