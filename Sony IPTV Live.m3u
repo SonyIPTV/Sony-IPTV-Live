@@ -10,8 +10,8 @@ https://stream.spicefmbd.com/stream.m3u8
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", 🇧🇩 BAN A vs IND A 🇮🇳 2nd T20🏏 Sony Liv
-https://zubayerop.short.gy/BAN-A-VS-IND-A.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", 🇵🇰 Pak A vs SRI A  2nd T20🏏 Sony Liv
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763778168~acl=/*~id=41815704819752864819362985217951~hmac=9617a48b78cb8bb3cb5737fa072e645a3dbdcfd5edcf2ed965b545f7f4faf42a
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT-Sports-1 [Australia vs England]
 #http://103.135.132.54:88/tsportshd/index.m3u8
 https://l.lioncdn.net/TNT-Sports-1/index.m3u8
