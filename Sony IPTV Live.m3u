@@ -10,7 +10,10 @@ https://stream.spicefmbd.com/stream.m3u8
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", 🇵🇰 Pak A vs SRI A  2nd T20🏏 Sony Liv
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", 🇵🇰 Pak A vs BAN A  🇧🇩 T20🏏 Final ACC Asia Cup
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", 🇵🇰 Pak A vs BAN A  🇧🇩 T20🏏 Sony Liv
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT-Sports-1 [Australia vs England]
 #http://103.135.132.54:88/tsportshd/index.m3u8
