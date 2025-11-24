@@ -9,9 +9,8 @@ https://stream.spicefmbd.com/stream.m3u8
 #http://as11.digitalsynapsebd.com:8582/;stream.mp3
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", 🇵🇰 Pak A vs BAN A  🇧🇩 T20🏏 Final ACC Asia Cup
-#https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
-https://zubayerop.short.gy/BAN-A-VS-PAK-A.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", IND VS RSA 2nd Test  
+https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", 🇵🇰 Pak A vs BAN A  🇧🇩 T20🏏 Sony Liv
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
@@ -174,6 +173,8 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 ########################## Football 🛜 ##########################
+#EXTINF:-1 tvg-logo="" group-title="Football",ESPN VIVO Sports 🎯
+http://104.243.40.13:8989/279426_.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sharjah Sports 🎯
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sky Sports Football 🎯
