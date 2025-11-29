@@ -16,6 +16,10 @@ https://bd-mc-fdlive.fancode.com/mumbai/138240_english_hls_5bff52a45c14478_1ta-d
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Pro Sports 1 📺  📺
 https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports 📺  📺
+http://66.102.120.18:8000/play/a04w
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports 📺 
+http://66.102.120.18:8000/play/a04w/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow-Sports-HD 📺 🇧🇩
 http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
