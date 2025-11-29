@@ -28,23 +28,6 @@ http://cors.tundracast.com:2000/https://ams.sandbrix.live/LiveApp/streams/NKAv2V
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sandbrix live 🏏SL🆚Pak🏏 Sandbrix 📺
 https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Fox 501 HD 📺
-https://foxenglish.pages.dev/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Astro Cricket HD 🇲🇾📺
-https://smart.bengaldigital.live/AstroCricket/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Astro Cricket HD 📺
-http://iptvtree.net:8080/F28312/cc1dc138/157565
-
-
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky Sports Premier League 📺
-https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Cricket 1 📺
-https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Cricket 2 📺
-https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" group-title="Cricket 🏏",Fancode Cric 1 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
