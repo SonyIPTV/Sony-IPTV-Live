@@ -14,49 +14,20 @@ https://bd-mc-fdlive.fancode.com/mumbai/138240_english_hls_5bff52a45c14478_1ta-d
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", 🇵🇰 Pak A vs BAN A  🇧🇩 T20🏏 Sony Liv
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT-Sports-1 [Australia vs England]
-http://103.135.132.54:88/tsportshd/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow-Sports-HD 📺 🇧🇩
-http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T-Sports-HD 📺 🇧🇩
-http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony-Ten-1-HD 📺 
-http://103.240.44.26/Sony-Ten-1-HD/index.fmp4.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony-Ten-2-HD 📺 
-http://103.240.44.26/Sony-Ten-2-HD/index.fmp4.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony-Ten-5-HD 📺 
-http://103.240.44.26/Sony-Ten-5-HD/index.fmp4.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD 📺  📺
-http://cors.tundracast.com:2000/http://163.172.57.3/crc1/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Pro Sports 1 📺  📺
 https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Cricket 📺 🇧🇩 📺
-http://cors.tundracast.com:2000/http://178.33.239.54:8080/503a/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Cricket 📺 🇧🇩 📺
-http://178.33.239.54:8080/503a/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Main Event 📺 🇧🇩 📺
-http://178.33.239.54:8080/502a/index.m3u8
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow-Sports-HD 📺 🇧🇩
+http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports  📺
+http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 Hindi 🇮🇳📺
 https://starsportshindiii.pages.dev/720p.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD 🇮🇳 🎯
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", 🏏SL🆚Pak🏏 One Day Mtach 📺
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", 🏏SL🆚Pak🏏 Sandbrix 📺
 http://cors.tundracast.com:2000/https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sandbrix live 🏏SL🆚Pak🏏 One Day Mtach 📺
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sandbrix live 🏏SL🆚Pak🏏 Sandbrix 📺
 https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Solh Sports 📺
-http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",NZ_sky_Sport_2 📺
-http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 BDIX
-http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Astro Cricket Sports HD 🇲🇾 📺
-http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 📺
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1142
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Fox 501 HD 📺
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Fox 501 HD 📺
 https://foxenglish.pages.dev/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Astro Cricket HD 🇲🇾📺
@@ -64,20 +35,8 @@ https://smart.bengaldigital.live/AstroCricket/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Astro Cricket HD 📺
 http://iptvtree.net:8080/F28312/cc1dc138/157565
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Astro Cricket HD 📺 🎯
-http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Ten Cricket HD 🇧🇩 📺
-http://103.101.197.10:9981/stream/channelid/373034842?profile=pass
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 📺
-http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Geo Super HD 🇵🇰 📺
-http://103.240.44.26/GEO-Super/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 📺
-http://stvlive.net:8080/tsports1/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Solh Live Sports  📺
-http://cors.tundracast.com:2000/https://wo.cma.footballii.ir/hls2/solh.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports  📺
-http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
+
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky Sports Premier League 📺
 https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
 
