@@ -51,22 +51,29 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inp
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", #EXTINF:-1 , TNT SPORTS 4
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 1 🎯
-https://l.lioncdn.net/TNT-Sports-1/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 2 🎯
-https://l.lioncdn.net/TNT-Sports-2/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 3 🎯
-https://l.lioncdn.net/TNT-Sports-3/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 4 🎯
-https://l.lioncdn.net/TNT-Sports-4/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 1 🎯 📡 
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3933.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 2 🎯 📡 
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3934.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 3 🎯 📡 
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3935.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 4 🎯 📡 
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3936.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT SPORTS 4 🎯
+#EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏",T SPORT HD 🎯
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1136.m3u8
+#EXTINF:-1 tvg-name="Astro Cricket" group-title="Cricket 🏏",Astro Cricket 🎯
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/516.m3u8
+#EXTINF:-1 tvg-name="TEN SPRTS PK" group-title="Cricket 🏏",TEN SPRTS PK 🎯
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1372.m3u8
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT SPORTS 4 🎯 📡 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
@@ -78,25 +85,20 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/91
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Tv
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Tv 🎯 📡 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Fubo Sports 1
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Fubo Sports 1 🎯 📡 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Fubo Sports 2
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Fubo Sports 2 🎯 📡 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Euro Sport 1 HD 
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport1.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Euro Sport 2 HD 
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport2.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow HD 
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
