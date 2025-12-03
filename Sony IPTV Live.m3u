@@ -18,8 +18,6 @@ https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Pro Sports 1 📺  📺
 https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports 📺  📺
-https://d1.merichunidya.com:1686/hls/ptvpk.m3u8?md5=RiutgbGpj0qV4ZU2lZjhsw&expires=1764679634
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports 📺  📺
 http://66.102.120.18:8000/play/a04w
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports 📺 
 http://66.102.120.18:8000/play/a04w/index.m3u8
