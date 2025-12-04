@@ -1,8 +1,8 @@
 #EXTM3U
 ######################## Cricket 🏏 ####################################################
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WAZ TV 🎯
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WAZ TV 🎯 📡
 https://tplay.live/originals/ilm-tv/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Azan TV 🎯
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Azan TV 🎯 📡
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
@@ -261,6 +261,8 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 ########################## Bangladeshi 📺 ##########################
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", SRK TV 
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", MBC Saudi Arabia
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
