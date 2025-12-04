@@ -9,6 +9,7 @@ https://stream.spicefmbd.com/stream.m3u8
 #http://as11.digitalsynapsebd.com:8582/;stream.mp3
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",BAN VS IRD T20 Fancode
 https://bd-mc-fdlive.fancode.com/mumbai/138241_english_hls_4e52e6bfe264990_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Fox 505 InD Vs RSA 2nd ODI 
@@ -22,15 +23,17 @@ http://66.102.120.18:8000/play/a04w
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports 📺 
 http://66.102.120.18:8000/play/a04w/index.m3u8
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Fox-Sports 501-HD 📺 🇧🇩
+https://foxstream.pages.dev/Cricsters01.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow-Sports-HD 📺 🇧🇩
 http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports  📺
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 Hindi 🇮🇳📺
 https://starsportshindiii.pages.dev/720p.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", 🏏SL🆚Pak🏏 Sandbrix 📺
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", 🏏 Sandbrix 📺
 http://cors.tundracast.com:2000/https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sandbrix live 🏏SL🆚Pak🏏 Sandbrix 📺
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sandbrix 📺
 https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" group-title="Cricket 🏏",Fancode Cric 1 📺
