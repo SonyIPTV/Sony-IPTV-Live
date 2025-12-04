@@ -9,7 +9,10 @@ https://stream.spicefmbd.com/stream.m3u8
 #http://as11.digitalsynapsebd.com:8582/;stream.mp3
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
-
+#EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏",T SPORT HD 🎯
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1136.m3u8
+#EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏",T SPORT HD 🎯
+https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1764846049&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=e42291c1a03cb60f04bef0eb69a697fa
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",BAN VS IRD T20 Fancode
 https://bd-mc-fdlive.fancode.com/mumbai/138241_english_hls_4e52e6bfe264990_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Fox 505 InD Vs RSA 2nd ODI 
@@ -71,8 +74,7 @@ http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3935.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 4 🎯 📡 
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3936.m3u8
 
-#EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏",T SPORT HD 🎯
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1136.m3u8
+
 #EXTINF:-1 tvg-name="Astro Cricket" group-title="Cricket 🏏",Astro Cricket 🎯
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/516.m3u8
 #EXTINF:-1 tvg-name="TEN SPRTS PK" group-title="Cricket 🏏",TEN SPRTS PK 🎯
