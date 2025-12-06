@@ -15,13 +15,13 @@ http://as31.digitalsynapsebd.com:8446/;stream.mp3
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1136.m3u8
 #EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏",Ten Cricket HD 🎯
 https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" "Sony Ten 5 🎯 📡
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Ten 5 🎯 📡
 https://allottplay.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" "Sony Ten 2 🎯 📡
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Ten 2 🎯 📡
 https://allottplay.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" "Sony Ten 1 🎯 📡
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Ten 1 🎯 📡
 https://allottplay.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Fox 505 InD Vs RSA 2nd ODI 
