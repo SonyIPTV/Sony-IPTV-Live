@@ -22,6 +22,8 @@ http://51.83.129.17/tsports/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky sports cricket 🎯 📡
 http://ch01.sh365.org/24234/index.m3u8?token=c49SP8TrtUZfww
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky sports cricket 🎯 📡
+http://178.33.239.54:8080/503/index.m3u8
 #EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏",Ten Cricket HD 🎯
 https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Ten 5 🎯 📡
