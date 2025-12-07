@@ -160,6 +160,11 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Cricket 🏏" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD ILT20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1765158450~acl=%2f*~id=117ca21c-b283-4f0f-960c-9d365bdb0c04~data=hdntl~hmac=0cc6b6dd366c5f1998b77bf31c58f027770e7340a5fc1a7dff0a8f7929bde8d8
+
 ########################## Football 🛜 ##########################
 #EXTINF:-1 tvg-logo="" group-title="Football",ESPN VIVO Sports 🎯
 http://104.243.40.13:8989/279426_.m3u8
