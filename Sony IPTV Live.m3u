@@ -96,13 +96,20 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/91
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 1 🎯 📡 
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3933.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 1 🎯 📡 
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6202.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 2 🎯 📡 
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3934.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 2 🎯 📡 
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13779.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 3 🎯 📡 
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3935.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 3 🎯 📡 
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13778.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 4 🎯 📡 
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3936.m3u8
-
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 4 🎯 📡 
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153713.m3u8
 
 #EXTINF:-1 tvg-name="Astro Cricket" group-title="Cricket 🏏",Astro Cricket 🎯
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/516.m3u8
