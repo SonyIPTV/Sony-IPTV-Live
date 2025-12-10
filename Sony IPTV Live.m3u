@@ -170,14 +170,26 @@ https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1765158450~acl=%2f*~id=117ca21c-b283-4f0f-960c-9d365bdb0c04~data=hdntl~hmac=0cc6b6dd366c5f1998b77bf31c58f027770e7340a5fc1a7dff0a8f7929bde8d8
 
 ########################## Football 🛜 ##########################
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b0befd2d80789976ef317aeb5ef935b9" group-title="Football",PSN 1 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a6a66023b1ce294c3d0e8ebf256fa5f7" group-title="Football",PSN 2 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bcfc4d063ae30626ae0ffe998c74c272" group-title="Football",PSN 4 Sports
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3c3b41f4c5f83f82011b90203c813508" group-title="Football",PSN 5 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Football",ESPN VIVO Sports 🎯
 http://104.243.40.13:8989/279426_.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sharjah Sports 🎯
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Sky Sports Football 🎯
-http://178.33.239.54:8080/500a/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1 True Vision 🎯
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1 🎯
+http://cors.tundracast.com:2000/http://119.59.118.159/live/ch15/xxccxgd134/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 2 🎯
+http://cors.tundracast.com:2000/http://119.59.118.159/live/ch16/xxccxgd134/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Santana Sports 🎯
 http://ott.watch/live/D3FX33QMIH1/313/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",PRO Sport International �
