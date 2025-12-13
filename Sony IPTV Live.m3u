@@ -20,8 +20,8 @@ https://stream.spicefmbd.com/stream.m3u8
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 
-#EXTINF:-1 tvg-name=T " group-title="Cricket 🏏",  Messi India Tour - 2025 Kolkata Event 📡 ⚙️
-https://zubayerop.short.gy/Copy-mat-kar-bkl.m3u8
+#EXTINF:-1 tvg-name=T " group-title="Cricket 🏏",  PTV 📡 ⚙️
+http://redforce.live:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=f1a465d2b11d3a2194c5fd1cfb7e6c1d81f91907-7424506e8e874066f15dde78282f7ad5-1750285872-1750275072
 #EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏",ILT20 🎯 📡 ⚙️
 http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
 #EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏",Fox SPORT 501HD 🎯 📡 ⚙️
