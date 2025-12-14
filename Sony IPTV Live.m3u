@@ -207,15 +207,15 @@ https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3c3b41f4c5f83f82011b90203c813508" group-title="Football",PSN 5 Sports
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Football",ESPN VIVO Sports 🎯
-http://104.243.40.13:8989/279426_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1🎯
+https://m.xigzo.store/live/api/683620.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sharjah Sports 🎯
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1 True Vision 🎯
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1 🎯
-http://cors.tundracast.com:2000/http://119.59.118.159/live/ch15/xxccxgd134/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 2 🎯
+https://m.xigzo.store/live/api/683623.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 2 🎯
 http://cors.tundracast.com:2000/http://119.59.118.159/live/ch16/xxccxgd134/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Santana Sports 🎯
