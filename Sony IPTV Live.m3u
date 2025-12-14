@@ -30,6 +30,8 @@ https://dai.google.com/ssai/event/5F9zoppqQ_WmchSbXbE58w/master.m3u8
 https://m.xigzo.store/live/api/250211.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",  Willow Sports 2 HD 📡 ⚙️ 🇺🇸
 https://m.xigzo.store/live/api/52109.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T SPORT HD 🎯 📡 ⚙️
+https://padmaonline.duckdns.org:8088/T-Sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏",ILT20 🎯 📡 ⚙️
 http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
 #EXTINF:-1 tvg-name=T " group-title="Cricket 🏏",A SPORT HD 🇵🇰 🎯 📡 ⚙️
