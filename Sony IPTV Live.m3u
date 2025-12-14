@@ -51,7 +51,8 @@ https://allottplay.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
 https://allottplay.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Ten 1 🎯 📡
 https://allottplay.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
-
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",🏏Ind u19🆚 Pak u19🏏 Asia Cup 🎯 📡
+http://cors.tundracast.com:2000/http://103.60.204.26:3255/SonytenSports1HD/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Sports 
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
