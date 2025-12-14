@@ -8,6 +8,8 @@
 
 #EXTM3U
 ######################## Cricket 🏏 ####################################################
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Live Quran TV 🎯 📡
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WAZ TV 🎯 📡
 https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Azan TV 🎯 📡
