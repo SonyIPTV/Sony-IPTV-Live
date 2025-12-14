@@ -57,11 +57,11 @@ https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Sports 🎯📡⚙️
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports 📺 
-http://66.102.120.18:8000/play/a04w/index.m3u8
-
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Fast Sports 📺 
+https://m.xigzo.store/live/api/277207.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Fox-Sports 501-HD 📺 🇧🇩
-https://foxstream.pages.dev/Cricsters01.m3u8
+#https://foxstream.pages.dev/Cricsters01.m3u8
+https://m.xigzo.store/live/api/247166.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Fox & Super Sports HD 🎯 📡 
 #https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-155/o6uz-ua8q_1080p/chunklist.m3u8
 https://m.xigzo.store/live/api/53044.m3u8
