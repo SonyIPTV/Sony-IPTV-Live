@@ -41,6 +41,11 @@ https://tvsen1.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏",T Sports (AynaOTT) 🎯 📡 ⚙️
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 
+#EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏", Sports 1
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏",Sports 2 ⚽⚽⚽
+https://pepsi.abntv.live/hls/4spstream.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky sports cricket 🎯 📡
 http://ch01.sh365.org/24234/index.m3u8?token=c49SP8TrtUZfww
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky sports cricket 🎯 📡
