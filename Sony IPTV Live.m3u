@@ -116,26 +116,11 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 1 🎯 📡 
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3933.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 1 🎯 📡 
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6202.m3u8
+https://m.xigzo.store/live/api/529243.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 2 🎯 📡 
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3934.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 2 🎯 📡 
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13779.m3u8
+https://m.xigzo.store/live/api/529247.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 3 🎯 📡 
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3935.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 3 🎯 📡 
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13778.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 4 🎯 📡 
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3936.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 4 🎯 📡 
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153713.m3u8
-
-#EXTINF:-1 tvg-name="Astro Cricket" group-title="Cricket 🏏",Astro Cricket 🎯
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/516.m3u8
-#EXTINF:-1 tvg-name="TEN SPRTS PK" group-title="Cricket 🏏",TEN SPRTS PK 🎯
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1372.m3u8
+https://m.xigzo.store/live/api/529251.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT SPORTS 4 🎯 📡 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -143,7 +128,7 @@ http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1372.m3u8
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw" group-title="Cricket 🏏",Willow
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw" group-title="Cricket 🏏",Willow 📺🛰️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 YGX/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
