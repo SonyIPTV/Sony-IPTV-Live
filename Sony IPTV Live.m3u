@@ -23,7 +23,8 @@ http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", BBL Live Tapmad 🎯 📡
-http://c1.frsports.info/BBLo9920/index.m3u8
+#http://c1.frsports.info/BBLo9920/index.m3u8
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad38285-ENC301/master.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", আইপিএল অকশন লাইভ 🎯 📡
 https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-37/3phi-4r51/chunklist.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏",  PTV Sports HD 📡 🇵🇰 ⚙️
