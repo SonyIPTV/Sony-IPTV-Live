@@ -22,6 +22,8 @@ https://stream.spicefmbd.com/stream.m3u8
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 
+#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", BBL Live 🎯 📡
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", BBL Live Tapmad 🎯 📡
 #http://c1.frsports.info/BBLo9920/index.m3u8
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad38285-ENC301/master.m3u8
@@ -30,6 +32,8 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad38285-ENC301/master
 https://allottplay.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏",  PTV Sports HD 📡 🇵🇰 ⚙️
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
+#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏",  PTV Sports HD 📡 🇵🇰 ⚙️
+http://c1.frsports.info/BBLo9920/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",  Willow Sports 2 HD 📡 ⚙️ 🇺🇸
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T SPORT HD 🎯 📡 ⚙️
