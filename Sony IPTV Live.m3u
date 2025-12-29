@@ -21,7 +21,7 @@ https://stream.spicefmbd.com/stream.m3u8
 #http://as11.digitalsynapsebd.com:8582/;stream.mp3
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
-#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", BPL 2026  🎯 📡
+#EXTINF:-1 tvg-name="https://i.ibb.co.com/Cp5PcBR3/BPL-Logo.png" group-title="Cricket 🏏", BPL 2026  🎯 📡
 https://bd-mc-fdlive.fancode.com/mumbai/138920_english_hls_c3c8e1c36052146_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", Live Cricket 🎯 📡
 http://103.140.254.2:3500/live/551.m3u8
