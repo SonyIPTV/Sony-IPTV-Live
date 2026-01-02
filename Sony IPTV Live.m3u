@@ -34,10 +34,10 @@ https://tvsen7.aynaott.com/tsportshd/index.m3u8
 http://178.33.239.54:8080/503/index.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏",সনি টেন ৫ 🎯 📡
 https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8
-#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏",  PTV Sports HD 📡 🇵🇰 ⚙️
-https://tvsen5.aynaott.com/PtvSports/index.m3u8
-#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏",  PTV Sports HD 📡 🇵🇰 ⚙️
-http://c1.frsports.info/BBLo9920/index.m3u8
+#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏",  Shol Sports HD 📡 🇵🇰 ⚙️
+http://cors.tundracast.com:2000/https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
+#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏",  Star Sports 2 HD 📡 🇵🇰 ⚙️
+http://cors.tundracast.com:2000/https://cors-everywhere-wc8b4.ondigitalocean.app/stvlive.net:8080/starsports2/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",  Willow Sports 2 HD 📡 ⚙️ 🇺🇸
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T SPORT HD 🎯 📡 ⚙️
