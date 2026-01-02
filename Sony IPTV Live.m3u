@@ -66,15 +66,8 @@ https://pepsi.abntv.live/hls/4spstream.m3u8
 http://ch01.sh365.org/24234/index.m3u8?token=c49SP8TrtUZfww
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky sports cricket 🎯 📡
 http://178.33.239.54:8080/503/index.m3u8
-#EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏",Ten Cricket HD 🎯
-https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Ten 5 🎯 📡
-https://allottplay.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Ten 2 🎯 📡
-https://allottplay.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Ten 1 🎯 📡
-https://allottplay.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",🏏Ind u19🆚 Pak u19🏏 Asia Cup 🎯 📡
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", সনি টেন ২  🎯 📡
 http://cors.tundracast.com:2000/http://103.60.204.26:3255/SonytenSports1HD/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Sports 
