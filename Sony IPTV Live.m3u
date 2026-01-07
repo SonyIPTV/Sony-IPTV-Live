@@ -113,6 +113,11 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Cricket 🏏",Willow Sports ᴴᴰ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", TNT SPORTS 1 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -282,6 +287,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="Movies",Cinemax
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
+#EXTINF:-1 tvg-logo="" group-title="Movies",FX Life
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a75f9a2300f448089c6cdebeb97bbbd:606ae417e0e6cf4b0d353764e3140dbc
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561301/index.mpd
 
 ########################## Bangladeshi 📺 ##########################
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", SRK TV 
@@ -399,6 +408,42 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 
 
 ########################## Infotainment Channels ##########################
+#EXTINF:-1  tvg-logo="https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/1920x1080/public/img/c116363be962f3446d477111a5ce8bc0155ee8f3-viasat-history.jpg" group-title="Infotainment Channels",Viasat Histroy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://mob.webtvstream.bhtelecom.ba/hls15/viasat_history.mpd?n=7e88df0f0fc1cbd49f02170eb9448f5a
+
+#EXTINF:-1  tvg-logo="https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/1920x1080/public/img/594765b48cc829bb002c035f89cabedebcf6ade5-viasat-nature.jpg" group-title="Infotainment Channels",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284
+
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discovery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e5b4f0f0bf641029b2b2000665a8b49:152408adb88d19b5bfac04ccb6c493bb
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/562104/index.mpd
+
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FOvFsIgt.png" group-title="Infotainment Channels",TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",National Geographic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Nat Geo Wild
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffa7c3ca6020428c919e13b817b7e31b:adf163c6c1729e6f77668d4e49f32352
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561201/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=999c783c19f6412fbd874ed21e17c9c2:494421f360d98a7fdda924130d662272
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561803/index.mpd
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discovery Asia HD
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",BBC Earth
@@ -464,6 +509,34 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 ########################## NEWS INTERNASIONAL ##########################
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL TV",ABC Australia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL TV",Al Jazeera
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL TV",CGTN Doc
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL TV",DW
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL TV",France 24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL TV",NHK World
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",CNN International
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f4052e0dcb740b28b8fd49ee4ecd35a:e2e0d07b2767e46581c82cf87614e750
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560404/index.mpd
 #EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://is.gd/DtaJNT", France 24 English (720p) 
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 #EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://is.gd/DtaJNT", BBC NEWS 
@@ -756,6 +829,16 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=657707bbd1e240e08bd6969df27fef7c:364e00581c1432f4175e4a2e8e0cd57e
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561705/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",🚨SETANTA SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561002/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",🚨SETANTA SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561004/index.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",🚨HBO Boxing 🎯 📡 📺
 #KODIPROP:inputstream.adaptive.license_type=clearkey
