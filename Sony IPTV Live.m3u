@@ -76,35 +76,24 @@ https://pepsi.abntv.live/hls/4spstream.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky sports cricket 🎯 📡
 http://ch01.sh365.org/24234/index.m3u8?token=c49SP8TrtUZfww
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky sports cricket 🎯 📡
-http://178.33.239.54:8080/503/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", সনি টেন ২  🎯 📡
 http://cors.tundracast.com:2000/http://103.60.204.26:3255/SonytenSports1HD/index.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Sports 
-https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Pro Sports 1 📺  📺
 https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Sports 🎯📡⚙️
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Fast Sports 📺 
-https://m.xigzo.store/live/api/277207.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ten Cricket HD 📺 
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/tencricket/mono.ts.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star-Sports SL 1-HD 📺 🇧🇩
 #https://foxstream.pages.dev/Cricsters01.m3u8
 https://tvsen6.aynaott.com/spsel1/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports SL 2 HD 🎯 📡 
-https://tvsen7.aynaott.com/ssps2hd/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow-Sports-HD 📺 🇧🇩
-http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 1 HD 🎯 📡 
+http://jmrj02jibon02khan.vercel.app/tracks-v1a1/starsports1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports  📺
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD 🇮🇳📺
-https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 2 HD 📺
-https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sandbrix 📺
-https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" group-title="Cricket 🏏",Fancode Cric 1 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
