@@ -26,6 +26,10 @@ http://as31.digitalsynapsebd.com:8446/;stream.mp3
 #KODIPROP:inputstream.adaptive.license_key=ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3
 https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd
 
+
+
+#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏",T20 Pak vs SLC Sony LIV HD 🚨🎯 📡 ⚙️ 📺 🚨
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767834866~acl=/*~id=41365700890060099311446204665948~hmac=acc4c42dfa0a643019be9f87381ca51424feaebf1ca99bddef1d61c1f92d8992
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", Sky SPORT Cricket HD 🚨🎯 📡 ⚙️ 📺 🚨
 http://178.33.239.54:8080/503a/index.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", Jio SPORT HD 🚨🎯 📡 ⚙️ 📺 🚨
