@@ -786,31 +786,31 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://i.ibb.co.com/HYzgFbZ/tsn1.png" group-title="SPORT", TSN 1 🇨🇦 🎯 📡 📺
+#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://i.ibb.co.com/HYzgFbZ/tsn1.png" group-title="SPORTS", TSN 1 🇨🇦 🎯 📡 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://i.ibb.co.com/5r1nzp5/tsn2.png" group-title="SPORT", TSN 2 🇨🇦 🎯 📡 📺
+#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://i.ibb.co.com/5r1nzp5/tsn2.png" group-title="SPORTS", TSN 2 🇨🇦 🎯 📡 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://i.ibb.co.com/r6FWmrW/tsn3.png" group-title="SPORT", TSN 3 🇨🇦 🎯 📡 📺
+#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://i.ibb.co.com/r6FWmrW/tsn3.png" group-title="SPORTS", TSN 3 🇨🇦 🎯 📡 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://i.ibb.co.com/PxGj1GQ/tsn4.png" group-title="SPORT", TSN 4 🇨🇦 🎯 📡 📺
+#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://i.ibb.co.com/PxGj1GQ/tsn4.png" group-title="SPORTS", TSN 4 🇨🇦 🎯 📡 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://i.ibb.co.com/F4dfsDM/tsn5.png" group-title="SPORT", TSN 5 🇨🇦 🎯 📡 📺
+#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://i.ibb.co.com/F4dfsDM/tsn5.png" group-title="SPORTS", TSN 5 🇨🇦 🎯 📡 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
@@ -874,3 +874,81 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+
+========================================================== UK Channels =================================================================================================================
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/637-bbcone.jpg",BBC One
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/860-bbctwo.jpg",BBC 2 HD
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://static.seriesreminder.com/network-img/BBC_THREE.png",BBC 3 CBBC
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/595-bbc4.jpg",BBC 4 Cbeebies
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/884-bbcnews.jpg",BBC News
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/645-channel4.jpg",Channel 4
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="https://www.livetvuk.com/uploads/tv/496-channel5.jpg" tvg-logo="",Channel 5
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://cdn.comedy.co.uk/images/channels/more4.jpg",More 4
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
+
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/614-yesterday.jpg",Yesterday
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="https://tse2.mm.bing.net/th/id/OIP.CBifcJseyVMrWu8sGlLt6QHaHD?pid=Api&P=0&h=220" tvg-logo="",Film 4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/971-itv1.jpg",ITV 1
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/646-itv2.jpg",ITV 2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/657-itv3.jpg",ITV 3
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="https://www.livetvuk.com/uploads/tv/94-itv4.jpg",ITV 4
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/560dfea6-13fc-45c5-abb5-0692213c6010/dgeo342-ddbfaaca-10c5-4cb0-8ec5-6d1f4241ad4b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2MGRmZWE2LTEzZmMtNDVjNS1hYmI1LTA2OTIyMTNjNjAxMFwvZGdlbzM0Mi1kZGJmYWFjYS0xMGM1LTRjYjAtOGVjNS02ZDFmNDI0MWFkNGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3OP-lbaOPZDhNlOrNanpORGpnE3D_G6uO-yLQRtp6Dc" tvg-logo="",Paramount
+https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Food Network
+https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-dash/foodnetwork.mpd
+
+
+
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Aljazeera
+https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-dash/aljazeera.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",Bloomberg
+https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="" tvg-logo="",CNN
+https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
+#EXTINF:-1 group-title="UK Channels" tvg-id="https://www.livetvuk.com/uploads/tv/565-skynews.jpg" tvg-logo="",Sky News
+https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/d9mg8Is.png" group-title="UK Channels",E4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/d9mgkpn.png" group-title="UK Channels",More4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/d9mgekX.png" group-title="UK Channels",4 Film
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/d9mgekX.png" group-title="UK Channels",4seven
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
