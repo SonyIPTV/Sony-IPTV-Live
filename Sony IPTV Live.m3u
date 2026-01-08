@@ -233,6 +233,8 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561301/index.mpd
 
 ########################## Bangladeshi 📺 ##########################
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Arabica TV 
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", SRK TV 
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Maasranga
