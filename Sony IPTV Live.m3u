@@ -58,7 +58,8 @@ http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana
 https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",A SPORTS
-http://163.61.227.29:8000/play/a03t/index.m3u8
+#http://163.61.227.29:8000/play/a03t/index.m3u8
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1768118856&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e6761119d5c8e4c7e9d6346590c4b0c5
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Big Bash League 2025🏆  Fox 501 HD
 https://cricloungelive.short.gy/ashes25/fox.m3u8
 
