@@ -35,7 +35,7 @@ http://178.33.239.54:8080/503a/index.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", Jio SPORT HD 🚨🎯 📡 ⚙️ 📺 🚨
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1 tvg-name="https://i.ibb.co.com/Cp5PcBR3/BPL-Logo.png" group-title="Cricket 🏏", 🚨BPL 2026 🎯 📡 Fancode
-https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138944_english_hls_397d6af3aa50746_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", BPL 2026 🚨 🎯 📡 SholSports  🚨
 https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", BPL 2026 🚨 🎯 📡 নাগরিক Sports  🚨
@@ -57,23 +57,15 @@ http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",A SPORTS
 http://163.61.227.29:8000/play/a03t/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",FAST SPORTS
-http://163.61.227.29:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",TNT SPORTS 2
-http://178.33.239.54:8080/510/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",TNT SPORTS 3
-http://178.33.239.54:8080/511/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",M4 SPORTS
-http://dvr1.kablova.tv/M4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Big Bash League 2025🏆  Fox 501 HD
+https://cricloungelive.short.gy/ashes25/fox.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",PTV SPORTS HD
 http://163.61.227.29:8000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏", Sports 1
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏",Sports 2 ⚽⚽⚽
 https://pepsi.abntv.live/hls/4spstream.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", সনি টেন ২  🎯 📡
-http://cors.tundracast.com:2000/http://103.60.204.26:3255/SonytenSports1HD/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports  📺
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
