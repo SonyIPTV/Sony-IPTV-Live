@@ -297,9 +297,9 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=1a75f9a2300f448089c6cdebeb97bbbd:606ae417e0e6cf4b0d353764e3140dbc
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561301/index.mpd
 
-#EXTINF:-1 tvg-id="Movies",ТНТ4 International
+#EXTINF:-1 tvg-logo="" group-title="Movies",ТНТ4 International
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
-#EXTINF:-1 tvg-id="Movies",ТНТ International
+#EXTINF:-1 tvg-logo="" group-title="Movies",ТНТ International
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
 ########################## Bangladeshi 📺 ##########################
