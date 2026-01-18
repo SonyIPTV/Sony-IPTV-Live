@@ -169,6 +169,11 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Cricket 🏏",ASTRO CRICKET
+http://96.44.160.246:9999/smt.php?id=Acricket
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Acricket
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow HD 
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",DD SPORTS
@@ -566,6 +571,31 @@ https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Infotainment Channels", Love Nature 4K*
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+##################################################  Documentary  #################################################
+
+#EXTINF:-1 tvg-id="555.astro" tvg-logo="https://cantseeus.com/wp-content/uploads/7523/10/History_28751529.png" group-title="Documentary", HISTORY HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
+
+#EXTINF:-1 tvg-id="Outdoor Channel" tvg-name="OUTDOOR CHANNEL" tvg-logo="https://i.ibb.co/jZ2NVqN/outdoorch.png" group-title="Documentary", OUTDOOR CHANNEL 🇺🇸
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Outdoor Channel" tvg-name="OUTDOOR CHANNEL" tvg-logo="https://i.ibb.co/jZ2NVqN/outdoorch.png" group-title="Documentary",Outdor channel
+http://103.66.62.83:8000/play/a04f/index.m3u8
+
+#EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://i.ibb.co/sRhcqHT/realwild.png" group-title="Documentary", REAL WILD 🇬🇧
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="insight.au" tvg-name="Insight" tvg-logo="https://business.insight.tv/wp-content/uploads/7521/01/Insight-TV-Logo-small-150x150.png" group-title="Documentary", INSIGHT
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="Documentary",TravelXP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 ########################## Entertainment ##########################
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Entertainment",Colors Infinity SD
