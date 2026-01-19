@@ -24,12 +24,11 @@ http://as31.digitalsynapsebd.com:8446/;stream.mp3
 #EXTINF:-1 tvg-name="https://i.ibb.co.com/Cp5PcBR3/BPL-Logo.png" group-title="Cricket 🏏", 🚨BPL 2026 🎯 📡 Fancode
 https://zubayerop.short.gy/RR-V-NE.m3u8
 
-#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", FOX CRICKET 501 HD 🏏🏏BBL 2025🏏🏏
-http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
-#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", Jio SPORT HD 🚨🎯 📡 ⚙️ 📺 🚨
+
+#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", Jio SPORT HD 🚨📡📺 🚨
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 
-#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", ATN Afg
+#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", ATN AFG
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏",Sky Sports Mix
 http://cors.tundracast.com:2000/http://178.33.239.54:8080/507a/index.m3u8
@@ -47,7 +46,7 @@ https://sixseven.attitude.my.id/skynz4/index.m3u8
 https://sixseven.attitude.my.id/skynz5/index.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏",Sky Sports NZ 9
 https://sixseven.attitude.my.id/skynz9/index.m3u8
-#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", BPL 2026 🚨 🎯 📡 SholSports  🚨
+#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", BPL 2026 🚨 🎯 📡 SholSports  🚨📡📺 🚨
 https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", BPL 2026 🚨 🎯 📡 নাগরিক Sports  🚨
 https://satoshi-cors.herokuapp.com/http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8
