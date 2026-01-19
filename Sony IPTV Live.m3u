@@ -1103,3 +1103,26 @@ http://103.167.255.18:8085/play/a0jm/index.m3u8
 http://103.178.78.151:7505/play/a0w8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Sports",Star Sports Select 2 HD (1080p)
 http://103.178.78.151:7505/play/a0w9/index.m3u8
+
+
+#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports 1 nz
+https://sixseven.attitude.my.id/skynz1/index.m3u8
+#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports 2 nz
+https://sixseven.attitude.my.id/skynz2/index.m3u8
+#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports  3 nz
+https://sixseven.attitude.my.id/skynz3/index.m3u8
+#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports 4 nz
+https://sixseven.attitude.my.id/skynz4/index.m3u8
+#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports 5 nz
+https://sixseven.attitude.my.id/skynz5/index.m3u8
+#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports 6 nz
+https://sixseven.attitude.my.id/skynz6/index.m3u8
+#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports 7 nz 
+https://sixseven.attitude.my.id/skynz7/index.m3u8
+#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports 8 nz
+https://sixseven.attitude.my.id/skynz8/index.m3u8
+#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports 9 nz
+https://sixseven.attitude.my.id/skynz9/index.m3u8
+
+
+
