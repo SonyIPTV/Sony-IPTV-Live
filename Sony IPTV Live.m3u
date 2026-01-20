@@ -27,7 +27,10 @@ https://zubayerop.short.gy/RR-V-NE.m3u8
 
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", Jio SPORT HD 🚨📡📺 🚨
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
-
+#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", Lemar AGF
+http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
+#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", Lemar AGF
+https://stream1.liveland.af/hls/tv/lemar/playlist.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", ATN AFG
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏",Sky Sports Mix
