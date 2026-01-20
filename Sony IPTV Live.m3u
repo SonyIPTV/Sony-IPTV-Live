@@ -24,7 +24,10 @@ http://as31.digitalsynapsebd.com:8446/;stream.mp3
 #EXTINF:-1 tvg-name="https://i.ibb.co.com/Cp5PcBR3/BPL-Logo.png" group-title="Cricket 🏏", 🚨BPL 2026 🎯 📡 Fancode
 https://zubayerop.short.gy/RR-V-NE.m3u8
 
-
+#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", 🚨 Willow USA SPORT HD 🚨📡📺 
+https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
+#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", 🚨 Hotstar HD 🚨 
+https://dillzyserver.dillzycreations.workers.dev/live/hotstar.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", Jio SPORT HD 🚨📡📺 🚨
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", Lemar AGF
