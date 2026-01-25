@@ -21,13 +21,13 @@ https://stream.spicefmbd.com/stream.m3u8
 #http://as11.digitalsynapsebd.com:8582/;stream.mp3
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
-#EXTINF:-1 tvg-name="https://i.ibb.co.com/Cp5PcBR3/BPL-Logo.png" group-title="Cricket 🏏", 🚨BPL 2026 🎯 📡 Fancode
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", 🚨নাগরিক TV 🎯 📡 
 http://116.204.149.16/nagorik/index.m3u8
-#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", 🚨 A SPORT HD 🚨📡📺 
-http://poketporota.noobmaster.xyz:8080/ASPORTSHD/index.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", 🚨Sathiya TV Srilanka 📡📺
+https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", 🚨 Willow USA SPORT HD 🚨📡📺 
 https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
-#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", 🚨 Hotstar HD 🚨 
+#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", 🚨 Hotstar HD 🚨  Willow
 https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", Jio SPORT HD 🚨📡📺 🚨
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
