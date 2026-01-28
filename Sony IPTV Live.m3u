@@ -14,6 +14,8 @@
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WAZ TV 🎯 📡
 https://tplay.live/originals/ilm-tv/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WAZ TV 🎯 📡Mizanur Rahman Azhari Waz
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Azan TV 🎯 📡
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
@@ -301,7 +303,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Star News HD 🇧🇩
-http://64.120.94.23/play/aFTJ_G2urcXpHTp_dTpWGzOOeQxI-_DQA2-hRR9LDa3jeCUdpF4_cynbW5Blfq3Z/ts
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", NTV TV UK
 https://ap02.iqplay.tv:8082/iqb8002/nt589v/chunks.m3u8
 
