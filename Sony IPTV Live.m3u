@@ -30,8 +30,9 @@ http://as31.digitalsynapsebd.com:8446/;stream.mp3
 http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/19146/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Sky Cricket 
 http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", 🚨নাগরিক TV 🎯 📡 
-http://116.204.149.16/nagorik/index.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Sky Cricket  
+#http://116.204.149.16/nagorik/index.m3u8
+http://178.33.239.54:8080/503a/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", 🚨Sathiya TV Srilanka 📡📺
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", 🚨 Willow USA SPORT HD 🚨📡📺 
