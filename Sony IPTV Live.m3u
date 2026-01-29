@@ -28,6 +28,10 @@ http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Fox Cricket 501 🏏🏏BBL 2025 FINAL🏏🏏
 http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/19146/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
+https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg",A Sports
+https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Sky Cricket 
 http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", 🚨নাগরিক TV 🎯 📡 
