@@ -26,6 +26,7 @@ https://stream.spicefmbd.com/stream.m3u8
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 
+
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", 📡Pak vs Australia T20
 https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Fox Cricket 501 📡
@@ -75,6 +76,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏",Sports 2 ⚽⚽⚽
 https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏", ⚽ M4
+http://dvr1.kablova.tv/M4/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports  📺
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
