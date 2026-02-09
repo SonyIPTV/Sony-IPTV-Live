@@ -26,9 +26,11 @@ https://stream.spicefmbd.com/stream.m3u8
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T20 World Cup 26 ICC TV
-https://www.livetvpro.site/icct20.m3u8
+#https://www.livetvpro.site/icct20.m3u8
+https://tigerhub-bd.vercel.app/Sports-zone/Willow-Sports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T20 World Cup 26 Jio Star 
-https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
+#https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
+https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Cricket/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T20 World Cup 26
 https://tv.ottking.top/ottking247/fuckyou/188.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",নাগরিক T20 World Cup 26
