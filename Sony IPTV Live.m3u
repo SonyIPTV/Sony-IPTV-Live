@@ -26,8 +26,8 @@ https://stream.spicefmbd.com/stream.m3u8
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Star T20 World Cup 26
-https://emaxtv.exmax.workers.dev/emax.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Tapmad T20 World Cup 26
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc1-1series/level_0.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T20 World Cup 26 ICC TV
 https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T20 World Cup 26 ICC TV
@@ -40,6 +40,8 @@ https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Cricket/tracks-v1a1/mono.ts
 https://padmaonline.duckdns.org:8088/T-SportHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",নাগরিক T20 World Cup 26
 http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",নাগরিক T20 World Cup 26
+http://116.204.149.16/nagorik/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T Sports T20 World Cup 26
 #https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
 https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
