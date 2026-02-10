@@ -27,7 +27,7 @@ http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Tapmad T20 World Cup 26
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc1-1series/level_0.m3u8
+http://198.195.239.50:8095/PTV/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T20 World Cup 26 ICC TV
 http://198.195.239.50:8095/Tsports/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T20 World Cup 26 ICC TV
