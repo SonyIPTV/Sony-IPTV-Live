@@ -47,8 +47,8 @@ http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T Sports T20 World Cup 26 📺
 https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T Sports T20 World Cup 26  📺
-https://padmaonline.duckdns.org:8088/T-SportHD/index.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Star Sports 1 T20 World Cup 26  📺
+http://103.229.254.25:7001/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Willow Cricket T20 World Cup
 https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Fox Cricket 501 📡
