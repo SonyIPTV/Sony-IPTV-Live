@@ -26,19 +26,23 @@ https://stream.spicefmbd.com/stream.m3u8
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", PTV Sports T20 World Cup 26
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", PTV Sports 
 http://198.195.239.50:8095/PTV/index.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T20 World Cup 26 ICC TV
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Tolo-Sport AFG
+https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T Sports T20 World Cup 
 http://198.195.239.50:8095/Tsports/index.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T Sports T20 World Cup 
+https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T20 World Cup 26 ICC TV
 #https://www.livetvpro.site/icct20.m3u8
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T20 World Cup 26 Jio Star 
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T20 World Cup 26 Sky Sports  
 #https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Cricket/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T20 World Cup 26
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T20 World Cup 26 WiLLow
 http://198.195.239.50:8095/WiLLow/index.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",নাগরিক T20 World Cup 26
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", WiLLow T20 World Cup 26
 http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",নাগরিক T20 World Cup 26
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
@@ -47,12 +51,7 @@ http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T Sports T20 World Cup 26 📺
 https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Star Sports 1 T20 World Cup 26  📺
-http://103.229.254.25:7001/play/a0dn/index.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Willow Cricket T20 World Cup
-https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Fox Cricket 501 📡
-http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/19146/index.m3u8
+
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Sky Cricket 
 http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Sky Cricket  
@@ -83,17 +82,10 @@ http://178.33.239.54:8080/507a/index.m3u8
 
 #EXTINF:-1 tvg-name="  " group-title="Cricket 🏏",MTVsinst Live 🎯 📡
 https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8
-
-#EXTINF:-1 tvg-name="  " group-title="Cricket 🏏", Sky SPORT Cricket HD 🚨🎯 📡 ⚙️ 📺 🚨
-http://178.33.239.54:8080/503a/index.m3u8
 #EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏",🚨 ATN AFG 🚨
 http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", SPORTS Channel
-https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Akash Go
-#https://cricloungelive.short.gy/ashes25/fox.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd
 
 #EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏", Sports 1
@@ -102,9 +94,6 @@ https://spstr.abntv.live/hls/psstream.m3u8
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 tvg-name="T SPORT HD" group-title="Cricket 🏏", ⚽ M4
 http://dvr1.kablova.tv/M4/index.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports  📺
-http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" group-title="Cricket 🏏",Fancode Cric 1 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
