@@ -31,6 +31,8 @@ http://198.195.239.50:8095/PTV/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Tolo-Sport AFG
 https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T Sports T20 World Cup 
+https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T Sports T20 World Cup 
 http://198.195.239.50:8095/Tsports/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T Sports T20 World Cup 
 https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8
