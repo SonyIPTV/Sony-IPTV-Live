@@ -211,6 +211,14 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 
 ########################## Football 🛜 ##########################
+#EXTINF:-1 tvg-logo="" group-title="Football",Sports 1
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Sports.2
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Sports.3
+https://pepsi3.abntv.live/hls/psp3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Sports.4
+https://pepsi4.abntv.live/hls/psp4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Astro SPORTS Primier 
 http://107.175.220.4:11799/go_assp1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",ASTRO SPORTS PLUS 
