@@ -28,14 +28,10 @@ http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Star Sport 2 Hindi
 http://tvn2.chowdhury-shaheb.com/starsport2/index.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Ten Sports
-https://tigerhub-bd.vercel.app/Sports-zone/TenSports/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PTV Sports
-https://tigerhub-bd.vercel.app/Sports-zone/PTV-Sports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Geo Super
 https://tigerhub-bd.vercel.app/Sports-zone/Geo-Super/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Fox Cricket
-https://tigerhub-bd.vercel.app/Sports-zone/FoxCricket-501/tracks-v1a1/mono.ts.m3u8
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/playlist.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", PTV Sports 
 http://198.195.239.50:8095/PTV/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Tolo-Sport AFG
