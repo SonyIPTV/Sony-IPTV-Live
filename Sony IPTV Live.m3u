@@ -1102,24 +1102,37 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 
 ########################## Sports NZ  ##########################
 
-#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports 1 nz
-https://sixseven.attitude.my.id/skynz1/index.m3u8
-#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports 2 nz
-https://sixseven.attitude.my.id/skynz2/index.m3u8
-#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports  3 nz
-https://sixseven.attitude.my.id/skynz3/index.m3u8
-#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports 4 nz
-https://sixseven.attitude.my.id/skynz4/index.m3u8
-#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports 5 nz
-https://sixseven.attitude.my.id/skynz5/index.m3u8
-#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports 6 nz
-https://sixseven.attitude.my.id/skynz6/index.m3u8
-#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports 7 nz 
-https://sixseven.attitude.my.id/skynz7/index.m3u8
-#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports 8 nz
-https://sixseven.attitude.my.id/skynz8/index.m3u8
-#EXTINF:-1 tvg-name="  " group-title="Sports NZ",Sky sports 9 nz
-https://sixseven.attitude.my.id/skynz9/index.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 1
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 2
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 3
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 4
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 5
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-5/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 6
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-6/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 7
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-7/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports Premire League
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-Premire_League/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Sky sports 9
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-9/tracks-v1a1/mono.ts.m3u8
 
-
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Star sports 1 English
+https://tigerhub-bd.vercel.app/StarSports/1-English/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Star sports 1 hindy
+https://tigerhub-bd.vercel.app/StarSports/1-Hindy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Star sports 2
+https://tigerhub-bd.vercel.app/StarSports/2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Star sports 3
+https://tigerhub-bd.vercel.app/StarSports/3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Star sports tamil
+https://tigerhub-bd.vercel.app/StarSports/Tamil/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Star sports select 1
+https://tigerhub-bd.vercel.app/StarSports/Select-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Star sports select 2
+https://tigerhub-bd.vercel.app/StarSports/Select-2/tracks-v1a1/mono.ts.m3u8
 
