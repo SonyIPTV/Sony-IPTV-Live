@@ -1134,3 +1134,12 @@ https://tigerhub-bd.vercel.app/StarSports/Select-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Star sports select 2
 https://tigerhub-bd.vercel.app/StarSports/Select-2/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Ten Sports
+https://tigerhub-bd.vercel.app/Sports-zone/TenSports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",PTV Sports
+https://tigerhub-bd.vercel.app/Sports-zone/PTV-Sports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Geo Super
+https://tigerhub-bd.vercel.app/Sports-zone/Geo-Super/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Tigerhub-bd 🇧🇩 🐯",Fox Cricket
+https://tigerhub-bd.vercel.app/Sports-zone/FoxCricket-501/tracks-v1a1/mono.ts.m3u8
+
