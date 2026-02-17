@@ -26,8 +26,8 @@ https://stream.spicefmbd.com/stream.m3u8
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Star Sport 2 Hindi
-http://tvn2.chowdhury-shaheb.com/starsport2/index.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Sky Sport Mian Event
+https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Geo Super
 https://tigerhub-bd.vercel.app/Sports-zone/Geo-Super/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Fox Cricket
