@@ -207,6 +207,8 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 
 ########################## Football 🛜 ##########################
+#EXTINF:-1 tvg-logo="" group-title="Football",Sky Sports 1
+https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
 #EXTINF:-1 tvg-logo="" group-title="Football",Sports 1
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sports.2
