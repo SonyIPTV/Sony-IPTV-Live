@@ -30,16 +30,11 @@ http://as31.digitalsynapsebd.com:8446/;stream.mp3
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Geo Super
 https://tigerhub-bd.vercel.app/Sports-zone/Geo-Super/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Fox Cricket
-https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/playlist.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", PTV Sports 
-http://198.195.239.50:8095/PTV/index.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Tolo-Sport AFG
-https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8
+
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T Sports T20 World Cup 
 https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T Sports T20 World Cup 
-http://198.195.239.50:8095/Tsports/index.m3u8
+https://kbl-stream.movie.af/live/smil:solhetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T Sports T20 World Cup 
 https://amitomar.hoichoi.pro/bdixbd.net/index.fmp4.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T Sports 
