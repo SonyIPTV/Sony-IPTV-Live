@@ -27,6 +27,8 @@ https://stream.spicefmbd.com/stream.m3u8
 #http://as11.digitalsynapsebd.com:8582/;stream.mp3
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Tolo-Sport 
+https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Star Sport 2 HD
 http://103.99.249.139/starsport2/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Sky Sport Mian Event
