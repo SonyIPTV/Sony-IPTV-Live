@@ -20,9 +20,9 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Azan TV 🎯 📡
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD 📻
 #https://channel-swart.vercel.app/bd.m3u8
 #http://as11.digitalsynapsebd.com:8582/;stream.mp3
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
@@ -58,8 +58,9 @@ https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=2
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Star Sports 2 HD 🇮🇳
 #http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=3
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",নাগরিক T20 World Cup 26 🇧🇩
-http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",নাগরিক T20 World Cup 26 🇧🇩 ✴️
+#http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=54
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",নাগরিক T20 World Cup 26
 http://103.151.61.12/NAGORIK_TV-2/video.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T Sports T20 World Cup 26 📺
