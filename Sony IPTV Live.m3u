@@ -71,13 +71,12 @@ https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=16
 https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T Sports T20 World Cup 26 📺
 https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Sky Cricket 
-https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Cricket/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Sony Ten 5 Cricket 🇮🇳
+https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=101
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Sky Cricket 
 http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Sky Cricket  
-#http://116.204.149.16/nagorik/index.m3u8
-http://178.33.239.54:8080/503a/index.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Sony Ten 2 🇮🇳
+https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=29
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Sky Cricket HD
 http://cors.tundracast.com:2000/http://178.33.239.54:8080/503a/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", 🚨Sathiya TV Srilanka 📡📺
