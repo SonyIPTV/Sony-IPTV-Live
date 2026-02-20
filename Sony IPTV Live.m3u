@@ -61,8 +61,11 @@ https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=3
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",নাগরিক T20 World Cup 26 🇧🇩 ✴️
 #http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=54
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",নাগরিক T20 World Cup 26
-http://103.151.61.12/NAGORIK_TV-2/video.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Star Sport SL 1 HD 🇮🇳
+https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=28
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Star Sport SL 2 HD 🇮🇳
+https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=16
+
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T Sports T20 World Cup 26 📺
 #https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
 https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
