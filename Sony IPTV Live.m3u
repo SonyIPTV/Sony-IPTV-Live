@@ -51,7 +51,7 @@ https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Cricket/tracks-v1a1/mono.ts
 http://198.195.239.50:8095/WiLLow/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T20 World Cup 26 WiLLow
 https://tigerhub-bd.vercel.app/Sports-zone/Willow-Sports/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏"Star Sports 1 HD
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏" Star Sports 1 HD
 https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=2
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Star Sports 2 HD
 #http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
