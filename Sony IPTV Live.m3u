@@ -25,6 +25,24 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",   Radio Bater BD 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকব
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
+#EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="" group-title="Cricket 🏏",ASTRO
+http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/146809.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Willow
+https://mysouq1.com/live/76631957/10205687/675819.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏 ", HUB-SPORTS
+https://mysouq1.com/live/76631957/10205687/675823.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", PTV-SPORTS
+https://mysouq1.com/live/76631957/10205687/676664.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", PTV-SPORTS
+http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/7604.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", SKY-SPORTS
+http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/147059.ts
+
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Tolo-Sport 🇦🇫
 https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Star Sport 2 HD 🇮🇳
