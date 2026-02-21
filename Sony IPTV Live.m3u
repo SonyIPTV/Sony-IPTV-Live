@@ -53,6 +53,8 @@ http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=1
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PTV Sports HD 🇵🇰
 https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=92
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PTV Sports HD 🇵🇰
+https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/ptv-sports
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",A Sports HD 🇵🇰
 https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=88
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",A Sports HD 🇵🇰
