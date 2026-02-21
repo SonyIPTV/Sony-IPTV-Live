@@ -55,6 +55,8 @@ https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=1
 https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=92
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",A Sports HD 🇵🇰
 https://allinonedev.top/apis/stream/amrbd20/stream.m3u8?id=88
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",A Sports HD 🇵🇰
+https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/a-sports
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T20 World Cup 26 WiLLow
 http://198.195.239.50:8095/WiLLow/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T20 World Cup 26 WiLLow
