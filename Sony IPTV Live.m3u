@@ -22,17 +22,24 @@ https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",Radio Bater BD 📻
-#https://channel-swart.vercel.app/bd.m3u8
-#http://as11.digitalsynapsebd.com:8582/;stream.mp3
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",   Radio Bater BD 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকব
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Tolo-Sport 🇦🇫
 https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Star Sport 2 HD 🇮🇳
-http://103.99.249.139/starsport2/index.m3u8
+#http://103.99.249.139/starsport2/index.m3u8
+https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-2
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Star Sports 1
+https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-1
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Star-Sports-Select-1
+https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-select-1
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Star-Sports-Select-2
+https://allinonedev.top/apis/stream/rz/stream.m3u8?id=edge2/star-sports-select-2
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Sky Sport Mian Event
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Sky Sport Mian Event
+https://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/rnveSzflfFCjJyhzIm2zVw/1772234372/9585fdae92af45f113fdcc9f6c4ba442/576p_stream.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Geo Super
 https://tigerhub-bd.vercel.app/Sports-zone/Geo-Super/tracks-v1a1/mono.ts.m3u8
 
