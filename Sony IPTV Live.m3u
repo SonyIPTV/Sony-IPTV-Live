@@ -25,6 +25,11 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",   Radio Bater BD 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকব
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
+
+
+#EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="" group-title="Cricket 🏏",Amazon Prime Only Match Time 🏏
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wwrmho82pc/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd?|drmScheme=clearkey&drmLicense=baafdb8ebcbbc0655332291da6f121da:60ac892e0ea0b2c46fc6837c97ed641a
+
 #EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="" group-title="Cricket 🏏",ASTRO
 http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/146809.ts
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Willow
