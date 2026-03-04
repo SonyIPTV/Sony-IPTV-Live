@@ -26,8 +26,6 @@ https://stream.spicefmbd.com/stream.m3u8
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 
-#EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="" group-title="Cricket 🏏",AFC Women's Asian Cup
-https://zubayerop.short.gy/BD.m3u8
 #EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="" group-title="Cricket 🏏",Star Sport 2 🏏
 http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
 
@@ -483,6 +481,8 @@ https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
 ########################## Infotainment Channels ##########################
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", TLC HD
+http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/1105/index.m3u8
 #EXTINF:-1  tvg-logo="https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/1920x1080/public/img/c116363be962f3446d477111a5ce8bc0155ee8f3-viasat-history.jpg" group-title="Infotainment Channels",Viasat Histroy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -747,27 +747,6 @@ https://ddy6new.newkso.ru/ddy6/premium613/mono.m3u8
 #EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",News Max 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband",Sports 18 HD 
-https://11plus.live/live/tsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband", Star Sports 
-http://11plus.live/live/gazitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband", Live Sports
-http://11plus.live/live/starsports3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband", Star Movies HD
-http://11plus.live/live/starsports2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband",Live Sports 1
-https://11plus.live/live/tsports1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband",Live Sports 2
-https://11plus.live/live/starsports2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband",Live Sports 3
-https://11plus.live/live/sonyten1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Speed Internet Broadband",Live Sports 4
-https://11plus.live/live/sonyten5/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Speed Internet Broadband",
-
-#EXTINF:-1 tvg-logo="" group-title="Speed Internet Broadband",
 
 FM RADIO
 
