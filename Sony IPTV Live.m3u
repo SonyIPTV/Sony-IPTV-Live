@@ -45,7 +45,7 @@ http://stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8
 https://bbb.exoadash.com/TVD004/index.mpd
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T Sport HD 🇧🇩 📡
 http://198.195.239.50:8095/Tsports/index.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T Sports T20 📺
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T Sports T20 📺 ✴🔖
 #https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
 https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", WiLLow
