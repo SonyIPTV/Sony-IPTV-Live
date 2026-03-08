@@ -28,7 +28,10 @@ http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 #EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="" group-title="Cricket 🏏",Star Sport 2 🏏
 http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
-
+#EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="" group-title="Cricket 🏏", STAR SL 1
+http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="" group-title="Cricket 🏏",STAR SL 2 HD
+http://stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", TNT Sport 4 HD 🇧🇩 📡📺
 https://bbb.exoadash.com/TVD004/index.mpd
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T Sport HD 🇧🇩 📡
