@@ -33,6 +33,8 @@ http://198.195.239.50:8095/Tsports/index.m3u8
 https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", WiLLow 🔖📺
 http://198.195.239.50:8095/WiLLow/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Cricket 🏏",Willow Sports ᴴᴰ 🚨
+https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  Sony-Ten-Cricket HD
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-ten-cricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  STAR SP-1
