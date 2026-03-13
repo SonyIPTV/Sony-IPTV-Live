@@ -25,7 +25,8 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",   Radio Bater BD 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকব
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
-#EXTINF:-1 tvg-name="https://i.ibb.co.com/DDk1RycS/Gemini-Generated-Image-11wl8b11wl8b11wl.webp" group-title="Cricket 🏏", 🏏 Pakistan 🆚 Bangladesh
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", 🏏 Pakistan 🆚 Bangladesh FanCode BD
+https://zubayerop.short.gy/Odi2.m3u8
 
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T Sport HD 🇧🇩 📡✴ 🏏 Pakistan 🆚 Bangladesh
 http://198.195.239.50:8095/Tsports/index.m3u8
