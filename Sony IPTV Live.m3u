@@ -29,7 +29,7 @@ https://stream.spicefmbd.com/stream.m3u8
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", 🏏 Pakistan 🆚 Bangladesh FanCode BD
-https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd?|drmScheme=clearkey&drmLicense=4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
+https://in-mc-flive.fancode.com/mumbai/141408_english_hls_916665824985616_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773647049~_GO=Generated~acl=/mumbai/141408_english_hls_916665824985616_1ta-di_h264/*~Signature=AR77-ZhapMPRQvNesETmChAyL6S2w810D5kM4Rx3BmgzWCFF4kXs2LaBRkbyEXWA0rcyKJMhSNabV_CfAqBWkTYNmwI
 
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Tapmad 🇧🇩 🆚 🇵🇰 🏏
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
