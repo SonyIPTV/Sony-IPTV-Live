@@ -39,7 +39,8 @@ http://198.195.239.50:8095/Tsports/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Sony Live 🇳🇿 🆚 🇿🇦 🏏 T20
 https://zubayerop.short.gy/SA-V-NZ-1.m3u8
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Cricket 🏏",Willow Sports ᴴᴰ 🚨
-https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
+#https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
+https://bbb.exoadash.com/TVD004/index.mpd
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", WiLLow 🔖📺
 http://198.195.239.50:8095/WiLLow/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Cricket 🏏",Willow Sports ᴴᴰ 🚨
