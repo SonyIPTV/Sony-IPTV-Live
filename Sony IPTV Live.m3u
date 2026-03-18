@@ -50,6 +50,12 @@ http://198.195.239.50:8095/WiLLow/index.m3u8
 https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  Sony-Ten-Cricket HD
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-ten-cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.imgur.com/59gCbVd.png",Fox Sports 501 FHD
+https://a1xs.vip/700001
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.imgur.com/idKGREY.png",Fox Sports 502 FHD
+https://a1xs.vip/700002
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.imgur.com/aEoU7gf.png",Fox Sports 504 FHD
+https://a1xs.vip/700004
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  STAR SP-1
 http://103.229.254.25:7001/play/a0a0
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", STAR SP 2
