@@ -39,51 +39,20 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T Sport HD 🇧🇩 📡✴ 🏏 Pakistan 🆚 Bangladesh
 http://198.195.239.50:8095/Tsports/index.m3u8
 
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Sony Live 🇳🇿 🆚 🇿🇦 🏏 T20
-https://zubayerop.short.gy/SA-V-NZ-1.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Cricket 🏏",Willow Sports ᴴᴰ 🚨
 #https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 https://bbb.exoadash.com/TVD004/index.mpd
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", WiLLow 🔖📺
 http://198.195.239.50:8095/WiLLow/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Cricket 🏏",Willow Sports ᴴᴰ 🚨
-https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  Sony-Ten-Cricket HD
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-ten-cricket/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.imgur.com/59gCbVd.png",Fox Sports 501 FHD
-https://a1xs.vip/700001
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.imgur.com/idKGREY.png",Fox Sports 502 FHD
-https://a1xs.vip/700002
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.imgur.com/aEoU7gf.png",Fox Sports 504 FHD
-https://a1xs.vip/700004
+
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",  STAR SP-1
 http://103.229.254.25:7001/play/a0a0
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", STAR SP 2
-https://mysouq1.com/live/76631957/10205687/675817.ts
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", STAR SP-1
-http://103.158.133.62:8080/starsports1/index.m3u8
-
-#EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="" group-title="Cricket 🏏",Star Sport 2 🏏
-http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
-#EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="" group-title="Cricket 🏏", STAR SL 1
-http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="" group-title="Cricket 🏏",STAR SL 2 HD
-http://stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", TNT Sport 4 HD 🇧🇩 📡📺
 https://bbb.exoadash.com/TVD004/index.mpd
-
-
-
-#EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="" group-title="Cricket 🏏",ASTRO
-http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/146809.ts
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Willow
-https://mysouq1.com/live/76631957/10205687/675819.ts
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", HUB-SPORTS
-https://mysouq1.com/live/76631957/10205687/675823.ts
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", PTV-SPORTS
-https://mysouq1.com/live/76631957/10205687/676664.ts
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", PTV-SPORTS
-http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/7604.ts
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", SKY-SPORTS
 http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/147059.ts
 
