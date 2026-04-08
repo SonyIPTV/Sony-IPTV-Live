@@ -28,10 +28,14 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",   Radio Bater BD 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকব
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T Sports BD
+https://tv.ottking.top/webottking/linkchor/14.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PSL 🇵🇰🏏 Willow HD
 http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PSL 🇵🇰🏏🔖
 https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PSL 🇵🇰🏏🔖
+https://pslurdu.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",TSportss BD
 https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Tapmad 🇧🇩 🆚 🇵🇰 🏏
@@ -283,6 +287,8 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", GTV
+https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Star News HD 🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", NTV TV UK
@@ -581,6 +587,8 @@ https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9grLJCS/fone22.png" group-title="Entertainment",FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9grLJCS/fone22.png" group-title="Entertainment",Digital Fashion
+http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 
 ########################## NEWS INTERNASIONAL ##########################
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL TV", Times Of India 
