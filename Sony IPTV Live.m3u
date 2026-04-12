@@ -31,6 +31,8 @@ http://as31.digitalsynapsebd.com:8446/;stream.mp3
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T Sports BD
 https://tv.ottking.top/webottking/linkchor/14.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PSL 🇵🇰🏏🔖
+https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index_5.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PSL 🇵🇰🏏🔖
 https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PSL 🇵🇰🏏🔖
 https://pslurdu.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
@@ -145,6 +147,8 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 
 ########################## Football 🛜 ##########################
+#EXTINF:-1 tvg-logo="" group-title="Football",DS1_ENC_LIVE 
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Shoel Sports 
 https://kbl-stream.movie.af/live/smil:solhetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sky Sports 1
