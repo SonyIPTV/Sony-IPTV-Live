@@ -28,6 +28,8 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",   Radio Bater BD 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকব
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",🇧🇩🏏🇳🇿 ODI Fancode BD
+https://bd-mc-fblive.fancode.com/mumbai/142066_english_hls_7f8785aea031495_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T Sports BD
 https://tv.ottking.top/webottking/linkchor/14.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PSL 🇵🇰🏏🔖
