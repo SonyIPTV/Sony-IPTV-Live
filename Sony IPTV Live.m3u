@@ -29,9 +29,9 @@ https://stream.spicefmbd.com/stream.m3u8
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",🇧🇩🏏🇳🇿 ODI Fancode BD
-https://bd-mc-fblive.fancode.com/mumbai/142066_english_hls_7f8785aea031495_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",T Sports BD
-https://tv.ottking.top/webottking/linkchor/14.m3u8
+https://fancode-bd-srhady.vercel.app/new_zealand_vs_bangladesh_142067_english.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Ban Women vs SL Women BD
+https://fancode-bd-srhady.vercel.app/sri_lanka_women_vs_bangladesh_women_142072_english.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PSL 🇵🇰🏏🔖
 https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index_5.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PSL 🇵🇰🏏🔖
