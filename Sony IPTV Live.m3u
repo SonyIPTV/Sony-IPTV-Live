@@ -29,36 +29,23 @@ https://stream.spicefmbd.com/stream.m3u8
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Tsports
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports BD
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD
+http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",PTV
 http://198.195.239.50:8095/PTV-kutta/video.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",StarSportsSelect1
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports Select 1 HD
 http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",🇧🇩🏏🇳🇿 ODI Fancode BD
-https://fancode-bd-srhady.vercel.app/new_zealand_vs_bangladesh_142067_english.m3u8
+
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Ban Women vs SL Women BD
-https://fancode-bd-srhady.vercel.app/sri_lanka_women_vs_bangladesh_women_142072_english.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PSL 🇵🇰🏏🔖
-https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index_5.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PSL 🇵🇰🏏🔖
-https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PSL 🇵🇰🏏🔖
-https://pslurdu.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",TSportss BD
-https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
+
+
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Tapmad 🇧🇩 🆚 🇵🇰 🏏
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T Sport HD 🇧🇩 📡✴ 🏏 Pakistan 🆚 Bangladesh
 http://198.195.239.50:8095/Tsports/index.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩
-https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩
-https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports HD 🇺🇸
 http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
