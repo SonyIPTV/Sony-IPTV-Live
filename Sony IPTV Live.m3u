@@ -28,7 +28,8 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",   Radio Bater BD 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকব
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
-
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",🇧🇩🏏🇳🇿 T20 Fancode BD
+https://bd-mc-fblive.fancode.com/mumbai/142069_english_hls_6969e83ef889269_1ta-di_h264/1080p.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports BD
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD
@@ -37,10 +38,6 @@ http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/PTV-kutta/video.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports Select 1 HD
 http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",🇧🇩🏏🇳🇿 ODI Fancode BD
-
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Ban Women vs SL Women BD
-
 
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Tapmad 🇧🇩 🆚 🇵🇰 🏏
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
