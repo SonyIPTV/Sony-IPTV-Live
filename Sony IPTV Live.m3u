@@ -51,6 +51,8 @@ http://198.195.239.50:8095/Tsports/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports HD 🇺🇸
 http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports HD 🇺🇸
+http://27.124.71.27/Willow_Extra/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",PTV Sports HD 🇵🇰
 http://198.195.239.50:8095/PTV-kutta/video.m3u8
