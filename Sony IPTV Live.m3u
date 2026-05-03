@@ -31,12 +31,14 @@ https://stream.spicefmbd.com/stream.m3u8
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",🇧🇩🏏🇳🇿 T20 Ban BD
-https://bd-mc-fblive.fancode.com/mumbai/142071_english_hls_66f3de04538249_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PSL T20 Tapmad
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-E2-W3o5r7l9d_Feed/master.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",🇧🇩🏏🇳🇿 T20 Fancode BD
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_D-English/level_4.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",🇧🇩🏏🇳🇿 T Sports BD
+https://cdn1.ctgiptv.com/t-sports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Willow-Cricket HD
+https://cdn1.ctgiptv.com/willow-cricket/tracks-v1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PTV Sports pk HD
+https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports BD
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD
