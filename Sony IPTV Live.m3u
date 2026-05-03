@@ -37,6 +37,8 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-E2-W3o5r7l9d_Feed/m
 https://cdn1.ctgiptv.com/t-sports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Willow-Cricket HD
 https://cdn1.ctgiptv.com/willow-cricket/tracks-v1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Willow-Cricket HD
+http://kstv.us:8080/live/qdxkt3R5pH/5118349267/15965.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PTV Sports pk HD
 https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports BD
