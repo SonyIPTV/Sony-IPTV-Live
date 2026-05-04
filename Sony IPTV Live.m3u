@@ -31,8 +31,8 @@ https://stream.spicefmbd.com/stream.m3u8
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PSL🇵🇰 Final 2026 Tapmad
-https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Sky Sports Cricket
+http://185.94.79.41/1766/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",🇧🇩🏏🇳🇿 T Sports BD
 https://cdn1.ctgiptv.com/t-sports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Willow-Cricket HD
