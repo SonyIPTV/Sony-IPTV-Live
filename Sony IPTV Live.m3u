@@ -49,6 +49,9 @@ http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/PTV-kutta/video.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports Select 1 HD
 http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",A Sports HD
+http://198.195.239.50:8095/Eurosport/index.m3u8
+
 
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Tapmad 🇧🇩 🆚 🇵🇰 🏏
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
