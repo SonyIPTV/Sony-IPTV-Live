@@ -35,6 +35,8 @@ http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 #EXTINF:-1 tvg-id="tapmad-13219" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780696481020x576.jpg" group-title="Cricket 🏏", Bangladesh vs Pakistan Live 
 https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u#:~:text=https%3A//premierleagpl23.akamaized.net/hls/live/2107108/tapmad%2DP2s6L_FiN%40L%2DUrU/master.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Ban vs Pak FANCODE LIVE
+https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235974353_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",🇧🇩🏏🇳🇿 T Sports BD
 https://cdn1.ctgiptv.com/t-sports/tracks-v1a1/mono.ts.m3u8
