@@ -40,12 +40,8 @@ https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce23599256_1ta-di
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Scotland_vs_Nepal FANCODE LIVE
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/scotland_vs_nepal_142292_english.m3u8
 
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",🇧🇩🏏🇳🇿 T Sports BD
-https://cdn1.ctgiptv.com/t-sports/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Willow-Cricket HD
-https://cdn1.ctgiptv.com/willow-cricket/tracks-v1/mono.ts.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Willow-Cricket HD
-http://kstv.us:8080/live/qdxkt3R5pH/5118349267/15965.m3u8
+#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T Sports BD
+http://103.59.176.72:8083/live1/video.m3u8?token=123
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PTV Sports pk HD
 https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports BD
