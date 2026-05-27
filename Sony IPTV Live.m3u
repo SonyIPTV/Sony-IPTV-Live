@@ -18,6 +18,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",G Series Drama 🇧🇩
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Saudi TV
+http://198.195.239.50:8095/PTV-kutta/video.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Saudia Arabia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Live Quran TV 🎯 📡
@@ -35,13 +37,7 @@ http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 #EXTINF:-1 tvg-id="tapmad-13219" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780696481020x576.jpg" group-title="Cricket 🏏",Willow Extra Live 
 http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Ban vs Pak FANCODE LIVE
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Scotland_vs_Nepal FANCODE LIVE
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/scotland_vs_nepal_142292_english.m3u8
 
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", T Sports BD
-http://103.59.176.72:8083/live1/video.m3u8?token=123
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PTV Sports pk HD
 https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports BD
@@ -56,17 +52,8 @@ http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/Eurosport/index.m3u8
 
 
-#EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",Tapmad 🇧🇩 🆚 🇵🇰 🏏
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", PTV Sport HD 🇧🇩 📡✴
 https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports HD 🇺🇸
-http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports HD 🇺🇸
-http://27.124.71.27/Willow_Extra/index.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",PTV Sports HD 🇵🇰
-http://198.195.239.50:8095/PTV-kutta/video.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",A Sports HD 🇵🇰
 http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
