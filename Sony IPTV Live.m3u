@@ -35,6 +35,13 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/PG7zf8xb/download.jpg",   Radio Bater BD 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকব
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow HD 🇺🇸
+https://tvsen5.aynaott.com/willowhd/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",PTV Sports HD 🇵🇰
+https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="tapmad-13219" tvg-logo=" " group-title="Cricket 🏏",Willow Extra Live 
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏",PTV Sports pk HD
