@@ -38,8 +38,9 @@ https://stream.spicefmbd.com/stream.m3u8
 http://as31.digitalsynapsebd.com:8446/;stream.mp3
 
 
-#EXTINF:-1 tvg-id="tapmad-13485" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg" group-title="Cricket 🏏", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13485" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg" group-title="Cricket 🏏", Bangladesh 🇧🇩 VS San Marino ⚽
+#https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
+https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1780680307~acl=/hls/*~hmac=4fa95599b2e0e6849b96979799ce293247457004bce3186956ccab2e07f02bdb
 #EXTINF:-1 tvg-id="tapmad-13485" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg" group-title="Cricket 🏏", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",🏏🏏Eng vs NZ🏏🏏
