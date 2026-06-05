@@ -148,6 +148,9 @@ https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 http://10.111.200.30/live/feed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FTP 📺",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 
 http://10.111.200.30/live/feed1001/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="Cricket 🏏",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶 Speed Line
+http://flix.11plus.live:8083/TSportsHD/tracks-v1a1/mono.m3u8?token=3e44697822eeb6ea5c0e86f4ec161a1d91a13239-03589ad6ce351aeb7d9c4fa0161fca66-1780691486-1780680686
 =========================================== Times Play ===========================================
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Movies", Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
