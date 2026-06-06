@@ -32,28 +32,23 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", FIFA World Cup 2026
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", BTV 🇧🇩 FIFA World Cup 2026
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", FIFA World Cup 2026
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Somoy 🇧🇩 FIFA World Cup 2026
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", FIFA World Cup 2026 🇦🇷[coming]
-http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", FIFA World Cup 2026 🇧🇷[coming]
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Coze TV FIFA World Cup 2026 🇧🇷
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", FIFA World Cup 2026 🇮🇳[coming]
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Color Cineplex 🇮🇳 FIFA World Cup 2026 🇮🇳
 http://66.102.126.10:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", FIFA World Cup 2026 🇮🇳[coming]
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Unite 8 Sports 🇮🇳 HD FIFA World Cup 2026 
 http://66.102.126.10:8000/play/a022/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",  #EXTINF:-1,#http://66.102.126.10:8000/play/a076/index.m3u8
-http://103.204.43.87:8080/live/1/1/266.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Test
-http://66.102.126.10:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Unite 2 Sports 🇮🇳 HD FIFA World Cup 2026 
 http://103.204.43.87:8080/live/1/1/264.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", FIFA World Cup 2026 🇵🇰[coming]
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports 🇵🇰 FIFA World Cup 2026 
 http://103.204.43.87:8080/live/1/1/313.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", FIFA World Cup 2026 [coming]
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", FIFA TV World Cup 2026 
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Somoy TV
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Somoy TV 🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 
