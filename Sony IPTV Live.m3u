@@ -28,9 +28,13 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WAZ TV 🎯 📡
 https://tplay.live/originals/ilm-tv/index.m3u8
-
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", IND vs AFG One-Off Test Match
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/hdntl=exp=1780891359~acl=%2f*~data=hdntl~hmac=92708ca3793b177b9058da68fb477549517a8884c7ed17c8ff75e63252349bf4/level_0.m3u8
+
+
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", BTV 🇧🇩 FIFA World Cup 2026
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
