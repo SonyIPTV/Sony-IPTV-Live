@@ -33,7 +33,8 @@ https://stream.spicefmbd.com/stream.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", BAN vs AUS One-Day Match Mirpur
 https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1780987538&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=de27527a270db6696537cd0c42fd982d
-
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ind A vs Sl A : Sony liv
+https://dai.google.com/ssai/event/610T6zw_RZizGMCL-IDSDQ/master.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", BTV 🇧🇩 FIFA World Cup 2026
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
