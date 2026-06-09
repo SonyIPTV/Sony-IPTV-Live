@@ -31,8 +31,8 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", IND vs AFG One-Off Test Match
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/hdntl=exp=1780891359~acl=%2f*~data=hdntl~hmac=92708ca3793b177b9058da68fb477549517a8884c7ed17c8ff75e63252349bf4/level_0.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", BAN vs AUS One-Day Match Mirpur
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8?hdnts=exp=1780983311~acl=/hls/*~hmac=7e6e685dd8f71e56f2d69a76d9ae2cd3219919f16ba05c96cf12261aba0c7ff3
 
 
 
