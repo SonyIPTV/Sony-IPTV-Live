@@ -7,34 +7,8 @@
        Playlist: রিফ্রেস করলেই অটো আপডেট হয়ে যাবে অথবা ডিভাইস অন অফ করলেই আপডেট যেটা আসবে ওটা লোড হয়ে যাবে অটো
 # 📺 Channels Count : 🚨 300+ 🚨
 #=================================...
-
+################################################### FIFA World Cup 2026 ⚽ ####################################################
 #EXTM3U
-######################## Cricket 🏏 ####################################################
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/cXTjmmtP/Star-News.png",Star News HD 🇧🇩
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png",Channel 1 News HD 🇧🇩
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",G Series Drama 🇧🇩
-https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Discovery_Asia HD
-https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Saudi TV
-http://198.195.239.50:8095/PTV-kutta/video.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Saudia Arabia
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Live Quran TV 🎯 📡
-https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WAZ TV 🎯 📡
-https://tplay.live/originals/ilm-tv/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
-https://stream.spicefmbd.com/stream.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", BAN vs AUS One-Day Match TAPMAD
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_4.m3u8
-
-
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh",T Sports HD
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",PTV Sports HD 🇵🇰
@@ -62,9 +36,64 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Somoy TV 🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",BTV 🇧🇩
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="", T Sports HD 🇧🇩
+http://103.151.61.12/T-Sports.kutta/video.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",T Sports HD 🇧🇩
+http://103.179.25.147:8181/T-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",T Sports HD 🇧🇩
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",T Sports HD 🇧🇩
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
+#EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",PTV Sports
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",TYC Sports HD
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",TYC Sports HD
+http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",Caze_TV_BR HD
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",FIFA TV 1
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",FIFA TV 2
+https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="", Fox Sports 2 HD
+https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238
+
+
+
+################################################### Cricket 🏏 ####################################################
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/cXTjmmtP/Star-News.png",Star News HD 🇧🇩
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png",Channel 1 News HD 🇧🇩
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",G Series Drama 🇧🇩
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Discovery_Asia HD
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Saudi TV
+http://198.195.239.50:8095/PTV-kutta/video.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Saudia Arabia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Live Quran TV 🎯 📡
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WAZ TV 🎯 📡
+https://tplay.live/originals/ilm-tv/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
+https://stream.spicefmbd.com/stream.m3u8
+
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", BAN vs AUS One-Day Match TAPMAD
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_4.m3u8
+
 #EXTINF:-1 tvg-id="tapmad-13485" tvg-logo" " group-title="Cricket 🏏", Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports 1 HD
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD
+https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow HD 🇺🇸
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",A Sports HD 🇵🇰
