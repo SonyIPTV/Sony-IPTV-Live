@@ -42,7 +42,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",BTV 🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="", T Sports HD 🇧🇩
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/tsports-fifa.png"group-title="FIFA World Cup 2026" group-title="", T Sports HD 🇧🇩
 http://103.151.61.12/T-Sports.kutta/video.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",T Sports HD 🇧🇩
 http://103.179.25.147:8181/T-SPORTS/tracks-v1a1/mono.m3u8
