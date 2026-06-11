@@ -9,6 +9,8 @@
 #=================================...
 ################################################### FIFA World Cup 2026 ⚽ ####################################################
 #EXTM3U
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", FWC 2026 with Himel OP
+https://himelhimuishere.pages.dev/fwc26.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://tvassets.roarzone.net/images/tsports-fifa.png", T Sports 🇧🇩 
 https://tvsen7.aynaott.com/tsports-hd/index.ts.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh",TNT Sports ARG Premium
