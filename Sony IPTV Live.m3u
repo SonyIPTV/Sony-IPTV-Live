@@ -11,6 +11,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", ESPN VIVO
 https://sportsonline.ppvtv.top/proxy?url=https%3A%2F%2F14xaf7b749uz.54434687.net%3A8443%2Fhls%2Facgg75tlvrxeh-314339400.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", 2DF
+https://sportsonline.ppvtv.top/proxy?url=https%3A%2F%2F14xaf7b749uz.54434687.net%3A8443%2Fhls%2F1n55vjab4n8zc-2579177970.ts
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh",T Sports HD
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",PTV Sports HD 🇵🇰
