@@ -87,6 +87,8 @@ https://stream.spicefmbd.com/stream.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", BAN vs AUS One-Day Match TAPMAD
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_4.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", India A vs Afghanistan A
+https://dai.google.com/ssai/event/610T6zw_RZizGMCL-IDSDQ/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-13485" tvg-logo" " group-title="Cricket 🏏", Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
