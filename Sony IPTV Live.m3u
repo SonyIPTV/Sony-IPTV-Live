@@ -9,10 +9,6 @@
 #=================================...
 ################################################### FIFA World Cup 2026 ⚽ ####################################################
 #EXTM3U
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", ESPN VIVO
-https://sportsonline.ppvtv.top/proxy?url=https%3A%2F%2F14xaf7b749uz.54434687.net%3A8443%2Fhls%2Facgg75tlvrxeh-314339400.ts
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", 2DF
-https://sportsonline.ppvtv.top/proxy?url=https%3A%2F%2F14xaf7b749uz.54434687.net%3A8443%2Fhls%2F1n55vjab4n8zc-2579177970.ts
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh",T Sports HD
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",PTV Sports HD 🇵🇰
@@ -29,7 +25,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/791.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", FIFA World Cup 2026 ⚽  
 https://live.elheddaftv.com:8081/elheddaf/index.mpd
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", BTV 🇧🇩 FIFA World Cup 2026
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://tvassets.roarzone.net/images/btv-fifa.png", BTV 🇧🇩 FIFA World Cup 2026
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Somoy 🇧🇩 FIFA World Cup 2026
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
