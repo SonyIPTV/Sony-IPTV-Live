@@ -15,6 +15,10 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/ma
 http://198.195.239.50:8095/T-spo_rts-hoichoi24/video.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://tvassets.roarzone.net/images/tsports-fifa.png", T Sports Full HD 🇧🇩 
 http://198.195.239.50:8095/T-spo_rts-hoichoi24/video.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://tvassets.roarzone.net/images/tsports-fifa.png",T Sports 🇧🇩
+https://amitomar.bdixbd.net/hoichoi.pro1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://tvassets.roarzone.net/images/tsports-fifa.png",T Sports 🇧🇩
+http://103.151.61.12/T-Sports.kutta/video.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Somoy TV 🇧🇩
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",PTV Sports HD 🇵🇰
