@@ -23,7 +23,14 @@ https://no-red.pages.dev/liveop2.m3u8
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",TYC Sports HD
 http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
-
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bein max2
+http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Max1
+http://go8knm.optikl.ink/X/index.php/Besyria2/video.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",4k HDR
+http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", TRT Spor ⚽
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
 ################################################### Cricket 🏏 ####################################################
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/cXTjmmtP/Star-News.png",Star News HD 🇧🇩
