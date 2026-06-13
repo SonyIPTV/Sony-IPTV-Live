@@ -12,6 +12,14 @@
 
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", FWC 2026 with Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Somoy TV 🇧🇩
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Somoy TV 🇧🇩
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Somoy TV 🇧🇩
+http://103.151.60.188:1111/Somoy-TV-SD-700kb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Somoy TV 🇧🇩
+http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", T Sports HD 🇧🇩
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", T Sports HD
@@ -26,10 +34,10 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bein Sports 1 Max 🇫🇷 🇶🇦
 https://no-red.pages.dev/liveop2.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Somoy TV 🇧🇩
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Somoy TV 🇧🇩
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bein Sports
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bein Sports Tekrar
+https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",TYC Sports HD
 http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bein max2
