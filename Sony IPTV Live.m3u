@@ -33,6 +33,8 @@ http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBa
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", T Sports HD
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", PTV Sports HD 🇵🇰
+https://master.ajmainearafat.workers.dev/?url=https://live6.asimxtech.online/ptv/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", PTV Sports HD
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", D Sports
