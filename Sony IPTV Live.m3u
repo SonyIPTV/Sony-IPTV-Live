@@ -10,10 +10,16 @@
 ################################################### FIFA World Cup 2026 ⚽ ####################################################
 #EXTM3U
 
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", FWC 2026 with Tapmad
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", FWC 2026 with Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh",Bioscope Plus 🇧🇩
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bioscope Plus 🇧🇩
 https://streamsportixa.ajmainearafat.workers.dev/live.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://i.postimg.cc/hjQwQXST/20260613-104845.jpg",FIFA WC.Full.HD 🇧🇩
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", FWC 2026 Football HD1080p
 https://xtream.lazyspace.online/uplink/play/742610/lmND4qC9ustQ/live/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh",ফুটবল বিশ্বকাপ বাংলায় শুনুন 
