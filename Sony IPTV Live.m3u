@@ -14,8 +14,10 @@
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bioscope Plus 🇧🇩
 https://streamsportixa.ajmainearafat.workers.dev/live.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",🇦🇺 অস্ট্রেলিয়া 🆚 তুরস্ক 🇹🇷 
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", 🇦🇺 অস্ট্রেলিয়া 🆚 তুরস্ক 🇹🇷 
 https://live05.msdht.app/live/08552895.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", 🇦🇺 অস্ট্রেলিয়া 🆚 তুরস্ক 🇹🇷 
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://i.postimg.cc/hjQwQXST/20260613-104845.jpg",FIFA WC.FULL.HD 🇧🇩
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
