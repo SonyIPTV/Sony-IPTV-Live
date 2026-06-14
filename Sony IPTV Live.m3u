@@ -183,6 +183,12 @@ https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+#EXTINF:-1 tvg-id="Fancode2" tvg-name="Fancode 2" tvg-logo="" group-title="Cricket 🏏",Willow By Cricbuzz
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c2072eebd0c39d2c984486dce6db1c6:4d559001220025d97bad51b564f5a25b
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/chuh09adm3/out/v1/4a3cef726289450fbc48e7dc0147fa0e/cenc.mpd
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Fubo Sports 1 🎯 📡 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
