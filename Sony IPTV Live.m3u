@@ -10,7 +10,7 @@
 ################################################### FIFA World Cup 2026 ⚽ ####################################################
 #EXTM3U
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV Live 🇧🇩
-http://103.14.151.101:11/FIFA/2026/hoichoi24com/tvnetwork2/manik-kuttar-baccha-telegram-batpar.m3u8
+https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Go Live Sports
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
@@ -258,6 +258,10 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
+#EXTINF:-1 tvg-id="DAZN FAST.de" tvg-logo="https://epg.ovh/logo/DAZN+Fast.png" group-title="Cricket 🏏",DAZN FAST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
