@@ -10,8 +10,12 @@
 ################################################### FIFA World Cup 2026 ⚽ ####################################################
 #EXTM3U
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV Live 🇧🇩
+#https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
-
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite 8 Sports 1 HD 🇮🇳 Hindi
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite 8 Sports 2 HD
+http://202.70.146.135:8000/play/a06s/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Go Live Sports
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Go Live Sports Himel OP
