@@ -170,7 +170,7 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://shorturl.at/77pDH", BAN vs AUS T20 Match Fancode
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/australia_vs_bangladesh_142969_english.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://shorturl.at/77pDH", BAN vs AUS One-Day Match TAPMAD
-https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1781857507~acl=/hls/*~hmac=b7a328e5b48def6cf520f1e06fb6be7507afefca10e9c82e48b302298413459c
+https://serieAleague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", India vs Afghanistan
 https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD
