@@ -18,84 +18,28 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 https://kazimmt.ami.bd/playlist/TF/TF-3.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Toffee Sports 🇧🇩
 https://kazimmt.ami.bd/playlist/TF/TF-2.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports HD UCS
-http://113.21.231.219:789/Tsports/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TPV Sport
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite 8 Sports 1 HD 🇮🇳 Hindi
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite 8 Sports 2 HD
-http://202.70.146.135:8000/play/a06s/index.m3u8
+
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Go Live Sports
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Go Live Sports Himel OP
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="FIFA World Cup 2026", FOX SPORTS 1 Espeno ⚽
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="FIFA World Cup 2026",FOX SPORTS 2 Espeno
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
-
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Alwan Sport 2
-https://stream.kurdtv.live/alwan-sport-2/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",BEIN MAX 1
-https://stream.kurdtv.live/bein-max/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",BEIN MAX 2
-https://stream.kurdtv.live/bein-max-2/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",NEXT TV
 https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",World Cup TV
-http://46.101.169.21/ch299/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",TSN 1 HD
-https://d24e5b9p9scf3j.cloudfront.net/newi/1/fronts.woff2?&.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bioscope Plus 🇧🇩
-#https://streamsportixa.ajmainearafat.workers.dev/live.m3u8
-https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",DAZN Spanish Commentators 
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", 🇦🇺 🇹🇷 
-https://live05.msdht.app/live/08552895.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", FIFA Live 🇦🇺 🇹🇷 
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Fifa World cup
 https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
 
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://i.postimg.cc/hjQwQXST/20260613-104845.jpg",FIFA WC FULL HD 🇧🇩
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
-
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://i.postimg.cc/zfjBKhMd/20260612-205515.jpg",D Sports 4K 🇦🇷
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
-
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://i.postimg.cc/rFPRDbK0/20260612-205544.jpg",Zee Bangla commentary  🇮🇳
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", 🇮🇳 UNITEB Sports 2 HD
 https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", TVP Sports
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", FWC 2026 Football HD 1080p
-https://xtream.lazyspace.online/uplink/play/742610/lmND4qC9ustQ/live/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh",ফুটবল বিশ্বকাপ বাংলায় শুনুন 
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 1 Max Arabic
@@ -113,8 +57,6 @@ http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBa
 
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", T Sports HD 🇧🇩
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", T Sports HD
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", PTV Sports HD 🇵🇰
 http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
@@ -127,22 +69,12 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bein Sports Direct 🇫🇷
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bein Sports 1 Max 🇫🇷 🇶🇦
-https://no-red.pages.dev/liveop2.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Sports 🇫🇷 🇶🇦
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Fox 5 Sports 🇫🇷 🇶🇦
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bein Sports
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bein Sports Tekrar
 https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",TYC Sports HD
-http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bein max2
-http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Max1
-http://go8knm.optikl.ink/X/index.php/Besyria2/video.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",4k HDR
-http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", TRT Spor ⚽
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
