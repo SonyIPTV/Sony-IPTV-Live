@@ -16,6 +16,8 @@ http://10.111.200.30/live/feed1001/index.m3u8
 https://trs1.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite Sports Eng FIFA 
 http://198.195.239.50:8095/unt-s/video.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",Somoy TV HD
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",Toffee English
 https://cdn-tt.pages.dev/ch5.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",T Sports Akash DTH 
@@ -24,18 +26,11 @@ http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein SPORTS max NS Player MUST
 https://ranapkbd.site/JOIN@RANAPK33/XT/play.m3u8?id=146122
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Toffee Sports 🇧🇩
-https://kazimmt.ami.bd/playlist/TF/TF-3.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Toffee Sports 🇧🇩
-https://kazimmt.ami.bd/playlist/TF/TF-2.m3u8
+
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TPV Sport
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fox Sport Fifa
 http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Go Live Sports
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Go Live Sports Himel OP
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",NEXT TV
 https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
 
