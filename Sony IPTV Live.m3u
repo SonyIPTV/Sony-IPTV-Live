@@ -20,8 +20,12 @@ http://198.195.239.50:8095/unt-s/video.m3u8
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",Toffee English
 https://cdn-tt.pages.dev/ch5.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",Toffee 
+https://sm-monirul.top/tof/live/toffee4/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bioscope+
 https://tahmidx.cinemoja2.workers.dev/live/FIFA-2026-4/0/master_2000.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bioscope+
+https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_2.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", FIFA Raw Broadcast
 https://tahmidx.cinemoja2.workers.dev/live/FIFA-2026-4/0/master_2000.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",T Sports Akash DTH 
