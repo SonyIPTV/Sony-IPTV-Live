@@ -19,6 +19,8 @@ https://cricxtv.fun/bioscope.php?file=index_3.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",Toffee HD
 https://cricxtv.fun/server5.php?stream.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",PTV HD
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",BTV HD 
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",BTV HD 
