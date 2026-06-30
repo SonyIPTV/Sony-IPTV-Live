@@ -14,9 +14,11 @@ http://10.111.200.30/live/feed1001/index.m3u8
 
 
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq", Toffee 
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782752427~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdkVLnF_1m2Dju5_Xgh1D-kL5L0X8ufa91GQfkVr3DjRjxYfYqbnR4ALyZPp8vwBrwDhOgbfcF3q36IERFRSWsE
+
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FIFA World Cup 2026",PTV Sports 📶
 http://198.195.239.50:8095/Fifa-1/video.m3u8
+#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FIFA World Cup 2026",PTV Sports 📶
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FIFA World Cup 2026",Bioscope +
 https://cricxtv.fun/bioscope.php?file=index_3.m3u8
 
