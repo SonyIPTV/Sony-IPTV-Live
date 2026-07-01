@@ -19,11 +19,7 @@ http://10.111.200.30/live/feed1001/index.m3u8
 http://198.195.239.50:8095/Fifa-1/video.m3u8
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FIFA World Cup 2026",PTV Sports 📶
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FIFA World Cup 2026",Bioscope +
-https://cricxtv.fun/bioscope.php?file=index_3.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",Toffee HD
-https://cricxtv.fun/server5.php?stream.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",PTV HD
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",BTV HD 
@@ -31,8 +27,6 @@ http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",BTV HD NS
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371
 
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",Arabic Sports HD
-https://we.smarop.store/spoos1_720/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",T Sports HD
 http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite Sports Eng FIFA 
@@ -41,24 +35,13 @@ http://198.195.239.50:8095/unt-s/video.m3u8
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Somoy TV 🇧🇩
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",Toffee English
-https://inproviszon.st/telemundo-usa.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",Toffee 
-https://proxy1.livekhela.qzz.io/stream1/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bioscope+
-https://tahmidx.cinemoja2.workers.dev/live/FIFA-2026-4/0/master_2000.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bioscope+
-https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_2.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", FIFA Raw Broadcast
-https://tahmidx.cinemoja2.workers.dev/live/FIFA-2026-4/0/master_2000.m3u8
+
+
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",T Sports Akash DTH 
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", China TV
-https://www.rtmpcdn.com/live/amty.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite8 SPORTS Hindi NS Player MUST
 https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein SPORTS max NS Player MUST
-https://ranapkbd.site/JOIN@RANAPK33/XT/play.m3u8?id=146122
+
 
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TPV Sport
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
