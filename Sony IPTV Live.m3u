@@ -12,7 +12,11 @@
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FIFA World Cup 2026",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶
 http://10.111.200.30/live/feed1001/index.m3u8
 
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bioscope Live
+https://rajutv.pages.dev/proxy?url=https%3A%2F%2Fdalvikcmpsr.ahmedtahsindipto.workers.dev%2Fr%2Fhttps%253A%252F%252Ffifa-stream-01.bioscopelive.com%252Fout%252Fv1%252F60e7608404004b1186261497b404630b%252Findex_1.m3u8
 
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Iscreeen
+https://cricxtv.fun/isceen.php?file=https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/tc_sg_1_1080p.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq", Toffee 
 http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FIFA World Cup 2026",PTV Sports 📶
