@@ -14,7 +14,7 @@ http://10.111.200.30/live/feed1001/index.m3u8
 
 
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq", Toffee 
-
+http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FIFA World Cup 2026",PTV Sports 📶
 http://198.195.239.50:8095/Fifa-1/video.m3u8
 #EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FIFA World Cup 2026",PTV Sports 📶
