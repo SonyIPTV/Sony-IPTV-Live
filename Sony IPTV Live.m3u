@@ -30,6 +30,8 @@ http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",BTV HD 
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",BTV HD 
+http://180.94.28.28:8097/BTV/index.fmp4.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",BTV HD NS
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371
 
