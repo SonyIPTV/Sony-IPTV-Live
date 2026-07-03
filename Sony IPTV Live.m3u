@@ -900,8 +900,19 @@ http://peridot.streamguys.com:7150/Mirchi
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
 
 
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Utrun Broadband",Channel 1
+http://172.16.16.200/tv1/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Utrun Broadband",Channel 2
+http://172.16.16.200/tv2/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Utrun Broadband",Channel 3
+http://172.16.16.200/tv3/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Utrun Broadband",Channel 4
+http://172.16.16.200/tv4/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Utrun Broadband",Channel 5
+http://172.16.16.200/tv5/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Utrun Broadband",Channel 6
+http://172.16.16.200/tv6/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Utrun Broadband",Channel 7
+http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
 
 
-
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", FWC 2026 with Bioscope+  Only NS Player
-https://d1voy022wjnlk0.bioscopelive.com/out/v1/0bbe405e711143b8af5ee21b80b5b0cc/index.m3u8|x-authorization=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYzJkYjE1MjJmMDU0ZDg1Yzc3NmFmZjlkNDU2NjcxODNlNmZlNWNjYWUwYjAwNWI1OTVhMTAxY2RmNDNlYmIyY2YzMTBiZDExMTZlOTQ4YjEiLCJpYXQiOjE3ODA3OTcxMzEuNTQwNDAxLCJuYmYiOjE3ODA3OTcxMzEuNTQwNDAzLCJleHAiOjE4MTIzMzMxMzEuNTM1MDMyLCJzdWIiOiIxODAwMDA4NDg5MDA2NjUzNDQiLCJzY29wZXMiOlsibWFuYWdlX3Byb2ZpbGVzIl19.a6GUyqbwLfixROwUhNTzaYrrYBgVR6FHI_40FpjZ9l7P20WHcv-7AbEz-XPYhGnb1Q9JHAKdMA9pBY1Od2UZsYeEw6f7Myjc0VK2kqqXdagwHTlIHvHwxkoTVfpagQNiJF4ffJZ_6j87aCR6PEUEuTWQwjnLjbnvBpu0cgLUr5p56sHGm0mGV_vbIFirvZHVYwxLZGjBmo-njpfZcvuQPq5sUT3n-j4VNX4sh8tsvaAJaqlXLnq-DIGTBGNu9efsHNTiMzFUk5gEOYlWnNGewcbsuDsP3QFINeUBRzjBP9bPXjHfv5tmvKfQaExPZgFpxpWpZyQ5PZnmuxvWawNMKLBGV3qWqNPeVc1Fphhac3vloTNtMK5UP7EZtDRUQoJWra1irCMYn0ao1oEzfrtinhw038aNSe9z5EmF_tCi0XnQigVJM_XLwmgWbVxsWq92iC3HU2dHcelqMNiFk9gMleKIgGVA2sDeLfNsM0pco8656R7TySgSBycVvTyyU4_G1QVafpmPp5Lcmhi4KxVBAOAhY5iy0ZLDC4jO366wy_5yguY7sVPb6JWiUATVcBsLbvIPmgM9laQEZttxLMPHpnlPwUGljip5J61E235GXAV-WStahGaagjgja7dDRFwPVzvlMzSX9S7MpyVyRejmre60x8HvXkgCLhEfEn027YM
