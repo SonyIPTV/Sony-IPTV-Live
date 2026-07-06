@@ -106,12 +106,8 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", India vs Ireland 
-https://zubayerop.short.gy/IND-V-IRE-2.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://shorturl.at/77pDH", BAN vs ZIM Test Match Fancode
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://shorturl.at/77pDH", BAN vs ZIM Test Match Tapmad
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Zimbabwe Vs Bangladesh
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143400_english.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://shorturl.at/77pDH", Sky Sports
 https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Fox Sports 501
