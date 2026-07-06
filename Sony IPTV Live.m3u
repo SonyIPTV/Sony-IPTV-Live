@@ -25,15 +25,8 @@ https://cdn-tt.pages.dev/ch1.m3u8
 https://cricxtv.fun/isceen.php?file=https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/tc_sg_1_1080p.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq", Toffee 
 http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FIFA World Cup 2026",PTV Sports 📶
-http://198.195.239.50:8095/Fifa-1/video.m3u8
-#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FIFA World Cup 2026",PTV Sports 📶
-http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",PTV HD
-http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",BTV HD 
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",BTV HD 
 http://180.94.28.28:8097/BTV/index.fmp4.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",BTV HD NS
