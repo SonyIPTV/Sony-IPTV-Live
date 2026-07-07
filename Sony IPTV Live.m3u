@@ -13,29 +13,20 @@
 http://10.111.200.30/live/feed1001/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fox Sports HD
 https://hex4y.short.gy/FC-26/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Iranian Sports TV
-https://edge22.776740.ir.cdn.ir/hls2/tv3.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports HD
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bioscope Live
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Toffee Live
 https://cdn-tt.pages.dev/ch1.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Iscreeen
-https://cricxtv.fun/isceen.php?file=https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/tc_sg_1_1080p.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq", Toffee 
 http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
 
-
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",BTV HD 
-http://180.94.28.28:8097/BTV/index.fmp4.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://surl.li/kjoykq",BTV HD NS
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",T Sports HD
 http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite Sports Eng FIFA 
-http://198.195.239.50:8095/unt-s/video.m3u8
+
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",Somoy TV HD
 http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Somoy TV 🇧🇩
