@@ -300,6 +300,8 @@ https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 ########################## Bangladeshi 📺 ##########################
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpgK51Ff/Akash-Digital.png" group-title="Bangladesh*",Independent TV 🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpgK51Ff/Akash-Digital.png" group-title="Bangladesh*",Independent TV 🇧🇩
+http://103.175.242.10:8080/independent/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpgK51Ff/Akash-Digital.png" group-title="Bangladesh*",Channel 24  🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpgK51Ff/Akash-Digital.png" group-title="Bangladesh*",News 24 🇧🇩
