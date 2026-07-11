@@ -59,6 +59,8 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", India Tour of England 2026 T20 Match
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Zimbabwe Vs Bangladesh
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Zimbabwe Vs Bangladesh
@@ -67,6 +69,9 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_ba
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bost_defenders_vs_mis_e_ainak_knights_143599_english.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", India Women's Tour of England 2026 
 https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8
+
+
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://shorturl.at/77pDH", Sky Sports
 https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Fox Sports 501
