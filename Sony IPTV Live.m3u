@@ -17,7 +17,10 @@ https://hex4y.short.gy/FC-26/index.m3u8
 http://103.165.93.31:8095/unt-s/video.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Toffee Live
 #http://fifabangladesh.top/BRAZIL2/LIVE/play.m3u8?q=1300
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1000.m3u8?hdntl=Expires=1783904318~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGU5MDJhOGItNTUxNC00YzY3LThkMDktODNiNmNlYjU3ZDdkIn0~Signature=AWIR_5HUBIJ63ZW5MFLxommb9OaApk1VNDxoMUnBZvG5PLUoZ-wN7WEhanEElZw4zYs7vjUXhEPqNw7Eu4J1AnqAc9cH
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Las Estrails 
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_3.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Las Estrails 
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_5.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports HD
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",T Sports HD
