@@ -68,6 +68,14 @@ https://stream.spicefmbd.com/stream.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", LPL Fancode
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/dambulla_sixers_vs_kandy_royals_4246709_english.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809397.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Sports HD 
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", WILLOW CRICKET EXTRA HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809387.m3u8
+#EXTINF:-1 tvg-id="tapmad-13219" tvg-logo=" " group-title="Cricket 🏏",Willow Extra Live 
+http://27.124.71.27/Willow_Extra/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", India Tour of England 2026 Odi Match
 https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
@@ -80,8 +88,7 @@ https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Fox Sports 501
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
-#EXTINF:-1 tvg-id="tapmad-13219" tvg-logo=" " group-title="Cricket 🏏",Willow Extra Live 
-http://27.124.71.27/Willow_Extra/index.m3u8
+
 #EXTINF:-1 tvg-id="Fancode2" tvg-name="Fancode 2" tvg-logo="" group-title="Cricket 🏏",Fancode 1 Live
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
