@@ -37,6 +37,10 @@ http://stream.mcquack.net/72/index.m3u8
 http://145.239.5.177/557a/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fox Sports HD
 http://206.212.244.63/63/index.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Unite8 sports 1
+http://103.155.18.186:8000/play/a125/index.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Unite8 sports 2
+http://103.155.18.186:8000/play/a126/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Somoy TV 🇧🇩
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite8 SPORTS Hindi NS Player MUST
