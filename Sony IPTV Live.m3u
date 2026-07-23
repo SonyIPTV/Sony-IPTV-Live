@@ -46,9 +46,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/80
 #EXTINF:-1 tvg-id="tapmad-13219" tvg-logo=" " group-title="Cricket 🏏",Willow Extra Live 
 http://27.124.71.27/Willow_Extra/index.m3u8
 
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Zimbabwe Vs Bangladesh
-
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Unite8 sports 1
 http://103.155.18.186:8000/play/a125/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",  Unite8 sports 2
@@ -57,19 +54,6 @@ http://103.155.18.186:8000/play/a126/index.m3u8
 https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Fox Sports 501
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
-
-#EXTINF:-1 tvg-id="Fancode2" tvg-name="Fancode 2" tvg-logo="" group-title="Cricket 🏏",Fancode 1 Live
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-#EXTINF:-1 tvg-id="Fancode2" tvg-name="Fancode 2" tvg-logo="" group-title="Cricket 🏏",Fancode 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
 
 #EXTINF:-1 tvg-id="DAZN FAST.de" tvg-logo="https://epg.ovh/logo/DAZN+Fast.png" group-title="Cricket 🏏",DAZN FAST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
