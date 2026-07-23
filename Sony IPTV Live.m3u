@@ -35,12 +35,16 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", IND VS ZIM T20 Fancode
+https://bd-mc-pdlive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", LPL Fancode
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/colombo_kaps_vs_kandy_royals_4246723_english.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sri Lanka Women Vs Pakistan Women
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_women_vs_pakistan_women_4247425_english.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ten Cricket HD
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Pk Sports  HD
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
