@@ -7,55 +7,6 @@
        Playlist: রিফ্রেস করলেই অটো আপডেট হয়ে যাবে অথবা ডিভাইস অন অফ করলেই আপডেট যেটা আসবে ওটা লোড হয়ে যাবে অটো
 # 📺 Channels Count : 🚨 300+ 🚨
 #=================================...
-################################################### FIFA World Cup 2026 ⚽ ####################################################
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png" group-title="FIFA World Cup 2026",🔲 𝗢𝗻𝗹𝘆 𝗠𝘆 𝗙𝗧𝗣 📶
-http://10.111.200.30/live/feed1001/index.m3u8
-
-
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Mundial Sports HD
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Iscreen NS Player Only
-#http://103.165.93.31:8095/tsports/video.m3u8
-#https://ld58dqz8ajj8.rockstreamer.com/isc_ssai/isc_ssai_ads/playlist.m3u8?|referer=https://iscreen.com.bd/
-https://lkjhgf-zxcvbnmq.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f7a7fea1b1ea557843549782f9b/main.m3u8%7Creferer=https://iscreen.com.bd/
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",unt-s Sports HD
-http://103.165.93.31:8095/unt-s/video.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV
-#http://fifabangladesh.top/BRAZIL2/LIVE/play.m3u8?q=1300
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports HD
-http://103.165.93.31:8095/Fifa-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV HD
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg",T Sports HD
-http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", QAZ Sports HD
-http://stream.mcquack.net/72/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports Direct HD
-http://145.239.5.177/557a/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fox Sports HD
-http://206.212.244.63/63/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Unite8 sports 1
-http://103.155.18.186:8000/play/a125/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Unite8 sports 2
-http://103.155.18.186:8000/play/a126/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", Somoy TV 🇧🇩
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite8 SPORTS Hindi NS Player MUST
-https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
-
-#EXTINF:-1 group-title="FIFA World Cup 2026"tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TPV Sport
-https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", 4K HD TV
-https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 1 Max Arabic
-http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bein Sports
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Bein Sports Tekrar
-https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
 
 ################################################### Cricket 🏏 ####################################################
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/cXTjmmtP/Star-News.png",Star News HD 🇧🇩
@@ -64,6 +15,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png",Channel 1 News HD 🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", 4K HD TV
+https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",G Series Drama 🇧🇩
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Discovery_Asia HD
@@ -96,9 +49,10 @@ http://27.124.71.27/Willow_Extra/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Zimbabwe Vs Bangladesh
 
-
-
-
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Unite8 sports 1
+http://103.155.18.186:8000/play/a125/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",  Unite8 sports 2
+http://103.155.18.186:8000/play/a126/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://shorturl.at/77pDH", Sky Sports
 https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Fox Sports 501
@@ -131,7 +85,12 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 
 ########################## Football 🛜 ##########################
-
+#EXTINF:-1 tvg-logo="" group-title="Football", Bein Sports Direct HD
+http://145.239.5.177/557a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", QAZ Sports HD
+http://stream.mcquack.net/72/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Mundial Sports HD
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",MuxIP-SportsFirst TV🎯
 https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Football",A SPOR
@@ -212,6 +171,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpgK51Ff/Akash-Digital.png" group-title="Bangladesh*",Somoy TV 🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpgK51Ff/Akash-Digital.png" group-title="Bangladesh*",Somoy TV 🇧🇩
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpgK51Ff/Akash-Digital.png" group-title="Bangladesh*",Ekattor TV 🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpgK51Ff/Akash-Digital.png" group-title="Bangladesh*",Jamuna TV 🇧🇩
@@ -264,6 +225,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", NTV TV UK
 https://ap02.iqplay.tv:8082/iqb8002/nt589v/chunks.m3u8
 
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",BTV 🇧🇩
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",BTV 🇧🇩
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",DBC টিভি 🇧🇩 
